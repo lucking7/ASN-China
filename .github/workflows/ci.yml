@@ -23,8 +23,7 @@ jobs:
       - name: Run Python
         run: |
           python scripts/IP_CN.py
-          python scripts/ASN_CN.py
-          python scripts/ASN_US.py
+          python scripts/ASN_generator.py
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update IP List
