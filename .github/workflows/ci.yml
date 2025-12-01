@@ -1,0 +1,36 @@
+name: Update ASN List and Country MMDB
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 16 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests lxml maxminddb mmdb-writer netaddr
+
+      - name: Update ASN Lists
+        run: python scripts/ASN_generator.py
+
+      - name: Generate Country MMDB (Lite)
+        run: python scripts/Country_mmdb.py
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update ASN lists and Country.mmdb"
+
+
