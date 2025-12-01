@@ -1,5 +1,5 @@
 // ASN Information in Singapore. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2025-12-01 00:47:09
+// Last Updated: UTC 2025-12-01 04:45:19
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,24482 // SG.GS
@@ -44,13 +44,13 @@ IP-ASN,963 // N963 PTE. LTD.
 IP-ASN,134148 // SingAREN
 IP-ASN,132829 // Nevigate Communications (S) Pte Ltd
 IP-ASN,7387 // ONBOARDCLOUD PTE. LTD.
-IP-ASN,138552 // RTB HOUSE PTE. LTD.
 IP-ASN,141389 // GOIP BUSINESS SOLUTION PTE. LTD.
+IP-ASN,138552 // RTB HOUSE PTE. LTD.
 IP-ASN,7595 // Readyspace Cloud Services
 IP-ASN,142160 // JOYO TECHNOLOGY PTE. LTD.
+IP-ASN,55518 // Singapore Internet Exchange Limited
 IP-ASN,64010 // BasicBrix LLP
 IP-ASN,135066 // Schroders Investment Management (Singapore) Limited
-IP-ASN,55518 // Singapore Internet Exchange Limited
 IP-ASN,4817 // Simba Telecom Pte Ltd
 IP-ASN,151404 // 3GO TECHNOLOGY PTE. LTD.
 IP-ASN,141995 // Contabo Asia Private Limited
@@ -157,7 +157,6 @@ IP-ASN,137061 // Flex Ltd.
 IP-ASN,136169 // DBS Bank Ltd
 IP-ASN,135525 // Exoduspoint Capital Management Singapore, Pte. Ltd.
 IP-ASN,135074 // DREAM CLOUD INNOVATION PTE. LTD.
-IP-ASN,135002 // Singapore Exchange Limited
 IP-ASN,134981 // UBER SINGAPORE TECHNOLOGY PTE. LTD
 IP-ASN,134534 // ATT NBE Equinix Singapore
 IP-ASN,133794 // ABN Amro Clearing Sydney Pty Ltd
@@ -256,6 +255,7 @@ IP-ASN,135600 // Whiz Communications Pte Ltd
 IP-ASN,135102 // ZOHO CORPORATION PTE. LTD.
 IP-ASN,135048 // Singapore Pools (Private) Limited
 IP-ASN,135008 // GOVERNMENT TECHNOLOGY AGENCY
+IP-ASN,135002 // Singapore Exchange Limited
 IP-ASN,134998 // Green Packet Global Pte. Ltd.
 IP-ASN,134594 // AVNET ASIA PTE LTD
 IP-ASN,134474 // Micro Cloud Technology Pte. Ltd.
