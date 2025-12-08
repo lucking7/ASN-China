@@ -1,5 +1,5 @@
 // ASN Information in Japan. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2025-12-07 16:01:05
+// Last Updated: UTC 2025-12-08 16:01:21
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,2907 // Research Organization of Information and Systems, National Institute of Informatics
@@ -17,9 +17,9 @@ IP-ASN,9605 // NTT DOCOMO, INC.
 IP-ASN,131958 // Tama Cable Network Co.,Ltd.
 IP-ASN,7522 // STNet, Incorporated
 IP-ASN,9354 // Community Network Center Inc.
-IP-ASN,214675 // Hidenori Matsuo
-IP-ASN,2519 // ARTERIA Networks Corporation
 IP-ASN,4713 // NTT DOCOMO BUSINESS,Inc.
+IP-ASN,2519 // ARTERIA Networks Corporation
+IP-ASN,214675 // Hidenori Matsuo
 IP-ASN,18283 // Chupicom Inc.
 IP-ASN,9370 // SAKURA Internet Inc.
 IP-ASN,59110 // BPS Inc.
@@ -251,12 +251,12 @@ IP-ASN,131965 // Xserver Inc.
 IP-ASN,63798 // Industrial Cyber Security Center of Excellence
 IP-ASN,59102 // GENES Co., Ltd.
 IP-ASN,4673 // NTT DATA CORPORATION
-IP-ASN,37904 // BBIX, Inc.
 IP-ASN,139358 // Kansuiun Co., Ltd
 IP-ASN,18092 // Kyushu Tele Communications Company
 IP-ASN,17948 // EditNet, Incorporated
 IP-ASN,7514 // Computer Engineering & Consulting, Ltd.
 IP-ASN,55381 // CITY-CABLE SHUNAN Corporation
+IP-ASN,37904 // BBIX, Inc.
 IP-ASN,150366 // demae-can co. ltd
 IP-ASN,131925 // FAMILY NET JAPAN INCORPORATED
 IP-ASN,10013 // FreeBit Co.,Ltd.
@@ -467,7 +467,6 @@ IP-ASN,17953 // BroadBand Security, Inc.
 IP-ASN,17950 // SaiNet
 IP-ASN,17947 // SAKURA KCS Corporation.
 IP-ASN,17937 // NIKKEI ADVANCED SYSTEMS INC.
-IP-ASN,17905 // Commerzbank AG
 IP-ASN,17701 // Seinan Gakuin University
 IP-ASN,17694 // Deutsche Bank Group, Japan BGP connection
 IP-ASN,17693 // YAMATO SYSTEM DEVELOPMENT CO., LTD.
@@ -496,6 +495,7 @@ IP-ASN,142165 // Bosch Corporation
 IP-ASN,141757 // Zoho Japan Corporation
 IP-ASN,140501 // Itiviti Japan K.K.
 IP-ASN,139472 // Catalina Marketing Japan K.K.
+IP-ASN,137508 // rainbow network limited
 IP-ASN,137008 // 1120 Shimokuzawa Chuo-ku Sagamihara-shi Kanagawa-ken
 IP-ASN,136796 // CORELINK JAPAN
 IP-ASN,136779 // Schneider Electric Japan Ltd
@@ -639,7 +639,6 @@ IP-ASN,23788 // JCOM Co., Ltd.
 IP-ASN,23784 // SQUARE ENIX CO., LTD.
 IP-ASN,23781 // Toyama University
 IP-ASN,23720 // Rakuten Mobile Network, Inc.
-IP-ASN,23637 // Equinix Japan Enterprise K.K.
 IP-ASN,23635 // CRCCMedia Co.,ltd
 IP-ASN,23631 // Sofu System, Inc
 IP-ASN,23623 // Chuo University
@@ -671,6 +670,7 @@ IP-ASN,17957 // SOUTH TOKYO CABLETELEVISION
 IP-ASN,17946 // Gifu University
 IP-ASN,17941 // Equinix Japan Enterprise K.K.
 IP-ASN,17936 // Cable  Television  Kani Co.,Inc.
+IP-ASN,17905 // Commerzbank AG
 IP-ASN,17699 // ARTERIA Networks Corporation
 IP-ASN,17698 // COMMUNITY NETWORK CENTER INCORPORATED.
 IP-ASN,17687 // National University Corporation Nagoya University
@@ -737,6 +737,7 @@ IP-ASN,215871 // xTom Japan Corporation
 IP-ASN,214772 // CHEN LUOAN
 IP-ASN,214430 // Takahiro Fukushima
 IP-ASN,213471 // YAMAMOTO Hiroshi
+IP-ASN,203168 // RIPE NCC ASN block
 IP-ASN,199436 // BangLong Yang
 IP-ASN,199266 // REI MIMURA
 IP-ASN,151382 // CIRCLE
