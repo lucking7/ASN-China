@@ -1,5 +1,5 @@
 // ASN Information in Japan. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2025-12-09 16:01:24
+// Last Updated: UTC 2025-12-10 16:01:43
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,2907 // Research Organization of Information and Systems, National Institute of Informatics
@@ -18,16 +18,16 @@ IP-ASN,131958 // Tama Cable Network Co.,Ltd.
 IP-ASN,7522 // STNet, Incorporated
 IP-ASN,9354 // Community Network Center Inc.
 IP-ASN,214675 // Hidenori Matsuo
-IP-ASN,2519 // ARTERIA Networks Corporation
 IP-ASN,4713 // NTT DOCOMO BUSINESS,Inc.
+IP-ASN,2519 // ARTERIA Networks Corporation
 IP-ASN,18283 // Chupicom Inc.
 IP-ASN,9370 // SAKURA Internet Inc.
 IP-ASN,59110 // BPS Inc.
 IP-ASN,54415 // WIZ K.K.
 IP-ASN,63802 // Nippon Telegraph and Telephone East Corporation
 IP-ASN,9434 // Internet Initiative Japan, Inc.
-IP-ASN,7679 // QTnet,Inc.
 IP-ASN,10010 // TOKAI Communications Corporation
+IP-ASN,7679 // QTnet,Inc.
 IP-ASN,38631 // LY Corporation
 IP-ASN,17511 // OPTAGE Inc.
 IP-ASN,55569 // Criteo APAC
@@ -38,8 +38,8 @@ IP-ASN,7660 // Asia Pacific Advanced Network - Japan
 IP-ASN,17961 // mitene internet co., ltd.
 IP-ASN,9607 // BroadBand Tower, Inc.
 IP-ASN,17534 // NSK Co.,Ltd.
-IP-ASN,17686 // ACCELIA
 IP-ASN,138384 // Rakuten Mobile Network, Inc.
+IP-ASN,17686 // ACCELIA
 IP-ASN,9371 // SAKURA Internet Inc.
 IP-ASN,7524 // ITEC HANKYU HANSHIN CO.,LTD.
 IP-ASN,131948 // FORNEXT Inc.
@@ -51,7 +51,6 @@ IP-ASN,18260 // EHIME CATV CO.,LTD.
 IP-ASN,9595 // NTT-ME Corporation
 IP-ASN,7506 // GMO Internet Group, Inc.
 IP-ASN,59123 // Kakaku.com, Inc.
-IP-ASN,18077 // Yamaguchi Cable Vision Co.,Ltd
 IP-ASN,7530 // BroadBand Tower, Inc.
 IP-ASN,4694 // IDC Frontier Inc.
 IP-ASN,2527 // Sony Network Communications Inc.
@@ -62,11 +61,11 @@ IP-ASN,7687 // TOYOTA SYSTEMS CORPORATION
 IP-ASN,23783 // Cable Networks Akita Co.,ltd.
 IP-ASN,18126 // Chubu Telecommunications Company, Inc.
 IP-ASN,18081 // Kintetsu Cable Network Co., Ltd.
+IP-ASN,18077 // Yamaguchi Cable Vision Co.,Ltd
 IP-ASN,17939 // miyazaki cabletelevision network Co.,LTD
 IP-ASN,138968 // rainbow network limited
 IP-ASN,55900 // GLBB Japan KK
 IP-ASN,2514 // NTT PC Communications, Inc.
-IP-ASN,23780 // CTB Media Inc.
 IP-ASN,18278 // Cable TV Corporation
 IP-ASN,17958 // Kasaoka Cable Vision Co,LTD.
 IP-ASN,17685 // SQUARE ENIX CO., LTD.
@@ -74,6 +73,7 @@ IP-ASN,7682 // HOKKAIDO TELECOMMUNICATIONS NETWORK Co., Inc.
 IP-ASN,59126 // NCT CO.,LTD.
 IP-ASN,3258 // xTom Japan Corporation
 IP-ASN,24279 // SENDAI CATV CO.,LTD.
+IP-ASN,23780 // CTB Media Inc.
 IP-ASN,23629 // Obihiro City Cable Co.,Ltd.
 IP-ASN,17934 // National Institute of Information and Communications Technology
 IP-ASN,131931 // Aomori Cable TV Co., Ltd.
@@ -85,7 +85,6 @@ IP-ASN,18150 // NetComBB Co.,Ltd.
 IP-ASN,17683 // Wingtechnology Communications, Inc.
 IP-ASN,9597 // KDDI Web Communications Inc.
 IP-ASN,38628 // HIMEJI CABLE TELEVISION CORPORATION
-IP-ASN,23778 // IMIZU CABLE NETWORK CO.,LTD.
 IP-ASN,18121 // Ishikawa Computer Center Co.,LTD.
 IP-ASN,139076 // EnjoyVC Japan Corporation
 IP-ASN,10019 // Matsusaka Cable-TV Station Inc.
@@ -94,6 +93,7 @@ IP-ASN,7668 // Hokuriku Telecommunication Network Co.
 IP-ASN,7511 // SYNAPSE Co.,Ltd.
 IP-ASN,4680 // Mitsubishi Electric Information Network Corporation
 IP-ASN,24253 // J-Stream Inc.
+IP-ASN,23778 // IMIZU CABLE NETWORK CO.,LTD.
 IP-ASN,18274 // Utsunomiya Cable TV Corporation
 IP-ASN,18268 // Naganoken Kyodou Densan Co.Ltd.
 IP-ASN,131937 // Joetsu Cable Vision
@@ -253,10 +253,10 @@ IP-ASN,59102 // GENES Co., Ltd.
 IP-ASN,4673 // NTT DATA CORPORATION
 IP-ASN,139358 // Kansuiun Co., Ltd
 IP-ASN,7514 // Computer Engineering & Consulting, Ltd.
+IP-ASN,37904 // BBIX, Inc.
 IP-ASN,18092 // Kyushu Tele Communications Company
 IP-ASN,17948 // EditNet, Incorporated
 IP-ASN,55381 // CITY-CABLE SHUNAN Corporation
-IP-ASN,37904 // BBIX, Inc.
 IP-ASN,150366 // demae-can co. ltd
 IP-ASN,131925 // FAMILY NET JAPAN INCORPORATED
 IP-ASN,10013 // FreeBit Co.,Ltd.
@@ -353,7 +353,6 @@ IP-ASN,18122 // Advanced Software Technology & Management
 IP-ASN,17932 // Japan Advanced Institute of Science and Technology
 IP-ASN,17691 // NDS Co., Ltd.
 IP-ASN,17509 // STARNET Co.,Ltd.
-IP-ASN,152868 // THX Corp.
 IP-ASN,152724 // Point72 Japan Limited
 IP-ASN,151386 // NHN Cloud Japan Corporation
 IP-ASN,146980 // Tokyo Metropolitan College of Industrial Technology Infomation System Engineering Course
@@ -477,6 +476,7 @@ IP-ASN,17516 // NTT COMWARE CORPORATION
 IP-ASN,17506 // ARTERIA Networks Corporation
 IP-ASN,17505 // SoftBank Corp.
 IP-ASN,152869 // ICJ, Inc.
+IP-ASN,152868 // THX Corp.
 IP-ASN,152865 // Tokyo University of Technology Linux Club
 IP-ASN,152859 // UNIADEX, LTD.
 IP-ASN,152645 // Flextech Inc.
@@ -737,7 +737,6 @@ IP-ASN,215871 // xTom Japan Corporation
 IP-ASN,214772 // CHEN LUOAN
 IP-ASN,214430 // Takahiro Fukushima
 IP-ASN,213471 // YAMAMOTO Hiroshi
-IP-ASN,203168 // RIPE NCC ASN block
 IP-ASN,199436 // BangLong Yang
 IP-ASN,199266 // REI MIMURA
 IP-ASN,151382 // CIRCLE
