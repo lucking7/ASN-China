@@ -1,5 +1,5 @@
 // ASN Information in Singapore. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2025-12-24 16:01:12
+// Last Updated: UTC 2025-12-25 16:01:09
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,24482 // SG.GS
@@ -20,11 +20,11 @@ IP-ASN,137182 // BLUE WIRELESS PTE LTD
 IP-ASN,137831 // SEA IX
 IP-ASN,134078 // NETPLUZ HOLDINGS PRIVATE LIMITED
 IP-ASN,208959 // SlashN Services Pte. Ltd.
-IP-ASN,3758 // SingNet
 IP-ASN,56308 // TELEKOMUNIKASI INDONESIA INTERNATIONAL, PTE.LTD
+IP-ASN,3758 // SingNet
 IP-ASN,17547 // M1 NET LTD
-IP-ASN,131219 // Indosat Singapore Pte. Ltd.
 IP-ASN,150436 // Byteplus Pte. Ltd.
+IP-ASN,131219 // Indosat Singapore Pte. Ltd.
 IP-ASN,55518 // Singapore Internet Exchange Limited
 IP-ASN,132132 // MyRepublic Ltd.
 IP-ASN,4773 // MobileOne Ltd. Mobile/Internet Service Provider Singapore
@@ -34,11 +34,11 @@ IP-ASN,138699 // TIKTOK PTE. LTD.
 IP-ASN,10024 // LGA International
 IP-ASN,152144 // LIGHTSTORM ASIA PTE. LTD.
 IP-ASN,931 // Hyonix
-IP-ASN,23856 // SPTEL PTE. LTD.
 IP-ASN,140577 // Ahrefs Pte Ltd
+IP-ASN,23856 // SPTEL PTE. LTD.
 IP-ASN,134363 // EZIT Solutions Pte Ltd
-IP-ASN,963 // N963 PTE. LTD.
 IP-ASN,137991 // Lifeway Singapore Pte. Ltd.
+IP-ASN,963 // N963 PTE. LTD.
 IP-ASN,139225 // Whatbox Inc.
 IP-ASN,140719 // 201309973N
 IP-ASN,4628 // Pacific Internet Pte Ltd
@@ -61,8 +61,8 @@ IP-ASN,7610 // NUS Gigapop
 IP-ASN,151404 // 3GO TECHNOLOGY PTE. LTD.
 IP-ASN,9664 // SOUTHEAST ASIA TELECOM(SG) PTE. LTD.
 IP-ASN,9419 // Nanyang Technological University
-IP-ASN,139883 // SPTEL PTE. LTD.
 IP-ASN,133456 // ALAGAS NETWORK PTE. LTD.
+IP-ASN,139883 // SPTEL PTE. LTD.
 IP-ASN,151358 // Finovy Pte. Ltd.
 IP-ASN,141389 // GOIP BUSINESS SOLUTION PTE. LTD.
 IP-ASN,56172 // Agora Communications Pte Ltd
@@ -77,15 +77,15 @@ IP-ASN,132696 // SGIX Services
 IP-ASN,212628 // ARTRUBY PTE. LTD.
 IP-ASN,141384 // Internet Society Asia Limited
 IP-ASN,139070 // Google Asia Pacific Pte. Ltd.
+IP-ASN,149981 // Edgenext Legend Dynasty Pte. Ltd.
 IP-ASN,136041 // Singapore Telecom, ConnectPlus
 IP-ASN,24319 // Akamai Technologies Tokyo ASN
 IP-ASN,202736 // WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD.
-IP-ASN,149981 // Edgenext Legend Dynasty Pte. Ltd.
+IP-ASN,134190 // IPDC SOLUTIONS PTE LTD
 IP-ASN,4765 // Pacific Internet Pte Ltd
 IP-ASN,45166 // Pacific Internet Pte Ltd
 IP-ASN,213122 // Krixe Pte. Ltd.
 IP-ASN,149020 // WebHorizon Internet Services
-IP-ASN,134190 // IPDC SOLUTIONS PTE LTD
 IP-ASN,141190 // Jindun Technology PTE. Ltd.
 IP-ASN,133748 // CORETEL NETWORKS (INTERNATIONAL) PTE LTD
 IP-ASN,59253 // LEASEWEB SINGAPORE PTE. LTD.
@@ -100,15 +100,14 @@ IP-ASN,134677 // Dromatics Systems Pte Ltd
 IP-ASN,10146 // Ford Motor Company
 IP-ASN,59345 // CME Group Singapore Operations Pte Ldt.
 IP-ASN,55855 // PLAYPARK PTE. LTD.
-IP-ASN,45938 // 3 Tai Seng drive # 04-00
 IP-ASN,152475 // BGPNET PTE. LTD.
 IP-ASN,142002 // Scloud Pte Ltd
 IP-ASN,137962 // GREYPANEL PTE LTD
 IP-ASN,136733 // Racks Central Pte Ltd
-IP-ASN,9874 // StarHub Ltd
 IP-ASN,9649 // Information Technology Office
 IP-ASN,56311 // Morgan Stanley Management Service (Singapore) Pte. Ltd
 IP-ASN,56197 // KDDI ASIA PACIFIC PTE. LTD.
+IP-ASN,45938 // 3 Tai Seng drive # 04-00
 IP-ASN,45445 // General Motors Korea, Bupyeong
 IP-ASN,38532 // Exabytes Network (Singapore) Pte. Ltd.
 IP-ASN,38325 // WTP
@@ -129,6 +128,7 @@ IP-ASN,135530 // Acronis Asia Pte. Ltd
 IP-ASN,135354 // NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD.
 IP-ASN,132204 // CORETEL NETWORKS (INTERNATIONAL) PTE LTD
 IP-ASN,10082 // Morgan Stanley Management Service (Singapore) Pte. Ltd
+IP-ASN,9874 // StarHub Ltd
 IP-ASN,9234 // Sol One Application Delivery Network
 IP-ASN,59241 // Goldman Sachs (Asia) L.L.C.
 IP-ASN,59210 // PhoenixNAP
@@ -158,7 +158,6 @@ IP-ASN,135525 // Exoduspoint Capital Management Singapore, Pte. Ltd.
 IP-ASN,135074 // DREAM CLOUD INNOVATION PTE. LTD.
 IP-ASN,134534 // ATT NBE Equinix Singapore
 IP-ASN,133794 // ABN Amro Clearing Sydney Pty Ltd
-IP-ASN,133622 // Bottomline Technologies Pte. Ltd.
 IP-ASN,133327 // Flextronics International Ltd.
 IP-ASN,133136 // MyRepublic Ltd.
 IP-ASN,132016 // IRESS Market Technology Ltd
@@ -191,6 +190,7 @@ IP-ASN,45634 // 10 Science Park Road
 IP-ASN,45470 // 8 to Infinity Pte Ltd
 IP-ASN,45139 // Microsoft Corp
 IP-ASN,45133 // Singapore Polytechnic
+IP-ASN,401556 // VINAGPU LLC
 IP-ASN,399114 // Hyonix
 IP-ASN,38282 // Morgan Stanley Management Service (Singapore) Pte. Ltd
 IP-ASN,38258 // Sony - ASN for Asia Pacific
@@ -232,7 +232,6 @@ IP-ASN,140578 // BNP Paribas India Solutions Pvt. Ltd
 IP-ASN,140362 // DIGISIGMA PTE. LTD.
 IP-ASN,139690 // DBS Bank Ltd
 IP-ASN,139349 // Diebold Nixdorf Singapore PTE. LTD.
-IP-ASN,139291 // INFINITIUM HOLDINGS PTE. LTD.
 IP-ASN,139028 // Singapore Technologies Engineering Ltd
 IP-ASN,138610 // SAP SE
 IP-ASN,138606 // Suga Pte. Ltd
@@ -260,6 +259,7 @@ IP-ASN,134407 // MediaCorp Pte Ltd
 IP-ASN,133912 // MediaCorp Pte Ltd
 IP-ASN,133891 // Fidessa ltd
 IP-ASN,133735 // McKinsey & Company
+IP-ASN,133622 // Bottomline Technologies Pte. Ltd.
 IP-ASN,133587 // Bain and Company
 IP-ASN,133471 // SYNAPXE PTE. LTD.
 IP-ASN,133470 // SYNAPXE PTE. LTD.
@@ -267,7 +267,6 @@ IP-ASN,133466 // Robert Bosch GmbH
 IP-ASN,133462 // Texas Instruments, Inc.
 IP-ASN,133426 // Northtelecom PTE LTD
 IP-ASN,133422 // Aviva Asia Pte Ltd
-IP-ASN,133387 // GOVERNMENT TECHNOLOGY AGENCY
 IP-ASN,133134 // AION TECHNOLOGIES PTE LTD
 IP-ASN,133025 // InMobi Pte. Ltd.
 IP-ASN,133013 // AbbVie, Inc.
@@ -320,7 +319,6 @@ IP-ASN,45241 // General Motors Tech Center India. Bangalore
 IP-ASN,45143 // SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
 IP-ASN,4352 // EMERSON ASIA PACIFIC PRIVATE LIMITED
 IP-ASN,43081 // World News PTE. LTD
-IP-ASN,401556 // VINAGPU LLC
 IP-ASN,400061 // Hyonix
 IP-ASN,38321 // DOCOMO interTouch - Headquarter
 IP-ASN,38055 // APNIC ASN block
@@ -329,6 +327,7 @@ IP-ASN,23653 // BNP Paribas SG, Transit AS, Singapore
 IP-ASN,211103 // BUNGATEL Pte. Ltd.
 IP-ASN,210205 // WIRKOLA PTE. LTD
 IP-ASN,209942 // AIRGSM PTE. LTD
+IP-ASN,203548 // RIPE NCC ASN block
 IP-ASN,18228 // NCS IDC in Singapore
 IP-ASN,154373 // APNIC ASN block
 IP-ASN,154246 // Association of Small & Medium Enterprises
@@ -379,6 +378,7 @@ IP-ASN,139829 // RigNet Pte Ltd
 IP-ASN,139746 // FlexTrade Systems Pte Ltd
 IP-ASN,139739 // Hsin Yi Pte Ltd
 IP-ASN,139617 // ISEAS Yusof Ishak Institute
+IP-ASN,139291 // INFINITIUM HOLDINGS PTE. LTD.
 IP-ASN,138626 // AVALOQ SOURCING ASIA PACIFIC (SINGAPORE) PTE. LTD.
 IP-ASN,138593 // Diebold Nixdorf Singapore PTE. LTD.
 IP-ASN,138588 // Diebold Nixdorf Singapore PTE. LTD.
