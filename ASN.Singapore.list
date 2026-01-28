@@ -1,5 +1,5 @@
 // ASN Information in Singapore. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-01-27 16:02:48
+// Last Updated: UTC 2026-01-28 16:05:07
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,24482 // SG.GS
@@ -38,13 +38,13 @@ IP-ASN,150436 // Byteplus Pte. Ltd.
 IP-ASN,134363 // EZIT Solutions Pte Ltd
 IP-ASN,23856 // SPTEL PTE. LTD.
 IP-ASN,137991 // Lifeway Singapore Pte. Ltd.
-IP-ASN,4628 // Pacific Internet Pte Ltd
 IP-ASN,139225 // Whatbox Inc.
 IP-ASN,963 // N963 PTE. LTD.
-IP-ASN,140719 // 201309973N
 IP-ASN,140577 // Ahrefs Pte Ltd
-IP-ASN,7387 // ONBOARDCLOUD PTE. LTD.
+IP-ASN,4628 // Pacific Internet Pte Ltd
+IP-ASN,140719 // 201309973N
 IP-ASN,132829 // Nevigate Communications (S) Pte Ltd
+IP-ASN,7387 // ONBOARDCLOUD PTE. LTD.
 IP-ASN,138552 // RTB HOUSE PTE. LTD.
 IP-ASN,134148 // SingAREN
 IP-ASN,134078 // NETPLUZ HOLDINGS PRIVATE LIMITED
@@ -82,13 +82,13 @@ IP-ASN,141384 // Internet Society Asia Limited
 IP-ASN,139070 // Google Asia Pacific Pte. Ltd.
 IP-ASN,136041 // Singapore Telecom, ConnectPlus
 IP-ASN,202736 // WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD.
+IP-ASN,150288 // METAGE TECHNOLOGY PTE. LTD.
 IP-ASN,4765 // Pacific Internet Pte Ltd
 IP-ASN,24319 // Akamai Technologies Tokyo ASN
-IP-ASN,150288 // METAGE TECHNOLOGY PTE. LTD.
-IP-ASN,154324 // APNIC ASN block
+IP-ASN,154324 // AltusCloud Pte. Ltd.
+IP-ASN,134190 // IPDC SOLUTIONS PTE LTD
 IP-ASN,149020 // WebHorizon Internet Services
 IP-ASN,141190 // Jindun Technology PTE. Ltd.
-IP-ASN,134190 // IPDC SOLUTIONS PTE LTD
 IP-ASN,45166 // Pacific Internet Pte Ltd
 IP-ASN,213122 // Krixe Pte. Ltd.
 IP-ASN,136785 // TOFFS TECHNOLOGIES PTE LTD
@@ -330,7 +330,7 @@ IP-ASN,209942 // AIRGSM PTE. LTD
 IP-ASN,203548 // RIPE NCC ASN block
 IP-ASN,18228 // NCS IDC in Singapore
 IP-ASN,17886 // Matrix Networks Pte Ltd
-IP-ASN,154373 // APNIC ASN block
+IP-ASN,154373 // Singapore Data Cloud Pte Ltd
 IP-ASN,154319 // Oversea-Chinese Banking Corporation Limited
 IP-ASN,154316 // Oversea-Chinese Banking Corporation Limited
 IP-ASN,154246 // Association of Small & Medium Enterprises
@@ -366,7 +366,7 @@ IP-ASN,142110 // Northern Point Technology Private Limited
 IP-ASN,141883 // BGPNET PTE. LTD.
 IP-ASN,141697 // CrimsonLogic Pte Ltd
 IP-ASN,141678 // Private Limited Company
-IP-ASN,141409 // APNIC ASN block
+IP-ASN,141409 // 3K33 sp. z o.o.
 IP-ASN,141387 // Berkat Ltd
 IP-ASN,141235 // PrimeXM Networks (Singapore) PTE. LTD
 IP-ASN,141205 // Maybank Securities Pte Ltd
@@ -445,7 +445,7 @@ IP-ASN,212995 // HockWoo Tan
 IP-ASN,211747 // HYPR PTE. LTD.
 IP-ASN,204936 // WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD.
 IP-ASN,200078 // Gao Yijia
-IP-ASN,154392 // APNIC ASN block
+IP-ASN,154392 // Singapore Institute of Technology
 IP-ASN,139601 // Krixe Pte. Ltd.
 IP-ASN,139264 // Zhongfu Li
 IP-ASN,139062 // Synamedia Asia Private Ltd
