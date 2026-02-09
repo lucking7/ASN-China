@@ -1,5 +1,5 @@
 // ASN Information in Singapore. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-02-08 16:02:28
+// Last Updated: UTC 2026-02-09 16:17:04
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,24482 // SG.GS
@@ -28,8 +28,8 @@ IP-ASN,131219 // Indosat Singapore Pte. Ltd.
 IP-ASN,150436 // Byteplus Pte. Ltd.
 IP-ASN,4773 // MobileOne Ltd. Mobile/Internet Service Provider Singapore
 IP-ASN,132132 // MyRepublic Ltd.
-IP-ASN,4844 // SuperInternet ACCESS Pte Ltd
 IP-ASN,212628 // ARTRUBY PTE. LTD.
+IP-ASN,4844 // SuperInternet ACCESS Pte Ltd
 IP-ASN,10024 // LGA International
 IP-ASN,55518 // Singapore Internet Exchange Limited
 IP-ASN,138699 // TIKTOK PTE. LTD.
@@ -49,8 +49,8 @@ IP-ASN,138552 // RTB HOUSE PTE. LTD.
 IP-ASN,134148 // SingAREN
 IP-ASN,7595 // Readyspace Cloud Services
 IP-ASN,134078 // NETPLUZ HOLDINGS PRIVATE LIMITED
-IP-ASN,142160 // JOYO TECHNOLOGY PTE. LTD.
 IP-ASN,64010 // BasicBrix LLP
+IP-ASN,142160 // JOYO TECHNOLOGY PTE. LTD.
 IP-ASN,135066 // Schroders Investment Management (Singapore) Limited
 IP-ASN,4817 // Simba Telecom Pte Ltd
 IP-ASN,141995 // Contabo Asia Private Limited
@@ -85,8 +85,8 @@ IP-ASN,150288 // METAGE TECHNOLOGY PTE. LTD.
 IP-ASN,149981 // Edgenext Legend Dynasty Pte. Ltd.
 IP-ASN,24319 // Akamai Technologies Tokyo ASN
 IP-ASN,134190 // IPDC SOLUTIONS PTE LTD
-IP-ASN,4765 // Pacific Internet Pte Ltd
 IP-ASN,56172 // Agora Communications Pte Ltd
+IP-ASN,4765 // Pacific Internet Pte Ltd
 IP-ASN,213122 // Krixe Pte. Ltd.
 IP-ASN,149020 // WebHorizon Internet Services
 IP-ASN,141190 // Jindun Technology PTE. Ltd.
@@ -132,7 +132,6 @@ IP-ASN,135354 // NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD.
 IP-ASN,132204 // CORETEL NETWORKS (INTERNATIONAL) PTE LTD
 IP-ASN,10082 // Morgan Stanley Management Service (Singapore) Pte. Ltd
 IP-ASN,9874 // StarHub Ltd
-IP-ASN,9748 // DE-CIX Jakarta Route Servers
 IP-ASN,9234 // Sol One Application Delivery Network
 IP-ASN,59241 // Goldman Sachs (Asia) L.L.C.
 IP-ASN,59210 // PhoenixNAP
@@ -172,6 +171,7 @@ IP-ASN,9989 // Equinix Singapore Pte Ltd
 IP-ASN,9892 // Iconz-Webvisions Pte. Ltd.
 IP-ASN,9890 // ATOS Information Technology (Singapore) Pte Ltd
 IP-ASN,9877 // Ngee Ann Polytechnic Computer Center
+IP-ASN,9748 // DE-CIX Jakarta Route Servers
 IP-ASN,9656 // T-SYSTEMS SINGAPORE PTE LTD
 IP-ASN,9506 // Singtel Fibre Broadband
 IP-ASN,9292 // 21 Tampines Avenue 1
