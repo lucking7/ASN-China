@@ -1,5 +1,5 @@
 // ASN Information in Japan. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-02-15 16:01:56
+// Last Updated: UTC 2026-02-16 16:09:40
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,214675 // Hidenori Matsuo
@@ -286,6 +286,7 @@ IP-ASN,9357 // NRI SecureTechnologies, Ltd.
 IP-ASN,63805 // Ryobi Systems Co., Ltd.
 IP-ASN,59098 // Mamireimu Net Work's
 IP-ASN,4723 // Dolphin
+IP-ASN,38649 // The University of Electro-Communications
 IP-ASN,2510 // FUJITSU LIMITED
 IP-ASN,23642 // OBIS
 IP-ASN,151387 // OMURA CABLE TELEVISION K.K.
@@ -301,7 +302,6 @@ IP-ASN,59124 // KYOTO Prefectural Government
 IP-ASN,51044 // Kazuki Yamaguchi
 IP-ASN,45680 // DOVA Corporation
 IP-ASN,45679 // Tatsumi, Tomo
-IP-ASN,38649 // The University of Electro-Communications
 IP-ASN,37906 // GMO NetIRD, Inc.
 IP-ASN,37900 // NTT Communications Corporation
 IP-ASN,24477 // NetApp, Inc.
@@ -356,6 +356,7 @@ IP-ASN,137445 // PF LINK SYSTEMS
 IP-ASN,135372 // Columbia Sportswear Japan Inc
 IP-ASN,133900 // Gilead Sciences, Inc.
 IP-ASN,132211 // FX Corporate LLC
+IP-ASN,131971 // Japan Network Information Center
 IP-ASN,131917 // Toshiba I.S. corp
 IP-ASN,9991 // Hiroshima Shudo University
 IP-ASN,9591 // National Institute for Fusion Science
@@ -502,7 +503,6 @@ IP-ASN,131989 // PFU LIMITED
 IP-ASN,131987 // MC Digital Realty, Inc.
 IP-ASN,131983 // suo cablenet corporation
 IP-ASN,131981 // Takushoku University
-IP-ASN,131971 // Japan Network Information Center
 IP-ASN,131963 // MC Digital Realty, Inc.
 IP-ASN,131961 // Dokkyo University
 IP-ASN,131957 // MicroAd, Inc.
