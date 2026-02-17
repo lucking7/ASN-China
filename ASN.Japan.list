@@ -1,5 +1,5 @@
 // ASN Information in Japan. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-02-16 16:09:40
+// Last Updated: UTC 2026-02-17 16:15:09
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,214675 // Hidenori Matsuo
@@ -26,8 +26,8 @@ IP-ASN,9370 // SAKURA Internet Inc.
 IP-ASN,7679 // QTnet,Inc.
 IP-ASN,4777 // Asia Pacific Network Information Centre
 IP-ASN,10010 // TOKAI Communications Corporation
-IP-ASN,55569 // Criteo APAC
 IP-ASN,38631 // LY Corporation
+IP-ASN,55569 // Criteo APAC
 IP-ASN,17511 // OPTAGE Inc.
 IP-ASN,7529 // GMO NetIRD, Inc.
 IP-ASN,7670 // Enecom,Inc.
@@ -37,12 +37,12 @@ IP-ASN,17534 // NSK Co.,Ltd.
 IP-ASN,131948 // FORNEXT Inc.
 IP-ASN,9607 // BroadBand Tower, Inc.
 IP-ASN,138384 // Rakuten Mobile Network, Inc.
-IP-ASN,2527 // Sony Network Communications Inc.
 IP-ASN,17686 // ACCELIA
 IP-ASN,9595 // NTT-ME Corporation
 IP-ASN,7524 // ITEC HANKYU HANSHIN CO.,LTD.
 IP-ASN,138968 // rainbow network limited
 IP-ASN,9993 // ITOCHU Techno-Solutions Corporation
+IP-ASN,2527 // Sony Network Communications Inc.
 IP-ASN,23816 // LY Corporation
 IP-ASN,9371 // SAKURA Internet Inc.
 IP-ASN,59123 // Kakaku.com, Inc.
@@ -108,7 +108,6 @@ IP-ASN,18129 // OKAYAMA NETWORK INC.
 IP-ASN,18094 // Tokyo Cable Network.,INC
 IP-ASN,131930 // Tokyo Broadcasting System Television, Inc.
 IP-ASN,4711 // INTEC Inc.
-IP-ASN,37904 // BBIX, Inc.
 IP-ASN,17707 // AS for DATAHOTEL, which is one of iDC in Japan,
 IP-ASN,17682 // 296 BROAD NET Com Inc
 IP-ASN,17514 // Otsuka Corp.
@@ -124,6 +123,7 @@ IP-ASN,146976 // Kvision Co.,Ltd.
 IP-ASN,131923 // MCAT Ltd.
 IP-ASN,4678 // Canon IT Solutions Inc.
 IP-ASN,45691 // DODO K.K.
+IP-ASN,37904 // BBIX, Inc.
 IP-ASN,24257 // Japan Internet Xing Co., Ltd.
 IP-ASN,24249 // JWAY co., Ltd.
 IP-ASN,18135 // BTV CO.,LTD.
@@ -235,10 +235,10 @@ IP-ASN,131156 // LAC Co., Ltd.
 IP-ASN,10015 // Cyber Wave Japan Co., Ltd.
 IP-ASN,10011 // advanscope inc.
 IP-ASN,7503 // Air Internet Service Co.,Ltd.
-IP-ASN,23628 // Academic newtown Community Cable Service
 IP-ASN,4785 // xTom
-IP-ASN,24282 // KAGOYA JAPAN Inc.
 IP-ASN,23815 // Japan Internet Xing Co., Ltd.
+IP-ASN,23628 // Academic newtown Community Cable Service
+IP-ASN,24282 // KAGOYA JAPAN Inc.
 IP-ASN,17675 // PacketFabric (Japan) Co., Ltd.
 IP-ASN,131896 // SSI Lab Inc.
 IP-ASN,10003 // Ogaki Cable Television Co.,Inc.
@@ -472,6 +472,7 @@ IP-ASN,17516 // NTT COMWARE CORPORATION
 IP-ASN,17506 // ARTERIA Networks Corporation
 IP-ASN,17505 // SoftBank Corp.
 IP-ASN,152871 // TAIYO NIPPON SANSO CORPORATION
+IP-ASN,152870 // Incorporated Educational Institution Kaichigakuen
 IP-ASN,152869 // ICJ, Inc.
 IP-ASN,152868 // THX Corp.
 IP-ASN,152859 // UNIADEX, LTD.
@@ -679,7 +680,6 @@ IP-ASN,17510 // INFORMATION SERVICES INTERNATIONAL - DENTSU, LTD.
 IP-ASN,153929 // Allied Business Inc.
 IP-ASN,152875 // MEEQ Inc.
 IP-ASN,152874 // JONET
-IP-ASN,152870 // Incorporated Educational Institution Kaichigakuen
 IP-ASN,152865 // Tokyo University of Technology Linux Club
 IP-ASN,152861 // Chiba Institute of Technology
 IP-ASN,152184 // Tamukai Network
