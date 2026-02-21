@@ -1,5 +1,5 @@
 // ASN Information in Japan. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-02-20 16:07:20
+// Last Updated: UTC 2026-02-21 16:02:03
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,214675 // Hidenori Matsuo
@@ -13,8 +13,8 @@ IP-ASN,150369 // TelHi Corporation
 IP-ASN,2500 // WIDE Project
 IP-ASN,2518 // BIGLOBE Inc.
 IP-ASN,4777 // Asia Pacific Network Information Centre
-IP-ASN,131958 // Tama Cable Network Co.,Ltd.
 IP-ASN,7500 // WIDE Project
+IP-ASN,131958 // Tama Cable Network Co.,Ltd.
 IP-ASN,9605 // NTT DOCOMO, INC.
 IP-ASN,7522 // STNet, Incorporated
 IP-ASN,9354 // Community Network Center Inc.
@@ -89,11 +89,11 @@ IP-ASN,10019 // Matsusaka Cable-TV Station Inc.
 IP-ASN,9597 // KDDI Web Communications Inc.
 IP-ASN,9365 // its communications Inc.
 IP-ASN,7668 // Hokuriku Telecommunication Network Co.
-IP-ASN,2514 // NTT PC Communications, Inc.
 IP-ASN,18121 // Ishikawa Computer Center Co.,LTD.
 IP-ASN,17683 // Wingtechnology Communications, Inc.
 IP-ASN,131937 // Joetsu Cable Vision
 IP-ASN,37922 // Diversitymedia Co.,Ltd.
+IP-ASN,2514 // NTT PC Communications, Inc.
 IP-ASN,24253 // J-Stream Inc.
 IP-ASN,18274 // Utsunomiya Cable TV Corporation
 IP-ASN,9622 // Kurashiki Cable TV
@@ -289,7 +289,6 @@ IP-ASN,4723 // Dolphin
 IP-ASN,38649 // The University of Electro-Communications
 IP-ASN,2510 // FUJITSU LIMITED
 IP-ASN,23642 // OBIS
-IP-ASN,23640 // BBIX,Inc.
 IP-ASN,151387 // OMURA CABLE TELEVISION K.K.
 IP-ASN,151377 // Solare Hotels and Resorts Co., Ltd.
 IP-ASN,151375 // HimawariTV.Corporation
@@ -305,6 +304,7 @@ IP-ASN,45679 // Tatsumi, Tomo
 IP-ASN,37906 // GMO NetIRD, Inc.
 IP-ASN,37900 // NTT Communications Corporation
 IP-ASN,24477 // NetApp, Inc.
+IP-ASN,23640 // BBIX,Inc.
 IP-ASN,23634 // WIDE Project
 IP-ASN,18259 // NTT DOCOMO BUSINESS, Inc
 IP-ASN,18258 // Morgan Stanley Japan Limited
@@ -640,6 +640,7 @@ IP-ASN,23631 // Sofu System, Inc
 IP-ASN,23623 // Chuo University
 IP-ASN,23615 // University of Shizuoka
 IP-ASN,23613 // New Media Tokushima Co.,ltd.
+IP-ASN,212259 // Astrix Co., Ltd.
 IP-ASN,211252 // Akari Networks K.K.
 IP-ASN,18383 // CAHI Corporation,
 IP-ASN,18289 // AT&T TAO Cloud Access Node
@@ -727,18 +728,14 @@ IP-ASN,45681 // Show Corporation
 IP-ASN,38646 // APNIC ASN block
 IP-ASN,24121 // Equinix Asia Pacific
 IP-ASN,23748 // Cat Networks K.K.
-IP-ASN,216447 // Azusa Takemae
 IP-ASN,215871 // xTom Japan Corporation
 IP-ASN,215239 // Show Corporation
 IP-ASN,214772 // CHEN LUOAN
 IP-ASN,214430 // Takahiro Fukushima
 IP-ASN,213471 // YAMAMOTO Hiroshi
-IP-ASN,203577 // Fumon Shimadate
 IP-ASN,199436 // BangLong Yang
-IP-ASN,199266 // REI MIMURA
 IP-ASN,152860 // GANJINGWORLD K.K.
 IP-ASN,150368 // SERVER-G Group
 IP-ASN,150314 // Rivulet Networks
-IP-ASN,140868 // TakataSDCC Net
 IP-ASN,138986 // INAP Japan Tokyo Shiohama DC
 IP-ASN,138181 // Hu's Tech LLC
