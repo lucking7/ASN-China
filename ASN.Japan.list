@@ -1,5 +1,5 @@
 // ASN Information in Japan. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-02-22 16:02:06
+// Last Updated: UTC 2026-02-23 16:14:12
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,214675 // Hidenori Matsuo
@@ -18,8 +18,8 @@ IP-ASN,131958 // Tama Cable Network Co.,Ltd.
 IP-ASN,9605 // NTT DOCOMO, INC.
 IP-ASN,7522 // STNet, Incorporated
 IP-ASN,9354 // Community Network Center Inc.
-IP-ASN,2519 // ARTERIA Networks Corporation
 IP-ASN,4713 // NTT DOCOMO BUSINESS,Inc.
+IP-ASN,2519 // ARTERIA Networks Corporation
 IP-ASN,18283 // Chupicom Inc.
 IP-ASN,54415 // WIZ K.K.
 IP-ASN,59110 // BPS Inc.
@@ -43,9 +43,9 @@ IP-ASN,138968 // rainbow network limited
 IP-ASN,7524 // ITEC HANKYU HANSHIN CO.,LTD.
 IP-ASN,7506 // GMO Internet Group, Inc.
 IP-ASN,9993 // ITOCHU Techno-Solutions Corporation
+IP-ASN,9824 // JCOM Co., Ltd.
 IP-ASN,9595 // NTT-ME Corporation
 IP-ASN,23816 // LY Corporation
-IP-ASN,9824 // JCOM Co., Ltd.
 IP-ASN,9371 // SAKURA Internet Inc.
 IP-ASN,59123 // Kakaku.com, Inc.
 IP-ASN,55900 // GLBB Japan KK
@@ -230,6 +230,7 @@ IP-ASN,58793 // FUJITSU LIMITED
 IP-ASN,4785 // xTom
 IP-ASN,4697 // Nippon Telegraph and Telephone Corporation
 IP-ASN,37918 // NTT, Inc.
+IP-ASN,23815 // Japan Internet Xing Co., Ltd.
 IP-ASN,23786 // San-in Cable Vision CO.,LTD
 IP-ASN,150363 // SoftEther Corporation
 IP-ASN,131918 // SHONAN CABLE NETWORK
@@ -237,16 +238,15 @@ IP-ASN,131916 // Tokyo Bay Network Co.,Ltd.
 IP-ASN,10011 // advanscope inc.
 IP-ASN,7503 // Air Internet Service Co.,Ltd.
 IP-ASN,24282 // KAGOYA JAPAN Inc.
-IP-ASN,23815 // Japan Internet Xing Co., Ltd.
 IP-ASN,23628 // Academic newtown Community Cable Service
 IP-ASN,17675 // PacketFabric (Japan) Co., Ltd.
 IP-ASN,131965 // Xserver Inc.
 IP-ASN,10003 // Ogaki Cable Television Co.,Inc.
 IP-ASN,9609 // BBIX, Inc.
+IP-ASN,63800 // SERVER-G Group
 IP-ASN,24572 // Yahoo Japan
 IP-ASN,23774 // Japan Registry Service Co., Ltd.
 IP-ASN,131896 // SSI Lab Inc.
-IP-ASN,63800 // SERVER-G Group
 IP-ASN,23620 // DMM.com LLC
 IP-ASN,17948 // EditNet, Incorporated
 IP-ASN,139358 // Kansuiun Co., Ltd
