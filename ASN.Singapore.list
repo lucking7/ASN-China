@@ -1,5 +1,5 @@
 // ASN Information in Singapore. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-02-23 16:14:12
+// Last Updated: UTC 2026-02-24 16:17:12
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,24482 // SG.GS
@@ -28,9 +28,9 @@ IP-ASN,131219 // Indosat Singapore Pte. Ltd.
 IP-ASN,150436 // Byteplus Pte. Ltd.
 IP-ASN,4773 // MobileOne Ltd. Mobile/Internet Service Provider Singapore
 IP-ASN,132132 // MyRepublic Ltd.
+IP-ASN,55518 // Singapore Internet Exchange Limited
 IP-ASN,212628 // ARTRUBY PTE. LTD.
 IP-ASN,10024 // LGA International
-IP-ASN,55518 // Singapore Internet Exchange Limited
 IP-ASN,4844 // SuperInternet ACCESS Pte Ltd
 IP-ASN,138699 // TIKTOK PTE. LTD.
 IP-ASN,140577 // Ahrefs Pte Ltd
@@ -40,12 +40,12 @@ IP-ASN,137991 // Lifeway Singapore Pte. Ltd.
 IP-ASN,139225 // Whatbox Inc.
 IP-ASN,134363 // EZIT Solutions Pte Ltd
 IP-ASN,23856 // SPTEL PTE. LTD.
-IP-ASN,963 // N963 PTE. LTD.
 IP-ASN,4628 // Pacific Internet Pte Ltd
+IP-ASN,963 // N963 PTE. LTD.
 IP-ASN,140719 // 201309973N
 IP-ASN,7387 // ONBOARDCLOUD PTE. LTD.
-IP-ASN,132829 // Nevigate Communications (S) Pte Ltd
 IP-ASN,138552 // RTB HOUSE PTE. LTD.
+IP-ASN,132829 // Nevigate Communications (S) Pte Ltd
 IP-ASN,7595 // Readyspace Cloud Services
 IP-ASN,134148 // SingAREN
 IP-ASN,134078 // NETPLUZ HOLDINGS PRIVATE LIMITED
@@ -110,6 +110,7 @@ IP-ASN,138608 // Cloud Host Pte Ltd
 IP-ASN,138030 // IWAN TECHNOLOGY PTE. LTD.
 IP-ASN,136733 // Racks Central Pte Ltd
 IP-ASN,136202 // Freepoint Commodities Singapore Pte. Ltd.
+IP-ASN,9874 // StarHub Ltd
 IP-ASN,9649 // Information Technology Office
 IP-ASN,56311 // Morgan Stanley Management Service (Singapore) Pte. Ltd
 IP-ASN,56197 // KDDI ASIA PACIFIC PTE. LTD.
@@ -139,7 +140,6 @@ IP-ASN,135354 // NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD.
 IP-ASN,132204 // CORETEL NETWORKS (INTERNATIONAL) PTE LTD
 IP-ASN,132016 // IRESS Market Technology Ltd
 IP-ASN,10082 // Morgan Stanley Management Service (Singapore) Pte. Ltd
-IP-ASN,9874 // StarHub Ltd
 IP-ASN,9234 // Sol One Application Delivery Network
 IP-ASN,59241 // Goldman Sachs (Asia) L.L.C.
 IP-ASN,59210 // PhoenixNAP
@@ -266,6 +266,7 @@ IP-ASN,133471 // SYNAPXE PTE. LTD.
 IP-ASN,133470 // SYNAPXE PTE. LTD.
 IP-ASN,133466 // Robert Bosch GmbH
 IP-ASN,133462 // Texas Instruments, Inc.
+IP-ASN,133387 // GOVERNMENT TECHNOLOGY AGENCY
 IP-ASN,133134 // AION TECHNOLOGIES PTE LTD
 IP-ASN,133025 // InMobi Pte. Ltd.
 IP-ASN,133013 // AbbVie, Inc.
@@ -426,7 +427,6 @@ IP-ASN,133449 // VASTSPACE PTE. LTD.
 IP-ASN,133422 // Aviva Asia Pte Ltd
 IP-ASN,133411 // Mediamind Technologies LTD
 IP-ASN,133391 // SYSNETPRO SOLUTION PTE LTD
-IP-ASN,133387 // GOVERNMENT TECHNOLOGY AGENCY
 IP-ASN,133151 // Garena Online Pte Ltd
 IP-ASN,132824 // Beyotta Network LLP
 IP-ASN,132805 // Singapore Telecommunications Limited
