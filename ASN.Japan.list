@@ -1,5 +1,5 @@
 // ASN Information in Japan. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-02-28 16:00:56
+// Last Updated: UTC 2026-03-01 16:00:59
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,214675 // Hidenori Matsuo
@@ -48,11 +48,11 @@ IP-ASN,9824 // JCOM Co., Ltd.
 IP-ASN,9595 // NTT-ME Corporation
 IP-ASN,7524 // ITEC HANKYU HANSHIN CO.,LTD.
 IP-ASN,59123 // Kakaku.com, Inc.
+IP-ASN,55900 // GLBB Japan KK
 IP-ASN,18077 // Yamaguchi Cable Vision Co.,Ltd
 IP-ASN,9371 // SAKURA Internet Inc.
 IP-ASN,7660 // Asia Pacific Advanced Network - Japan
 IP-ASN,7530 // BroadBand Tower, Inc.
-IP-ASN,55900 // GLBB Japan KK
 IP-ASN,4685 // Asahi Net
 IP-ASN,24284 // CyberAgent, Inc.
 IP-ASN,18260 // EHIME CATV CO.,LTD.
@@ -223,7 +223,6 @@ IP-ASN,10015 // Cyber Wave Japan Co., Ltd.
 IP-ASN,7505 // Fujitsu Systems Applications & Support Limited
 IP-ASN,58793 // FUJITSU LIMITED
 IP-ASN,58650 // Warabi Cable Vision Co., Ltd.
-IP-ASN,4725 // SoftBank Corp.
 IP-ASN,4697 // Nippon Telegraph and Telephone Corporation
 IP-ASN,37919 // SEGA SAMMY HOLDINGS INC.
 IP-ASN,37918 // NTT, Inc.
@@ -237,6 +236,7 @@ IP-ASN,10011 // advanscope inc.
 IP-ASN,7671 // NTT SmartConnect Corporation
 IP-ASN,7503 // Air Internet Service Co.,Ltd.
 IP-ASN,4785 // xTom
+IP-ASN,4725 // SoftBank Corp.
 IP-ASN,23628 // Academic newtown Community Cable Service
 IP-ASN,131915 // Hamamatsu Cable Television .Inc
 IP-ASN,63800 // SERVER-G Group
@@ -249,10 +249,10 @@ IP-ASN,10003 // Ogaki Cable Television Co.,Inc.
 IP-ASN,9609 // BBIX, Inc.
 IP-ASN,24572 // Yahoo Japan
 IP-ASN,23774 // Japan Registry Service Co., Ltd.
-IP-ASN,63798 // Industrial Cyber Security Center of Excellence
 IP-ASN,58791 // GMO Internet Group, Inc.
 IP-ASN,23620 // DMM.com LLC
 IP-ASN,17948 // EditNet, Incorporated
+IP-ASN,63798 // Industrial Cyber Security Center of Excellence
 IP-ASN,59102 // GENES Co., Ltd.
 IP-ASN,4673 // NTT DATA CORPORATION
 IP-ASN,18092 // Kyushu Tele Communications Company
@@ -260,7 +260,6 @@ IP-ASN,150366 // demae-can co. ltd
 IP-ASN,55888 // Nintatsu Global Telecommunications Corporation
 IP-ASN,55381 // CITY-CABLE SHUNAN Corporation
 IP-ASN,18264 // Seikei Eizo Network Inc.
-IP-ASN,154486 // REI MIMURA
 IP-ASN,10013 // FreeBit Co.,Ltd.
 IP-ASN,7514 // Computer Engineering & Consulting, Ltd.
 IP-ASN,55392 // INTERNET MULTIFEED CO.
@@ -423,7 +422,6 @@ IP-ASN,37905 // Brastel Co.,Ltd
 IP-ASN,37897 // AXEL NETWORKS, INC.
 IP-ASN,37888 // HORIBA, Ltd.
 IP-ASN,2512 // TCP Inc.
-IP-ASN,2509 // Home NOC Operators Group
 IP-ASN,2506 // NTT business Solutions corporation
 IP-ASN,2501 // The University of Tokyo
 IP-ASN,24336 // DIGITALBANK, Inc., Regional ISP in Japan
@@ -611,6 +609,7 @@ IP-ASN,2523 // Internet Technology Research Consortium
 IP-ASN,2522 // Japan Network Information Center
 IP-ASN,2513 // Japan Science and Technology Agency
 IP-ASN,2511 // Nippon Telegraph and Telephone Corporation
+IP-ASN,2509 // Home NOC Operators Group
 IP-ASN,2508 // Kyushu University
 IP-ASN,2505 // High Energy Accelerator Research Organization, KEK
 IP-ASN,2504 // Kyoto University
@@ -624,7 +623,6 @@ IP-ASN,24250 // Miyagin Digital Solutions Co.,Ltd.
 IP-ASN,23967 // Produce On Demand Inc. Streaming Contents Delivery Service Tokyo
 IP-ASN,23833 // Marusan Securities Co., LTD.
 IP-ASN,23831 // NISIOWARI CATV CORPORATION
-IP-ASN,23829 // NTT NEOMEIT YAMAGUCHI CORPORATION
 IP-ASN,23828 // Misaki Town
 IP-ASN,23826 // Daido University
 IP-ASN,23807 // Ritsumeikan University
