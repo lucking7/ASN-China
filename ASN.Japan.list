@@ -1,5 +1,5 @@
 // ASN Information in Japan. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-03-14 16:02:12
+// Last Updated: UTC 2026-03-15 16:02:56
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,214675 // Hidenori Matsuo
@@ -8,8 +8,8 @@ IP-ASN,2515 // Japan Network Information Center
 IP-ASN,2907 // Research Organization of Information and Systems, National Institute of Informatics
 IP-ASN,17676 // SoftBank Corp.
 IP-ASN,2497 // Internet Initiative Japan Inc.
-IP-ASN,2516 // KDDI CORPORATION
 IP-ASN,150369 // TelHi Corporation
+IP-ASN,2516 // KDDI CORPORATION
 IP-ASN,2500 // WIDE Project
 IP-ASN,2518 // BIGLOBE Inc.
 IP-ASN,4777 // Asia Pacific Network Information Centre
@@ -27,8 +27,8 @@ IP-ASN,9370 // SAKURA Internet Inc.
 IP-ASN,7679 // QTnet,Inc.
 IP-ASN,150363 // SoftEther Corporation
 IP-ASN,10010 // TOKAI Communications Corporation
-IP-ASN,38631 // LY Corporation
 IP-ASN,55569 // Criteo APAC
+IP-ASN,38631 // LY Corporation
 IP-ASN,17511 // OPTAGE Inc.
 IP-ASN,7529 // GMO NetIRD, Inc.
 IP-ASN,59125 // FAMILY NET JAPAN INCORPORATED
@@ -43,11 +43,11 @@ IP-ASN,7506 // GMO Internet Group, Inc.
 IP-ASN,9993 // ITOCHU Techno-Solutions Corporation
 IP-ASN,9824 // JCOM Co., Ltd.
 IP-ASN,2527 // Sony Network Communications Inc.
-IP-ASN,138968 // rainbow network limited
 IP-ASN,7524 // ITEC HANKYU HANSHIN CO.,LTD.
 IP-ASN,59123 // Kakaku.com, Inc.
 IP-ASN,23816 // LY Corporation
 IP-ASN,18077 // Yamaguchi Cable Vision Co.,Ltd
+IP-ASN,138968 // rainbow network limited
 IP-ASN,9997 // Suzuka Cable Co.,Ltd
 IP-ASN,9595 // NTT-ME Corporation
 IP-ASN,7530 // BroadBand Tower, Inc.
@@ -130,9 +130,9 @@ IP-ASN,131923 // MCAT Ltd.
 IP-ASN,9615 // TOYOHASHI CABLE NETWORK INC.
 IP-ASN,9601 // Niigata Communication Service
 IP-ASN,9593 // Nikkei Inc.
+IP-ASN,37904 // BBIX, Inc.
 IP-ASN,17955 // Densan Co., Ltd.
 IP-ASN,55376 // KCV communications CO.,LTD.
-IP-ASN,37904 // BBIX, Inc.
 IP-ASN,24249 // JWAY co., Ltd.
 IP-ASN,23624 // Chukai Television Co,.Ltd.
 IP-ASN,18125 // Tsukuba Business-Academia Cooperation Support Center,
@@ -307,7 +307,6 @@ IP-ASN,37906 // GMO NetIRD, Inc.
 IP-ASN,37900 // NTT Communications Corporation
 IP-ASN,2509 // Home NOC Operators Group
 IP-ASN,23634 // WIDE Project
-IP-ASN,18258 // Morgan Stanley Japan Limited
 IP-ASN,17944 // Japan Weather Association
 IP-ASN,152873 // Neodyland
 IP-ASN,151386 // NHN Cloud Japan Corporation
@@ -347,6 +346,7 @@ IP-ASN,24287 // National Institute of Informatics
 IP-ASN,24229 // IX-layers, Inc.
 IP-ASN,23817 // Fujitsu Limited.
 IP-ASN,18259 // NTT DOCOMO BUSINESS, Inc
+IP-ASN,18258 // Morgan Stanley Japan Limited
 IP-ASN,18149 // Japan Registry Service Co., Ltd.
 IP-ASN,17932 // Japan Advanced Institute of Science and Technology
 IP-ASN,17691 // NDS Co., Ltd.
@@ -474,6 +474,7 @@ IP-ASN,17529 // STARCAT Co .,LTD.
 IP-ASN,17516 // NTT COMWARE CORPORATION
 IP-ASN,17506 // ARTERIA Networks Corporation
 IP-ASN,17505 // SoftBank Corp.
+IP-ASN,152874 // JONET
 IP-ASN,152871 // TAIYO NIPPON SANSO CORPORATION
 IP-ASN,152869 // ICJ, Inc.
 IP-ASN,152868 // THX Corp.
