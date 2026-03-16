@@ -1,5 +1,5 @@
 // ASN Information in Japan. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-03-15 16:02:56
+// Last Updated: UTC 2026-03-16 16:18:21
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,214675 // Hidenori Matsuo
@@ -27,8 +27,8 @@ IP-ASN,9370 // SAKURA Internet Inc.
 IP-ASN,7679 // QTnet,Inc.
 IP-ASN,150363 // SoftEther Corporation
 IP-ASN,10010 // TOKAI Communications Corporation
-IP-ASN,55569 // Criteo APAC
 IP-ASN,38631 // LY Corporation
+IP-ASN,55569 // Criteo APAC
 IP-ASN,17511 // OPTAGE Inc.
 IP-ASN,7529 // GMO NetIRD, Inc.
 IP-ASN,59125 // FAMILY NET JAPAN INCORPORATED
@@ -67,7 +67,6 @@ IP-ASN,139076 // EnjoyVC Japan Corporation
 IP-ASN,131931 // Aomori Cable TV Co., Ltd.
 IP-ASN,7516 // TOHKnet Co.,Inc.
 IP-ASN,24271 // Iruma CATV co.
-IP-ASN,23629 // Obihiro City Cable Co.,Ltd.
 IP-ASN,9351 // ZTV CO.,LTD
 IP-ASN,7687 // TOYOTA SYSTEMS CORPORATION
 IP-ASN,59126 // NCT CO.,LTD.
@@ -85,6 +84,7 @@ IP-ASN,4693 // CSK-IT MANAGEMENT CORPORATION
 IP-ASN,38628 // HIMEJI CABLE TELEVISION CORPORATION
 IP-ASN,24279 // SENDAI CATV CO.,LTD.
 IP-ASN,23778 // IMIZU CABLE NETWORK CO.,LTD.
+IP-ASN,23629 // Obihiro City Cable Co.,Ltd.
 IP-ASN,10019 // Matsusaka Cable-TV Station Inc.
 IP-ASN,9365 // its communications Inc.
 IP-ASN,7668 // Hokuriku Telecommunication Network Co.
@@ -126,12 +126,12 @@ IP-ASN,23827 // Azumino Network Community TV
 IP-ASN,17707 // AS for DATAHOTEL, which is one of iDC in Japan,
 IP-ASN,146976 // Kvision Co.,Ltd.
 IP-ASN,131952 // Asahikawa Cable Television Co., Ltd.
-IP-ASN,131923 // MCAT Ltd.
 IP-ASN,9615 // TOYOHASHI CABLE NETWORK INC.
 IP-ASN,9601 // Niigata Communication Service
 IP-ASN,9593 // Nikkei Inc.
 IP-ASN,37904 // BBIX, Inc.
 IP-ASN,17955 // Densan Co., Ltd.
+IP-ASN,131923 // MCAT Ltd.
 IP-ASN,55376 // KCV communications CO.,LTD.
 IP-ASN,24249 // JWAY co., Ltd.
 IP-ASN,23624 // Chukai Television Co,.Ltd.
@@ -178,7 +178,6 @@ IP-ASN,45677 // Isahaya Cable Media Co.,Ltd
 IP-ASN,38639 // NTT DOCOMO BUSINESS, Inc.
 IP-ASN,38074 // SDCC Japan-West Area
 IP-ASN,24289 // Kagawa T.V Broadcast Network Co,.Ltd
-IP-ASN,23815 // Japan Internet Xing Co., Ltd.
 IP-ASN,23805 // Watarase Television Co.,Ltd
 IP-ASN,23633 // Niigata Communication Service
 IP-ASN,131970 // Hikarinet Inc.
@@ -190,6 +189,7 @@ IP-ASN,59097 // Okinawa Cross Head Co., Ltd.
 IP-ASN,24263 // HONDA MOTOR Co., Ltd.
 IP-ASN,23820 // Rakuten Group, Inc.
 IP-ASN,23818 // JETINTERNET Corporation
+IP-ASN,23815 // Japan Internet Xing Co., Ltd.
 IP-ASN,23777 // NTT BUSINESS SOLUTIONS CORPORATION
 IP-ASN,18526 // DDPS Networks, LLC
 IP-ASN,18131 // NTT DOCOMO BUSINESS, Inc.
@@ -197,7 +197,6 @@ IP-ASN,146984 // INTERNET MULTIFEED CO.
 IP-ASN,138033 // BBIX, Inc
 IP-ASN,131986 // ITOCHU Cable Systems Corp.
 IP-ASN,131929 // Yamanashi CATV Co,. ltd
-IP-ASN,10021 // KVH Co.,Ltd
 IP-ASN,10015 // Cyber Wave Japan Co., Ltd.
 IP-ASN,7672 // Hokuden Information System Service Co.,Ltd.
 IP-ASN,63774 // Kamoike.net LLP
@@ -215,6 +214,7 @@ IP-ASN,146979 // University of Nagasaki
 IP-ASN,131943 // Goto tv
 IP-ASN,131938 // NISSAN MOTOR CO.,LTD.
 IP-ASN,131079 // INTERNET MULTIFEED CO.
+IP-ASN,10021 // KVH Co.,Ltd
 IP-ASN,7505 // Fujitsu Systems Applications & Support Limited
 IP-ASN,58650 // Warabi Cable Vision Co., Ltd.
 IP-ASN,4697 // Nippon Telegraph and Telephone Corporation
@@ -246,12 +246,12 @@ IP-ASN,131965 // Xserver Inc.
 IP-ASN,131896 // SSI Lab Inc.
 IP-ASN,10003 // Ogaki Cable Television Co.,Inc.
 IP-ASN,9609 // BBIX, Inc.
+IP-ASN,63800 // SERVER-G Group
 IP-ASN,24572 // Yahoo Japan
 IP-ASN,23774 // Japan Registry Service Co., Ltd.
 IP-ASN,58791 // GMO Internet Group, Inc.
 IP-ASN,23620 // DMM.com LLC
 IP-ASN,17948 // EditNet, Incorporated
-IP-ASN,63800 // SERVER-G Group
 IP-ASN,59102 // GENES Co., Ltd.
 IP-ASN,4673 // NTT DATA CORPORATION
 IP-ASN,18092 // Kyushu Tele Communications Company
@@ -289,6 +289,7 @@ IP-ASN,4723 // Dolphin
 IP-ASN,2510 // FUJITSU LIMITED
 IP-ASN,24477 // NetApp, Inc.
 IP-ASN,23642 // OBIS
+IP-ASN,152873 // Neodyland
 IP-ASN,151387 // OMURA CABLE TELEVISION K.K.
 IP-ASN,151377 // Solare Hotels and Resorts Co., Ltd.
 IP-ASN,151375 // HimawariTV.Corporation
@@ -307,8 +308,8 @@ IP-ASN,37906 // GMO NetIRD, Inc.
 IP-ASN,37900 // NTT Communications Corporation
 IP-ASN,2509 // Home NOC Operators Group
 IP-ASN,23634 // WIDE Project
+IP-ASN,18258 // Morgan Stanley Japan Limited
 IP-ASN,17944 // Japan Weather Association
-IP-ASN,152873 // Neodyland
 IP-ASN,151386 // NHN Cloud Japan Corporation
 IP-ASN,146986 // SUZUYO SHINWART CORPORATION
 IP-ASN,133900 // Gilead Sciences, Inc.
@@ -346,7 +347,6 @@ IP-ASN,24287 // National Institute of Informatics
 IP-ASN,24229 // IX-layers, Inc.
 IP-ASN,23817 // Fujitsu Limited.
 IP-ASN,18259 // NTT DOCOMO BUSINESS, Inc
-IP-ASN,18258 // Morgan Stanley Japan Limited
 IP-ASN,18149 // Japan Registry Service Co., Ltd.
 IP-ASN,17932 // Japan Advanced Institute of Science and Technology
 IP-ASN,17691 // NDS Co., Ltd.
