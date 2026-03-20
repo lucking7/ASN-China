@@ -1,5 +1,5 @@
 // ASN Information in Singapore. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-03-19 16:14:36
+// Last Updated: UTC 2026-03-20 16:09:28
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,24482 // SG.GS
@@ -27,20 +27,20 @@ IP-ASN,56308 // TELEKOMUNIKASI INDONESIA INTERNATIONAL, PTE.LTD
 IP-ASN,212628 // ARTRUBY PTE. LTD.
 IP-ASN,150436 // Byteplus Pte. Ltd.
 IP-ASN,131219 // Indosat Singapore Pte. Ltd.
-IP-ASN,4773 // MobileOne Ltd. Mobile/Internet Service Provider Singapore
 IP-ASN,4628 // Pacific Internet Pte Ltd
+IP-ASN,4773 // MobileOne Ltd. Mobile/Internet Service Provider Singapore
 IP-ASN,132132 // MyRepublic Ltd.
-IP-ASN,55518 // Singapore Internet Exchange Limited
 IP-ASN,10024 // LGA International
+IP-ASN,55518 // Singapore Internet Exchange Limited
 IP-ASN,138699 // TIKTOK PTE. LTD.
 IP-ASN,931 // Hyonix
 IP-ASN,23855 // Singapore Advanced Research and Education Network
 IP-ASN,23856 // SPTEL PTE. LTD.
-IP-ASN,140577 // Ahrefs Pte Ltd
 IP-ASN,137991 // Lifeway Singapore Pte. Ltd.
-IP-ASN,963 // N963 PTE. LTD.
 IP-ASN,139225 // Whatbox Inc.
 IP-ASN,134363 // EZIT Solutions Pte Ltd
+IP-ASN,963 // N963 PTE. LTD.
+IP-ASN,140577 // Ahrefs Pte Ltd
 IP-ASN,4844 // SuperInternet ACCESS Pte Ltd
 IP-ASN,132829 // Nevigate Communications (S) Pte Ltd
 IP-ASN,140719 // 201309973N
@@ -183,7 +183,6 @@ IP-ASN,9247 // National Institute of Education
 IP-ASN,64086 // Australia and New Zealand Banking Group Limited (ANZ)
 IP-ASN,64003 // 8 Anthony Road
 IP-ASN,63930 // READY SERVER PTE LTD
-IP-ASN,63834 // PrimeXM Networks (Singapore) PTE. LTD
 IP-ASN,59326 // DSO National Laboratories
 IP-ASN,56289 // 2 Changi Business Park Crescent
 IP-ASN,56274 // GM Asia Pacific, Singapore
@@ -194,7 +193,6 @@ IP-ASN,55781 // Fujitsu Asia Pte. Ltd.
 IP-ASN,55487 // Globalfoundries Singapore Pte Ltd
 IP-ASN,55426 // Amphenol FCI Asia Pte Ltd
 IP-ASN,55415 // 4 Shenton Way
-IP-ASN,45634 // 10 Science Park Road
 IP-ASN,45470 // 8 to Infinity Pte Ltd
 IP-ASN,45139 // Microsoft Corp
 IP-ASN,45133 // Singapore Polytechnic
@@ -244,8 +242,6 @@ IP-ASN,139349 // Diebold Nixdorf Singapore PTE. LTD.
 IP-ASN,139028 // Singapore Technologies Engineering Ltd
 IP-ASN,138610 // SAP SE
 IP-ASN,138606 // Suga Pte. Ltd
-IP-ASN,138593 // Diebold Nixdorf Singapore PTE. LTD.
-IP-ASN,138588 // Diebold Nixdorf Singapore PTE. LTD.
 IP-ASN,138458 // NEC ASIA PACIFIC PTE LTD
 IP-ASN,137948 // Diebold Nixdorf Singapore PTE. LTD.
 IP-ASN,137932 // IPDC SOLUTIONS PTE LTD
@@ -301,6 +297,7 @@ IP-ASN,9465 // AGOTOZ PTE. LTD.
 IP-ASN,9450 // Webex Communications Inc
 IP-ASN,7700 // SINGAPORE TELECOMMUNICATIONS LTD
 IP-ASN,7472 // NUS Information Technology
+IP-ASN,63834 // PrimeXM Networks (Singapore) PTE. LTD
 IP-ASN,59364 // vHost Holdings Pte Ltd
 IP-ASN,59245 // G-Core Labs S.A
 IP-ASN,59211 // OneAsiaHost
@@ -322,6 +319,7 @@ IP-ASN,4620 // Sol One Anycast Delivery Network
 IP-ASN,46078 // Dimension Data AP Kaki Bukit Singapore
 IP-ASN,45941 // DOCOMO interTouch - Philippines CC
 IP-ASN,45794 // NTT Singapore - IP Network (RFC 2270)
+IP-ASN,45634 // 10 Science Park Road
 IP-ASN,45566 // Google Singapore Pte. Ltd.
 IP-ASN,45505 // T-Global Pte Ltd
 IP-ASN,45501 // Yahoo Corp Network
@@ -374,7 +372,6 @@ IP-ASN,142275 // INCUBATEC Srl
 IP-ASN,142146 // SANDHILL SOLUTION PTE. LTD.
 IP-ASN,142119 // NEX CORPORATEIT PTE LTD
 IP-ASN,142110 // Northern Point Technology Private Limited
-IP-ASN,141883 // BGPNET PTE. LTD.
 IP-ASN,141697 // CrimsonLogic Pte Ltd
 IP-ASN,141409 // 3K33 sp. z o.o.
 IP-ASN,141387 // Berkat Ltd
@@ -391,6 +388,8 @@ IP-ASN,139739 // Hsin Yi Pte Ltd
 IP-ASN,139617 // ISEAS Yusof Ishak Institute
 IP-ASN,139291 // INFINITIUM HOLDINGS PTE. LTD.
 IP-ASN,138626 // AVALOQ SOURCING ASIA PACIFIC (SINGAPORE) PTE. LTD.
+IP-ASN,138593 // Diebold Nixdorf Singapore PTE. LTD.
+IP-ASN,138588 // Diebold Nixdorf Singapore PTE. LTD.
 IP-ASN,138539 // Jewel Changi Airport Trustee Pte. Ltd.
 IP-ASN,138459 // NEC ASIA PACIFIC PTE LTD
 IP-ASN,138419 // Pico (Singapore) Pte. Ltd.
@@ -443,6 +442,7 @@ IP-ASN,131444 // Huawei IT Data Center in AP
 IP-ASN,131195 // SIM Headquarters
 IP-ASN,10230 // internet content provider
 IP-ASN,10102 // 1Asia Communication Pte Ltd
+IP-ASN,59258 // 150 cecil street # 14-03
 IP-ASN,204936 // WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD.
 IP-ASN,200078 // Gao Yijia
 IP-ASN,154392 // Singapore Institute of Technology
