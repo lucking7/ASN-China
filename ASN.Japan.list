@@ -1,5 +1,5 @@
 // ASN Information in Japan. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-03-20 16:09:28
+// Last Updated: UTC 2026-03-21 16:02:05
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,59105 // Home NOC Operators Group
@@ -12,9 +12,9 @@ IP-ASN,2516 // KDDI CORPORATION
 IP-ASN,2500 // WIDE Project
 IP-ASN,2518 // BIGLOBE Inc.
 IP-ASN,4777 // Asia Pacific Network Information Centre
-IP-ASN,7500 // WIDE Project
-IP-ASN,9605 // NTT DOCOMO, INC.
 IP-ASN,214675 // Hidenori Matsuo
+IP-ASN,9605 // NTT DOCOMO, INC.
+IP-ASN,7500 // WIDE Project
 IP-ASN,131958 // Tama Cable Network Co.,Ltd.
 IP-ASN,7522 // STNet, Incorporated
 IP-ASN,9354 // Community Network Center Inc.
@@ -43,9 +43,9 @@ IP-ASN,7506 // GMO Internet Group, Inc.
 IP-ASN,9993 // ITOCHU Techno-Solutions Corporation
 IP-ASN,9824 // JCOM Co., Ltd.
 IP-ASN,7524 // ITEC HANKYU HANSHIN CO.,LTD.
+IP-ASN,2527 // Sony Network Communications Inc.
 IP-ASN,23816 // LY Corporation
 IP-ASN,59123 // Kakaku.com, Inc.
-IP-ASN,2527 // Sony Network Communications Inc.
 IP-ASN,18077 // Yamaguchi Cable Vision Co.,Ltd
 IP-ASN,9997 // Suzuka Cable Co.,Ltd
 IP-ASN,9595 // NTT-ME Corporation
@@ -109,6 +109,7 @@ IP-ASN,17682 // 296 BROAD NET Com Inc
 IP-ASN,17514 // Otsuka Corp.
 IP-ASN,131930 // Tokyo Broadcasting System Television, Inc.
 IP-ASN,9621 // Okinawa Telecommunication Network Co.,Inc
+IP-ASN,37904 // BBIX, Inc.
 IP-ASN,152858 // Woven by Toyota, Inc.
 IP-ASN,146981 // Nekojarashi Inc.
 IP-ASN,131934 // ICC Corporation
@@ -121,15 +122,14 @@ IP-ASN,18094 // Tokyo Cable Network.,INC
 IP-ASN,18070 // Global Network Core Co.,Ltd.
 IP-ASN,17707 // AS for DATAHOTEL, which is one of iDC in Japan,
 IP-ASN,10006 // SECOM Trust Systems Co.,Ltd.
-IP-ASN,9601 // Niigata Communication Service
 IP-ASN,55391 // INTERNET MULTIFEED CO.
 IP-ASN,24277 // Okinawa Cable Network Inc.
 IP-ASN,23827 // Azumino Network Community TV
 IP-ASN,17955 // Densan Co., Ltd.
 IP-ASN,131952 // Asahikawa Cable Television Co., Ltd.
 IP-ASN,9615 // TOYOHASHI CABLE NETWORK INC.
+IP-ASN,9601 // Niigata Communication Service
 IP-ASN,9593 // Nikkei Inc.
-IP-ASN,37904 // BBIX, Inc.
 IP-ASN,131923 // MCAT Ltd.
 IP-ASN,55376 // KCV Communications Co. Ltd.
 IP-ASN,45691 // DODO K.K.
@@ -141,6 +141,7 @@ IP-ASN,146974 // Woven by Toyota, Inc.
 IP-ASN,131982 // Uenohara Broadband Communications Inc.
 IP-ASN,131949 // General Incorporated Foundation Aso Telework Center
 IP-ASN,131161 // NEC Corporation
+IP-ASN,9604 // FUJI SOFT INCORPORATED
 IP-ASN,9355 // National Institute of Information and Communications Technology
 IP-ASN,7676 // TAM Co., Ltd.
 IP-ASN,7667 // KDDI Research, Inc.
@@ -156,7 +157,6 @@ IP-ASN,17931 // Netforest,Inc.
 IP-ASN,131960 // MBO holdings Inc.
 IP-ASN,131921 // GMO GlobalSign Holdings K.K.
 IP-ASN,131160 // Wire and Wireless Co.,Ltd.
-IP-ASN,9604 // FUJI SOFT INCORPORATED
 IP-ASN,63802 // Nippon Telegraph and Telephone East Corporation
 IP-ASN,63779 // InfiniCloud Co. Ltd.
 IP-ASN,55382 // Nagato city office
@@ -165,7 +165,6 @@ IP-ASN,37892 // Cable Media WAIWAI Co.,Ltd.
 IP-ASN,24251 // Iwakuni Cable Network Corporation
 IP-ASN,23822 // HAGI Television Co., Ltd.
 IP-ASN,23775 // Tamashima TV Inc.
-IP-ASN,23633 // Niigata Communication Service
 IP-ASN,23627 // UEDA CABLE VISION CO.,LTD.
 IP-ASN,150359 // Cable Television TOYAMA Inc.
 IP-ASN,131933 // TAMA Television Co., Ltd
@@ -180,6 +179,7 @@ IP-ASN,38639 // NTT DOCOMO BUSINESS, Inc.
 IP-ASN,38074 // SDCC Japan-West Area
 IP-ASN,24289 // Kagawa T.V Broadcast Network Co,.Ltd
 IP-ASN,23805 // Watarase Television Co.,Ltd
+IP-ASN,23633 // Niigata Communication Service
 IP-ASN,18526 // DDPS Networks, LLC
 IP-ASN,131970 // Hikarinet Inc.
 IP-ASN,131955 // Kyoutou Cable Net Co Ltd
