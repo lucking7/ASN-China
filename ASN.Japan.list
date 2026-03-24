@@ -1,7 +1,8 @@
 // ASN Information in Japan. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-03-23 16:14:41
+// Last Updated: UTC 2026-03-24 16:18:34
 // Made by Vincent, All rights reserved. 
 
+IP-ASN,214675 // Hidenori Matsuo
 IP-ASN,59105 // Home NOC Operators Group
 IP-ASN,2515 // Japan Network Information Center
 IP-ASN,2907 // Research Organization of Information and Systems, National Institute of Informatics
@@ -16,7 +17,6 @@ IP-ASN,7500 // WIDE Project
 IP-ASN,9605 // NTT DOCOMO, INC.
 IP-ASN,131958 // Tama Cable Network Co.,Ltd.
 IP-ASN,7522 // STNet, Incorporated
-IP-ASN,214675 // Hidenori Matsuo
 IP-ASN,9354 // Community Network Center Inc.
 IP-ASN,2519 // ARTERIA Networks Corporation
 IP-ASN,4713 // NTT DOCOMO BUSINESS,Inc.
@@ -87,12 +87,12 @@ IP-ASN,3258 // xTom Japan Corporation
 IP-ASN,24279 // SENDAI CATV CO.,LTD.
 IP-ASN,23778 // IMIZU CABLE NETWORK CO.,LTD.
 IP-ASN,18268 // Naganoken Kyodou Densan Co.Ltd.
+IP-ASN,131937 // Joetsu Cable Vision
 IP-ASN,10019 // Matsusaka Cable-TV Station Inc.
 IP-ASN,9597 // KDDI Web Communications Inc.
 IP-ASN,9365 // its communications Inc.
 IP-ASN,7668 // Hokuriku Telecommunication Network Co.
 IP-ASN,17683 // Wingtechnology Communications, Inc.
-IP-ASN,131937 // Joetsu Cable Vision
 IP-ASN,9622 // Kurashiki Cable TV
 IP-ASN,24253 // J-Stream Inc.
 IP-ASN,18274 // Utsunomiya Cable TV Corporation
@@ -186,6 +186,7 @@ IP-ASN,131955 // Kyoutou Cable Net Co Ltd
 IP-ASN,131954 // Kawaguchiko cable television Inc
 IP-ASN,131926 // Cable Television Saiki Co. , Ltd.
 IP-ASN,59097 // Okinawa Cross Head Co., Ltd.
+IP-ASN,38644 // INTERNET MULTIFEED CO.
 IP-ASN,24263 // HONDA MOTOR Co., Ltd.
 IP-ASN,23820 // Rakuten Group, Inc.
 IP-ASN,23818 // JETINTERNET Corporation
@@ -195,6 +196,7 @@ IP-ASN,146984 // INTERNET MULTIFEED CO.
 IP-ASN,138033 // BBIX, Inc
 IP-ASN,131986 // ITOCHU Cable Systems Corp.
 IP-ASN,131929 // Yamanashi CATV Co,. ltd
+IP-ASN,131079 // INTERNET MULTIFEED CO.
 IP-ASN,10021 // KVH Co.,Ltd
 IP-ASN,10015 // Cyber Wave Japan Co., Ltd.
 IP-ASN,7672 // Hokuden Information System Service Co.,Ltd.
@@ -202,7 +204,6 @@ IP-ASN,63774 // Kamoike.net LLP
 IP-ASN,59127 // Newmedia Corporation
 IP-ASN,55387 // Japan Communication Inc.
 IP-ASN,4697 // Nippon Telegraph and Telephone Corporation
-IP-ASN,38644 // INTERNET MULTIFEED CO.
 IP-ASN,37908 // KIBI Cable Television Co.,Ltd.
 IP-ASN,2915 // BBIX, Inc.
 IP-ASN,24262 // HAMANASU INFORMATION Co., Ltd.
@@ -214,7 +215,6 @@ IP-ASN,151376 // Solare Hotels and Resorts Co., Ltd.
 IP-ASN,146979 // University of Nagasaki
 IP-ASN,131943 // Goto tv
 IP-ASN,131938 // NISSAN MOTOR CO.,LTD.
-IP-ASN,131079 // INTERNET MULTIFEED CO.
 IP-ASN,7505 // Fujitsu Systems Applications & Support Limited
 IP-ASN,58650 // Warabi Cable Vision Co., Ltd.
 IP-ASN,37919 // SEGA SAMMY HOLDINGS INC.
@@ -348,7 +348,6 @@ IP-ASN,18149 // Japan Registry Service Co., Ltd.
 IP-ASN,17932 // Japan Advanced Institute of Science and Technology
 IP-ASN,17691 // NDS Co., Ltd.
 IP-ASN,17509 // STARNET Co.,Ltd.
-IP-ASN,152724 // Point72 Japan Limited
 IP-ASN,151389 // Synergy Cross Corporation
 IP-ASN,151380 // Transform Co., Ltd.
 IP-ASN,146980 // Tokyo Metropolitan College of Industrial Technology Infomation System Engineering Course
@@ -479,6 +478,7 @@ IP-ASN,152869 // ICJ, Inc.
 IP-ASN,152868 // THX Corp.
 IP-ASN,152865 // Tokyo University of Technology Linux Club
 IP-ASN,152859 // UNIADEX, LTD.
+IP-ASN,152724 // Point72 Japan Limited
 IP-ASN,152645 // Flextech Inc.
 IP-ASN,151374 // IX-layers, Inc.
 IP-ASN,151373 // JAPAN 3D PRINTER
@@ -513,6 +513,7 @@ IP-ASN,131957 // MicroAd, Inc.
 IP-ASN,131953 // NPO Yutopianet
 IP-ASN,131946 // MUSASHINO UNIVERSITY E.F.
 IP-ASN,131945 // Sanntuu Corporation
+IP-ASN,131941 // Entsu Co.,Ltd.
 IP-ASN,131940 // Nissho Electronics Corp.
 IP-ASN,131939 // IPS INC
 IP-ASN,131932 // JR East Information Systems Company
@@ -707,7 +708,6 @@ IP-ASN,131964 // FAMILYNET JAPAN CORPORATION
 IP-ASN,131951 // Suzuyo Shinwart Corporation
 IP-ASN,131950 // EnjoyVC Japan Corporation
 IP-ASN,131944 // KADOKAWA DWANGO CORPORATION
-IP-ASN,131941 // Entsu Co.,Ltd.
 IP-ASN,131914 // Rakuten Group, Inc.
 IP-ASN,131907 // Iwami Cablevision Co.,Ltd.
 IP-ASN,131905 // Japan Registry Services Co., Ltd.
