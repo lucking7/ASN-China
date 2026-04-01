@@ -1,5 +1,5 @@
 // ASN Information in Japan. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-03-31 16:17:44
+// Last Updated: UTC 2026-04-01 16:15:52
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,214675 // Hidenori Matsuo
@@ -39,8 +39,8 @@ IP-ASN,131948 // FORNEXT Inc.
 IP-ASN,17686 // ACCELIA
 IP-ASN,138384 // Rakuten Mobile Network, Inc.
 IP-ASN,7506 // GMO Internet Group, Inc.
-IP-ASN,9607 // BroadBand Tower, Inc.
 IP-ASN,9993 // ITOCHU Techno-Solutions Corporation
+IP-ASN,9607 // BroadBand Tower, Inc.
 IP-ASN,7524 // ITEC HANKYU HANSHIN CO.,LTD.
 IP-ASN,2527 // Sony Network Communications Inc.
 IP-ASN,23816 // LY Corporation
@@ -48,11 +48,11 @@ IP-ASN,9824 // JCOM Co., Ltd.
 IP-ASN,9595 // NTT-ME Corporation
 IP-ASN,7660 // Asia Pacific Advanced Network - Japan
 IP-ASN,59123 // Kakaku.com, Inc.
-IP-ASN,55900 // GLBB Japan KK
 IP-ASN,18077 // Yamaguchi Cable Vision Co.,Ltd
 IP-ASN,9997 // Suzuka Cable Co.,Ltd
 IP-ASN,9371 // SAKURA Internet Inc.
 IP-ASN,7530 // BroadBand Tower, Inc.
+IP-ASN,55900 // GLBB Japan KK
 IP-ASN,24284 // CyberAgent, Inc.
 IP-ASN,18260 // EHIME CATV CO.,LTD.
 IP-ASN,4694 // IDC Frontier Inc.
@@ -113,7 +113,6 @@ IP-ASN,146981 // Nekojarashi Inc.
 IP-ASN,131934 // ICC Corporation
 IP-ASN,9374 // EDION Corporation
 IP-ASN,4678 // Canon IT Solutions Inc.
-IP-ASN,37904 // BBIX, Inc.
 IP-ASN,24257 // Japan Internet Xing Co., Ltd.
 IP-ASN,18135 // BTV CO.,LTD.
 IP-ASN,18129 // OKAYAMA NETWORK INC.
@@ -122,6 +121,7 @@ IP-ASN,18070 // Global Network Core Co.,Ltd.
 IP-ASN,17707 // AS for DATAHOTEL, which is one of iDC in Japan,
 IP-ASN,10006 // SECOM Trust Systems Co.,Ltd.
 IP-ASN,55391 // INTERNET MULTIFEED CO.
+IP-ASN,37904 // BBIX, Inc.
 IP-ASN,24277 // Okinawa Cable Network Inc.
 IP-ASN,23827 // Azumino Network Community TV
 IP-ASN,17955 // Densan Co., Ltd.
@@ -161,6 +161,7 @@ IP-ASN,63779 // InfiniCloud Co. Ltd.
 IP-ASN,55382 // Nagato city office
 IP-ASN,4675 // UNIADEX, LTD.
 IP-ASN,37892 // Cable Media WAIWAI Co.,Ltd.
+IP-ASN,2915 // BBIX, Inc.
 IP-ASN,24251 // Iwakuni Cable Network Corporation
 IP-ASN,23822 // HAGI Television Co., Ltd.
 IP-ASN,23775 // Tamashima TV Inc.
@@ -177,6 +178,7 @@ IP-ASN,45677 // Isahaya Cable Media Co.,Ltd
 IP-ASN,38639 // NTT DOCOMO BUSINESS, Inc.
 IP-ASN,38074 // SDCC Japan-West Area
 IP-ASN,24289 // Kagawa T.V Broadcast Network Co,.Ltd
+IP-ASN,23815 // Japan Internet Xing Co., Ltd.
 IP-ASN,23805 // Watarase Television Co.,Ltd
 IP-ASN,23633 // Niigata Communication Service
 IP-ASN,18526 // DDPS Networks, LLC
@@ -190,7 +192,6 @@ IP-ASN,23820 // Rakuten Group, Inc.
 IP-ASN,23818 // JETINTERNET Corporation
 IP-ASN,23777 // NTT BUSINESS SOLUTIONS CORPORATION
 IP-ASN,18131 // NTT DOCOMO BUSINESS, Inc.
-IP-ASN,146984 // INTERNET MULTIFEED CO.
 IP-ASN,138033 // BBIX, Inc
 IP-ASN,131986 // ITOCHU Cable Systems Corp.
 IP-ASN,131929 // Yamanashi CATV Co,. ltd
@@ -204,13 +205,12 @@ IP-ASN,55387 // Japan Communication Inc.
 IP-ASN,4697 // Nippon Telegraph and Telephone Corporation
 IP-ASN,38644 // INTERNET MULTIFEED CO.
 IP-ASN,37908 // KIBI Cable Television Co.,Ltd.
-IP-ASN,2915 // BBIX, Inc.
 IP-ASN,24262 // HAMANASU INFORMATION Co., Ltd.
 IP-ASN,24252 // Japan Registry Service Co., Ltd.
-IP-ASN,23815 // Japan Internet Xing Co., Ltd.
 IP-ASN,173 // Nippon Telegraph and Telephone Corporation
 IP-ASN,151385 // Japanet Holdings Co.,Ltd.
 IP-ASN,151376 // Solare Hotels and Resorts Co., Ltd.
+IP-ASN,146984 // INTERNET MULTIFEED CO.
 IP-ASN,146979 // University of Nagasaki
 IP-ASN,131943 // Goto tv
 IP-ASN,131938 // NISSAN MOTOR CO.,LTD.
@@ -469,7 +469,6 @@ IP-ASN,17529 // STARCAT Co .,LTD.
 IP-ASN,17516 // NTT COMWARE CORPORATION
 IP-ASN,17506 // ARTERIA Networks Corporation
 IP-ASN,17505 // SoftBank Corp.
-IP-ASN,152877 // APNIC ASN block
 IP-ASN,152874 // JONET
 IP-ASN,152871 // TAIYO NIPPON SANSO CORPORATION
 IP-ASN,152869 // ICJ, Inc.
@@ -679,6 +678,7 @@ IP-ASN,17518 // Shiojiri City
 IP-ASN,17512 // Japan Airlines Co.,Ltd.
 IP-ASN,17510 // INFORMATION SERVICES INTERNATIONAL - DENTSU, LTD.
 IP-ASN,153929 // Allied Business Inc.
+IP-ASN,152877 // APNIC ASN block
 IP-ASN,152875 // MEEQ Inc.
 IP-ASN,152870 // Incorporated Educational Institution Kaichigakuen
 IP-ASN,152861 // Chiba Institute of Technology
