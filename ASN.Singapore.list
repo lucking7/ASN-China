@@ -1,5 +1,5 @@
 // ASN Information in Singapore. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-04-05 16:04:38
+// Last Updated: UTC 2026-04-06 16:11:32
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,24482 // SG.GS
@@ -24,23 +24,23 @@ IP-ASN,3758 // SingNet
 IP-ASN,56308 // TELEKOMUNIKASI INDONESIA INTERNATIONAL, PTE.LTD
 IP-ASN,17547 // M1 NET LTD
 IP-ASN,4773 // MobileOne Ltd. Mobile/Internet Service Provider Singapore
-IP-ASN,131219 // Indosat Singapore Pte. Ltd.
 IP-ASN,212628 // ARTRUBY PTE. LTD.
+IP-ASN,131219 // Indosat Singapore Pte. Ltd.
 IP-ASN,150436 // Byteplus Pte. Ltd.
 IP-ASN,4628 // Pacific Internet Pte Ltd
 IP-ASN,132132 // MyRepublic Ltd.
 IP-ASN,138699 // TIKTOK PTE. LTD.
 IP-ASN,10024 // LGA International
 IP-ASN,55518 // Singapore Internet Exchange Limited
-IP-ASN,931 // Hyonix
-IP-ASN,23855 // Singapore Advanced Research and Education Network
 IP-ASN,152144 // LIGHTSTORM ASIA PTE. LTD.
+IP-ASN,23855 // Singapore Advanced Research and Education Network
+IP-ASN,931 // Hyonix
 IP-ASN,23856 // SPTEL PTE. LTD.
 IP-ASN,140577 // Ahrefs Pte Ltd
 IP-ASN,139225 // Whatbox Inc.
+IP-ASN,134363 // EZIT Solutions Pte Ltd
 IP-ASN,963 // N963 PTE. LTD.
 IP-ASN,137991 // Lifeway Singapore Pte. Ltd.
-IP-ASN,134363 // EZIT Solutions Pte Ltd
 IP-ASN,4844 // SuperInternet ACCESS Pte Ltd
 IP-ASN,140719 // 201309973N
 IP-ASN,132829 // Nevigate Communications (S) Pte Ltd
@@ -195,6 +195,7 @@ IP-ASN,55781 // Fujitsu Asia Pte. Ltd.
 IP-ASN,55487 // Globalfoundries Singapore Pte Ltd
 IP-ASN,55426 // Amphenol FCI Asia Pte Ltd
 IP-ASN,55415 // 4 Shenton Way
+IP-ASN,55348 // AS number for Singapore POP for
 IP-ASN,45470 // 8 to Infinity Pte Ltd
 IP-ASN,45139 // Microsoft Corp
 IP-ASN,45133 // Singapore Polytechnic
@@ -235,6 +236,7 @@ IP-ASN,141760 // Mercedes-Benz Singapore Pte. Ltd.
 IP-ASN,141753 // CBC TECH INTERNATIONAL LTD.
 IP-ASN,141678 // Private Limited Company
 IP-ASN,141469 // Cargill Asia Pacific Holdings Pte Ltd
+IP-ASN,141409 // 3K33 sp. z o.o.
 IP-ASN,141367 // Bayer (South East Asia) Pte Ltd
 IP-ASN,141364 // Bayer (South East Asia) Pte Ltd
 IP-ASN,141042 // DECATHLON SINGAPORE PTE. LTD.
@@ -319,7 +321,6 @@ IP-ASN,55843 // Acclivis Technology Solution
 IP-ASN,55562 // 5 Temasek Boulevard
 IP-ASN,55504 // BP Australia
 IP-ASN,55430 // Starhub Ltd
-IP-ASN,55348 // AS number for Singapore POP for
 IP-ASN,4631 // United Techinologies Corp.
 IP-ASN,4620 // Sol One Anycast Delivery Network
 IP-ASN,46078 // Dimension Data AP Kaki Bukit Singapore
@@ -374,7 +375,6 @@ IP-ASN,142146 // SANDHILL SOLUTION PTE. LTD.
 IP-ASN,142119 // NEX CORPORATEIT PTE LTD
 IP-ASN,142110 // Northern Point Technology Private Limited
 IP-ASN,141697 // CrimsonLogic Pte Ltd
-IP-ASN,141409 // 3K33 sp. z o.o.
 IP-ASN,141387 // Berkat Ltd
 IP-ASN,141235 // PrimeXM Networks (Singapore) PTE. LTD
 IP-ASN,141205 // Maybank Securities Pte Ltd
