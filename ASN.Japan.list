@@ -1,5 +1,5 @@
 // ASN Information in Japan. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-04-14 16:20:36
+// Last Updated: UTC 2026-04-15 16:17:18
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,214675 // Hidenori Matsuo
@@ -35,7 +35,6 @@ IP-ASN,7670 // Enecom,Inc.
 IP-ASN,59125 // FAMILY NET JAPAN INCORPORATED
 IP-ASN,17961 // mitene internet co., ltd.
 IP-ASN,17534 // NSK Co.,Ltd.
-IP-ASN,9434 // Internet Initiative Japan, Inc.
 IP-ASN,17686 // ACCELIA
 IP-ASN,138384 // Rakuten Mobile Network, Inc.
 IP-ASN,131948 // FORNEXT Inc.
@@ -48,6 +47,7 @@ IP-ASN,9595 // NTT-ME Corporation
 IP-ASN,59123 // Kakaku.com, Inc.
 IP-ASN,9997 // Suzuka Cable Co.,Ltd
 IP-ASN,9824 // JCOM Co., Ltd.
+IP-ASN,9434 // Internet Initiative Japan, Inc.
 IP-ASN,4685 // Asahi Net
 IP-ASN,7530 // BroadBand Tower, Inc.
 IP-ASN,4694 // IDC Frontier Inc.
@@ -167,7 +167,6 @@ IP-ASN,131160 // Wire and Wireless Co.,Ltd.
 IP-ASN,55382 // Nagato city office
 IP-ASN,45687 // Minamikyusyu CableTV Net Inc.
 IP-ASN,45677 // Isahaya Cable Media Co.,Ltd
-IP-ASN,2915 // BBIX, Inc.
 IP-ASN,24251 // Iwakuni Cable Network Corporation
 IP-ASN,23822 // HAGI Television Co., Ltd.
 IP-ASN,23820 // Rakuten Group, Inc.
@@ -200,6 +199,7 @@ IP-ASN,131926 // Cable Television Saiki Co. , Ltd.
 IP-ASN,131079 // INTERNET MULTIFEED CO.
 IP-ASN,59097 // Okinawa Cross Head Co., Ltd.
 IP-ASN,37918 // NTT, Inc.
+IP-ASN,2915 // BBIX, Inc.
 IP-ASN,24263 // HONDA MOTOR Co., Ltd.
 IP-ASN,23786 // San-in Cable Vision CO.,LTD
 IP-ASN,23618 // Ibara Broadcasting Company
@@ -216,7 +216,6 @@ IP-ASN,59110 // BPS Inc.
 IP-ASN,58793 // FUJITSU LIMITED
 IP-ASN,24262 // HAMANASU INFORMATION Co., Ltd.
 IP-ASN,23818 // JETINTERNET Corporation
-IP-ASN,23815 // Japan Internet Xing Co., Ltd.
 IP-ASN,23628 // Academic newtown Community Cable Service
 IP-ASN,151385 // Japanet Holdings Co.,Ltd.
 IP-ASN,151376 // Solare Hotels and Resorts Co., Ltd.
@@ -236,11 +235,12 @@ IP-ASN,131077 // Deloitte Tohmatsu Group LLC
 IP-ASN,10021 // KVH Co.,Ltd
 IP-ASN,7671 // NTT SmartConnect Corporation
 IP-ASN,7505 // Fujitsu Systems Applications & Support Limited
+IP-ASN,63800 // SERVER-G Group
 IP-ASN,4785 // xTom
+IP-ASN,23815 // Japan Internet Xing Co., Ltd.
 IP-ASN,17675 // PacketFabric (Japan) Co., Ltd.
 IP-ASN,131966 // I-NET CORP.
 IP-ASN,131156 // LAC Co., Ltd.
-IP-ASN,63800 // SERVER-G Group
 IP-ASN,4725 // SoftBank Corp.
 IP-ASN,24282 // KAGOYA JAPAN Inc.
 IP-ASN,23620 // DMM.com LLC
@@ -313,6 +313,7 @@ IP-ASN,23634 // WIDE Project
 IP-ASN,18258 // Morgan Stanley Japan Limited
 IP-ASN,17944 // Japan Weather Association
 IP-ASN,146986 // SUZUYO SHINWART CORPORATION
+IP-ASN,139345 // Hyve Managed Hosting Corp Inc
 IP-ASN,133203 // SBI BITS Co., Ltd.
 IP-ASN,131988 // Takehara Cable Network Co,Ltd
 IP-ASN,131917 // Toshiba I.S. corp
@@ -354,7 +355,6 @@ IP-ASN,151389 // Synergy Cross Corporation
 IP-ASN,151386 // NHN Cloud Japan Corporation
 IP-ASN,146980 // Tokyo Metropolitan College of Industrial Technology Infomation System Engineering Course
 IP-ASN,142622 // Dream Information Laboratory
-IP-ASN,139345 // Hyve Managed Hosting Corp Inc
 IP-ASN,137445 // PF LINK SYSTEMS
 IP-ASN,135372 // Columbia Sportswear Japan Inc
 IP-ASN,133900 // Gilead Sciences, Inc.
@@ -483,6 +483,7 @@ IP-ASN,152859 // UNIADEX, LTD.
 IP-ASN,152645 // Flextech Inc.
 IP-ASN,151380 // Transform Co., Ltd.
 IP-ASN,151374 // IX-layers, Inc.
+IP-ASN,151373 // JAPAN 3D PRINTER
 IP-ASN,151371 // PAINA Information Development
 IP-ASN,150367 // Future Corp.
 IP-ASN,150362 // Mamireimu Net Work's
@@ -688,9 +689,9 @@ IP-ASN,151390 // RUTILEA, Inc.
 IP-ASN,151388 // SoftEther Corporation (SE-JIKKEN-AS)
 IP-ASN,151383 // EZSVS Japan Co., Ltd.
 IP-ASN,151379 // OPTAGE Inc.
-IP-ASN,151373 // JAPAN 3D PRINTER
 IP-ASN,151350 // NIPPON COMMUNICATIONS INC.
 IP-ASN,150685 // Ching Kuo
+IP-ASN,150368 // SERVER-G Group
 IP-ASN,150366 // demae-can co. ltd
 IP-ASN,150356 // GMO BRAND SECURITY Inc.
 IP-ASN,147295 // Metro Engines Inc
@@ -750,7 +751,6 @@ IP-ASN,151420 // APNIC ASN block
 IP-ASN,151382 // CIRCLE
 IP-ASN,151381 // CIRCLE
 IP-ASN,151372 // APNIC ASN block
-IP-ASN,150368 // SERVER-G Group
 IP-ASN,150314 // Rivulet Networks
 IP-ASN,150296 // 1NextNet
 IP-ASN,140868 // TakataSDCC Net
