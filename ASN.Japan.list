@@ -1,5 +1,5 @@
 // ASN Information in Japan. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-04-19 16:06:57
+// Last Updated: UTC 2026-04-20 16:21:49
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,214675 // Hidenori Matsuo
@@ -14,8 +14,8 @@ IP-ASN,2516 // KDDI CORPORATION
 IP-ASN,2518 // BIGLOBE Inc.
 IP-ASN,4777 // Asia Pacific Network Information Centre
 IP-ASN,7500 // WIDE Project
-IP-ASN,9605 // NTT DOCOMO, INC.
 IP-ASN,131958 // Tama Cable Network Co.,Ltd.
+IP-ASN,9605 // NTT DOCOMO, INC.
 IP-ASN,7522 // STNet, Incorporated
 IP-ASN,9354 // Community Network Center Inc.
 IP-ASN,2519 // ARTERIA Networks Corporation
@@ -47,7 +47,6 @@ IP-ASN,9993 // ITOCHU Techno-Solutions Corporation
 IP-ASN,9607 // BroadBand Tower, Inc.
 IP-ASN,59123 // Kakaku.com, Inc.
 IP-ASN,9824 // JCOM Co., Ltd.
-IP-ASN,9434 // Internet Initiative Japan, Inc.
 IP-ASN,4685 // Asahi Net
 IP-ASN,18077 // Yamaguchi Cable Vision Co.,Ltd
 IP-ASN,9622 // Kurashiki Cable TV
@@ -476,6 +475,7 @@ IP-ASN,17516 // NTT COMWARE CORPORATION
 IP-ASN,17506 // ARTERIA Networks Corporation
 IP-ASN,17505 // SoftBank Corp.
 IP-ASN,152871 // TAIYO NIPPON SANSO CORPORATION
+IP-ASN,152870 // Incorporated Educational Institution Kaichigakuen
 IP-ASN,152869 // ICJ, Inc.
 IP-ASN,152868 // THX Corp.
 IP-ASN,152865 // Tokyo University of Technology Linux Club
@@ -679,7 +679,6 @@ IP-ASN,17510 // INFORMATION SERVICES INTERNATIONAL - DENTSU, LTD.
 IP-ASN,153929 // Allied Business Inc.
 IP-ASN,152877 // APNIC ASN block
 IP-ASN,152875 // MEEQ Inc.
-IP-ASN,152870 // Incorporated Educational Institution Kaichigakuen
 IP-ASN,152861 // Chiba Institute of Technology
 IP-ASN,152184 // Tamukai Network
 IP-ASN,151390 // RUTILEA, Inc.
@@ -724,7 +723,6 @@ IP-ASN,10012 // Rakuten Mobile, Inc.
 IP-ASN,10001 // Mics Network Corporation
 IP-ASN,63778 // Border Gateway Protocol Network Analysis Project
 IP-ASN,60445 // DODO K.K.
-IP-ASN,59113 // RICOH JAPAN Corporation
 IP-ASN,56218 // QGPOP
 IP-ASN,45681 // Show Corporation
 IP-ASN,38033 // internet content provider

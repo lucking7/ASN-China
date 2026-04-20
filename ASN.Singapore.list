@@ -1,5 +1,5 @@
 // ASN Information in Singapore. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-04-19 16:06:58
+// Last Updated: UTC 2026-04-20 16:21:50
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,24482 // SG.GS
@@ -23,11 +23,11 @@ IP-ASN,208959 // SlashN Services Pte. Ltd.
 IP-ASN,154324 // AltusCloud Pte. Ltd.
 IP-ASN,3758 // SingNet
 IP-ASN,4773 // MobileOne Ltd. Mobile/Internet Service Provider Singapore
-IP-ASN,212628 // ARTRUBY PTE. LTD.
 IP-ASN,56308 // TELEKOMUNIKASI INDONESIA INTERNATIONAL, PTE.LTD
+IP-ASN,212628 // ARTRUBY PTE. LTD.
 IP-ASN,17547 // M1 NET LTD
-IP-ASN,131219 // Indosat Singapore Pte. Ltd.
 IP-ASN,150436 // Byteplus Pte. Ltd.
+IP-ASN,131219 // Indosat Singapore Pte. Ltd.
 IP-ASN,4628 // Pacific Internet Pte Ltd
 IP-ASN,152144 // LIGHTSTORM ASIA PTE. LTD.
 IP-ASN,132132 // MyRepublic Ltd.
@@ -68,9 +68,8 @@ IP-ASN,141389 // GOIP BUSINESS SOLUTION PTE. LTD.
 IP-ASN,58436 // SECUREAX PTE LTD
 IP-ASN,137535 // JT TELECOM INTERNATIONAL PTE.LTD.
 IP-ASN,135530 // Acronis Asia Pte. Ltd
-IP-ASN,133456 // ALAGAS NETWORK PTE. LTD.
-IP-ASN,135409 // Kacific Broadband Satellites Pte Ltd
 IP-ASN,151358 // Finovy Pte. Ltd.
+IP-ASN,135409 // Kacific Broadband Satellites Pte Ltd
 IP-ASN,132696 // SGIX Services
 IP-ASN,17645 // ASN - NTT SINGAPORE PTE LTD
 IP-ASN,132816 // SimplerCloud Pte Ltd
@@ -426,6 +425,7 @@ IP-ASN,133728 // Chubb Asia Pacific Pte Ltd
 IP-ASN,133600 // ESSEC
 IP-ASN,133541 // SIPPE-SG
 IP-ASN,133535 // PRIMABANANEN PTE. LTD.
+IP-ASN,133456 // ALAGAS NETWORK PTE. LTD.
 IP-ASN,133449 // VASTSPACE PTE. LTD.
 IP-ASN,133422 // Aviva Asia Pte Ltd
 IP-ASN,133391 // SYSNETPRO SOLUTION PTE LTD
