@@ -1,5 +1,5 @@
 // ASN Information in Japan. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-04-25 16:08:20
+// Last Updated: UTC 2026-04-26 16:09:40
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,59105 // Home NOC Operators Group
@@ -36,8 +36,8 @@ IP-ASN,59125 // FAMILY NET JAPAN INCORPORATED
 IP-ASN,17534 // NSK Co.,Ltd.
 IP-ASN,17961 // mitene internet co., ltd.
 IP-ASN,131948 // FORNEXT Inc.
-IP-ASN,138384 // Rakuten Mobile Network, Inc.
 IP-ASN,17686 // ACCELIA
+IP-ASN,138384 // Rakuten Mobile Network, Inc.
 IP-ASN,9595 // NTT-ME Corporation
 IP-ASN,7506 // GMO Internet Group, Inc.
 IP-ASN,9997 // Suzuka Cable Co.,Ltd
@@ -78,10 +78,10 @@ IP-ASN,17958 // Kasaoka Cable Vision Co,LTD.
 IP-ASN,139076 // EnjoyVC Japan Corporation
 IP-ASN,9351 // ZTV CO.,LTD
 IP-ASN,7660 // Asia Pacific Advanced Network - Japan
+IP-ASN,3258 // xTom Japan Corporation
 IP-ASN,138968 // rainbow network limited
 IP-ASN,7690 // Mirai Communication Network Inc.
 IP-ASN,4693 // CSK-IT MANAGEMENT CORPORATION
-IP-ASN,3258 // xTom Japan Corporation
 IP-ASN,23778 // IMIZU CABLE NETWORK CO.,LTD.
 IP-ASN,18278 // Cable TV Corporation
 IP-ASN,10019 // Matsusaka Cable-TV Station Inc.
@@ -99,9 +99,9 @@ IP-ASN,18274 // Utsunomiya Cable TV Corporation
 IP-ASN,37922 // Diversitymedia Co.,Ltd.
 IP-ASN,23824 // Future Spirits Co.,Ltd.
 IP-ASN,18282 // Tonami System Solutions Co., Ltd.
-IP-ASN,18150 // NetComBB Co.,Ltd.
 IP-ASN,45691 // DODO K.K.
 IP-ASN,24259 // kanuma cable television Corporation
+IP-ASN,18150 // NetComBB Co.,Ltd.
 IP-ASN,17682 // 296 BROAD NET Com Inc
 IP-ASN,152858 // Woven by Toyota, Inc.
 IP-ASN,146981 // Nekojarashi Inc.
@@ -543,7 +543,7 @@ IP-ASN,7686 // JCOM Co., Ltd.
 IP-ASN,7678 // Prox System Design Inc.
 IP-ASN,7663 // FUJIMIC INC.
 IP-ASN,7509 // Hokkaido University
-IP-ASN,7257 // ITSUDATTE INC.
+IP-ASN,7257 // OTO GK
 IP-ASN,63801 // DODO K.K.
 IP-ASN,63789 // NeXtWEB Corporation
 IP-ASN,63784 // Digital Agency

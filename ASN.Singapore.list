@@ -1,5 +1,5 @@
 // ASN Information in Singapore. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-04-25 16:08:20
+// Last Updated: UTC 2026-04-26 16:09:40
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,24482 // SG.GS
@@ -32,9 +32,9 @@ IP-ASN,150436 // Byteplus Pte. Ltd.
 IP-ASN,17547 // M1 NET LTD
 IP-ASN,4628 // Pacific Internet Pte Ltd
 IP-ASN,152144 // LIGHTSTORM ASIA PTE. LTD.
-IP-ASN,931 // Hyonix
 IP-ASN,138699 // TIKTOK PTE. LTD.
 IP-ASN,10024 // LGA International
+IP-ASN,931 // Hyonix
 IP-ASN,55518 // Singapore Internet Exchange Limited
 IP-ASN,23855 // Singapore Advanced Research and Education Network
 IP-ASN,23856 // SPTEL PTE. LTD.
@@ -105,7 +105,6 @@ IP-ASN,136785 // TOFFS TECHNOLOGIES PTE LTD
 IP-ASN,134677 // Dromatics Systems Pte Ltd
 IP-ASN,10146 // Ford Motor Company
 IP-ASN,59345 // CME Group Singapore Operations Pte Ldt.
-IP-ASN,45938 // 3 Tai Seng drive # 04-00
 IP-ASN,399114 // Hyonix
 IP-ASN,152475 // BGPNET PTE. LTD.
 IP-ASN,150423 // Server Galactic Private Limited
@@ -119,6 +118,7 @@ IP-ASN,56311 // Morgan Stanley Management Service (Singapore) Pte. Ltd
 IP-ASN,56197 // KDDI ASIA PACIFIC PTE. LTD.
 IP-ASN,56043 // PEPSICO INTERNATIONAL PTE. LTD.
 IP-ASN,4907 // BGPNET PTE. LTD.
+IP-ASN,45938 // 3 Tai Seng drive # 04-00
 IP-ASN,45445 // General Motors Korea, Bupyeong
 IP-ASN,38862 // TullettPrebon Singapore multihoming ISP connection AS
 IP-ASN,38532 // Exabytes Network (Singapore) Pte. Ltd.
@@ -284,7 +284,6 @@ IP-ASN,133471 // SYNAPXE PTE. LTD.
 IP-ASN,133470 // SYNAPXE PTE. LTD.
 IP-ASN,133466 // Robert Bosch GmbH
 IP-ASN,133462 // Texas Instruments, Inc.
-IP-ASN,133387 // GOVERNMENT TECHNOLOGY AGENCY
 IP-ASN,133136 // MyRepublic Ltd.
 IP-ASN,133025 // InMobi Pte. Ltd.
 IP-ASN,133013 // AbbVie, Inc.
@@ -428,6 +427,7 @@ IP-ASN,133456 // ALAGAS NETWORK PTE. LTD.
 IP-ASN,133449 // VASTSPACE PTE. LTD.
 IP-ASN,133422 // Aviva Asia Pte Ltd
 IP-ASN,133391 // SYSNETPRO SOLUTION PTE LTD
+IP-ASN,133387 // GOVERNMENT TECHNOLOGY AGENCY
 IP-ASN,133151 // Garena Online Pte Ltd
 IP-ASN,133134 // AION TECHNOLOGIES PTE LTD
 IP-ASN,132824 // Beyotta Network LLP
