@@ -1,5 +1,5 @@
 // ASN Information in Japan. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-04-26 16:09:40
+// Last Updated: UTC 2026-04-27 16:28:26
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,59105 // Home NOC Operators Group
@@ -16,7 +16,6 @@ IP-ASN,131958 // Tama Cable Network Co.,Ltd.
 IP-ASN,7500 // WIDE Project
 IP-ASN,9605 // NTT DOCOMO, INC.
 IP-ASN,7522 // STNet, Incorporated
-IP-ASN,214675 // Hidenori Matsuo
 IP-ASN,9354 // Community Network Center Inc.
 IP-ASN,2519 // ARTERIA Networks Corporation
 IP-ASN,18283 // Chupicom Inc.
@@ -24,6 +23,7 @@ IP-ASN,4713 // NTT DOCOMO BUSINESS,Inc.
 IP-ASN,54415 // WIZ K.K.
 IP-ASN,9370 // SAKURA Internet Inc.
 IP-ASN,7679 // QTnet,Inc.
+IP-ASN,214675 // Hidenori Matsuo
 IP-ASN,150363 // SoftEther Corporation
 IP-ASN,10010 // TOKAI Communications Corporation
 IP-ASN,38631 // LY Corporation
@@ -76,10 +76,10 @@ IP-ASN,59126 // NCT CO.,LTD.
 IP-ASN,24271 // Iruma CATV co.
 IP-ASN,17958 // Kasaoka Cable Vision Co,LTD.
 IP-ASN,139076 // EnjoyVC Japan Corporation
+IP-ASN,138968 // rainbow network limited
 IP-ASN,9351 // ZTV CO.,LTD
 IP-ASN,7660 // Asia Pacific Advanced Network - Japan
 IP-ASN,3258 // xTom Japan Corporation
-IP-ASN,138968 // rainbow network limited
 IP-ASN,7690 // Mirai Communication Network Inc.
 IP-ASN,4693 // CSK-IT MANAGEMENT CORPORATION
 IP-ASN,23778 // IMIZU CABLE NETWORK CO.,LTD.
@@ -108,6 +108,7 @@ IP-ASN,146981 // Nekojarashi Inc.
 IP-ASN,139468 // DC Communications Inc.
 IP-ASN,131934 // ICC Corporation
 IP-ASN,131930 // Tokyo Broadcasting System Television, Inc.
+IP-ASN,9434 // Internet Initiative Japan, Inc.
 IP-ASN,4711 // INTEC Inc.
 IP-ASN,18094 // Tokyo Cable Network.,INC
 IP-ASN,17514 // Otsuka Corp.
@@ -306,7 +307,7 @@ IP-ASN,59124 // KYOTO Prefectural Government
 IP-ASN,45680 // DOVA Corporation
 IP-ASN,45679 // Tatsumi, Tomo
 IP-ASN,37906 // GMO NetIRD, Inc.
-IP-ASN,37900 // NTT Communications Corporation
+IP-ASN,37900 // NTT DOCOMO BUSINESS, Inc.
 IP-ASN,24287 // National Institute of Informatics
 IP-ASN,23634 // WIDE Project
 IP-ASN,17944 // Japan Weather Association
@@ -350,7 +351,6 @@ IP-ASN,17691 // NDS Co., Ltd.
 IP-ASN,17509 // STARNET Co.,Ltd.
 IP-ASN,152874 // JONET
 IP-ASN,152724 // Point72 Japan Limited
-IP-ASN,151389 // Synergy Cross Corporation
 IP-ASN,151386 // NHN Cloud Japan Corporation
 IP-ASN,146980 // Tokyo Metropolitan College of Industrial Technology Infomation System Engineering Course
 IP-ASN,142622 // Dream Information Laboratory
@@ -416,7 +416,7 @@ IP-ASN,38462 // Osaki Computer Engineering Co.Ltd
 IP-ASN,37917 // University of Tsukuba
 IP-ASN,37915 // Wakayama Prefectural Government
 IP-ASN,37905 // Brastel Co.,Ltd
-IP-ASN,37897 // AXEL NETWORKS, INC.
+IP-ASN,37897 // AXEL ENTERMEDIA, INC.
 IP-ASN,37888 // HORIBA, Ltd.
 IP-ASN,2512 // TCP Inc.
 IP-ASN,2506 // NTT business Solutions corporation
@@ -479,6 +479,7 @@ IP-ASN,152868 // THX Corp.
 IP-ASN,152865 // Tokyo University of Technology Linux Club
 IP-ASN,152859 // UNIADEX, LTD.
 IP-ASN,152645 // Flextech Inc.
+IP-ASN,151389 // Synergy Cross Corporation
 IP-ASN,151380 // Transform Co., Ltd.
 IP-ASN,151374 // IX-layers, Inc.
 IP-ASN,151371 // PAINA Information Development
