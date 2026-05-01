@@ -1,5 +1,5 @@
 // ASN Information in Japan. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-04-30 16:26:45
+// Last Updated: UTC 2026-05-01 16:16:10
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,59105 // Home NOC Operators Group
@@ -236,10 +236,10 @@ IP-ASN,7505 // Fujitsu Systems Applications & Support Limited
 IP-ASN,63800 // SERVER-G Group
 IP-ASN,4785 // xTom
 IP-ASN,24282 // KAGOYA JAPAN Inc.
-IP-ASN,23815 // Japan Internet Xing Co., Ltd.
 IP-ASN,17675 // PacketFabric (Japan) Co., Ltd.
 IP-ASN,131966 // I-NET CORP.
 IP-ASN,131156 // LAC Co., Ltd.
+IP-ASN,23815 // Japan Internet Xing Co., Ltd.
 IP-ASN,23620 // DMM.com LLC
 IP-ASN,146969 // SB Technology Corp.
 IP-ASN,131965 // Xserver Inc.
@@ -255,6 +255,7 @@ IP-ASN,17948 // EditNet, Incorporated
 IP-ASN,58791 // GMO Internet Group, Inc.
 IP-ASN,4673 // NTT DATA CORPORATION
 IP-ASN,18092 // Kyushu Tele Communications Company
+IP-ASN,137508 // rainbow network limited
 IP-ASN,10013 // FreeBit Co.,Ltd.
 IP-ASN,55381 // CITY-CABLE SHUNAN Corporation
 IP-ASN,7514 // Computer Engineering & Consulting, Ltd.
@@ -263,9 +264,7 @@ IP-ASN,55392 // INTERNET MULTIFEED CO.
 IP-ASN,24295 // PacketFabric (Japan) Co., Ltd.
 IP-ASN,18264 // Seikei Eizo Network Inc.
 IP-ASN,139358 // Kansuiun Co., Ltd
-IP-ASN,137508 // rainbow network limited
 IP-ASN,10026 // Telstra Global Internet Services Network Blocks
-IP-ASN,9999 // AT TOKYO Corporation
 IP-ASN,7521 // INTERNET MULTIFEED CO.
 IP-ASN,59116 // AIG Technologies KK
 IP-ASN,59093 // IMABARI CATV CORPORATION
@@ -275,9 +274,11 @@ IP-ASN,17940 // CYBER LINKS Co.,Ltd.
 IP-ASN,146976 // Kvision Co.,Ltd.
 IP-ASN,131976 // INTERNET MULTIFEED CO.
 IP-ASN,131925 // FAMILY NET JAPAN INCORPORATED
+IP-ASN,9999 // AT TOKYO Corporation
 IP-ASN,7664 // HARENET INC.
 IP-ASN,63805 // Ryobi Systems Co., Ltd.
 IP-ASN,58648 // AT-I, Inc.
+IP-ASN,51044 // Kazuki Yamaguchi
 IP-ASN,38656 // Loutres
 IP-ASN,23614 // Kochi Systems Co., Ltd.
 IP-ASN,131969 // Suzuyo Shinwart Corporation
@@ -285,7 +286,6 @@ IP-ASN,131928 // Tottori Teletopia Co., Ltd.
 IP-ASN,131159 // Yamagata University
 IP-ASN,9357 // NRI SecureTechnologies, Ltd.
 IP-ASN,59098 // Mamireimu Net Work's
-IP-ASN,51044 // Kazuki Yamaguchi
 IP-ASN,4723 // Dolphin
 IP-ASN,2510 // FUJITSU LIMITED
 IP-ASN,24477 // NetApp, Inc.
@@ -297,7 +297,6 @@ IP-ASN,151387 // OMURA CABLE TELEVISION K.K.
 IP-ASN,151377 // Solare Hotels and Resorts Co., Ltd.
 IP-ASN,151375 // HimawariTV.Corporation
 IP-ASN,135161 // GMO-Z com NetDesign Holdings Co., Ltd.
-IP-ASN,134351 // Leaseweb Japan K.K.
 IP-ASN,131910 // SORACOM. INC.
 IP-ASN,9619 // Sony Global Solutions Inc.
 IP-ASN,7674 // NTT DOCOMO BUSINESS, Inc
@@ -312,6 +311,7 @@ IP-ASN,23634 // WIDE Project
 IP-ASN,17944 // Japan Weather Association
 IP-ASN,146986 // SUZUYO SHINWART CORPORATION
 IP-ASN,139345 // Hyve Managed Hosting Corp Inc
+IP-ASN,134351 // Leaseweb Japan K.K.
 IP-ASN,133203 // SBI BITS Co., Ltd.
 IP-ASN,131988 // Takehara Cable Network Co,Ltd
 IP-ASN,131971 // Japan Network Information Center
