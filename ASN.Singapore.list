@@ -1,5 +1,5 @@
 // ASN Information in Singapore. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-05-02 16:11:57
+// Last Updated: UTC 2026-05-03 16:11:42
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,24482 // SG.GS
@@ -14,8 +14,8 @@ IP-ASN,24115 // Equinix
 IP-ASN,133210 // EN Technologies Pte Ltd
 IP-ASN,139057 // Edgenext Legend Dynasty Pte. Ltd.
 IP-ASN,10122 // NETSTAR (SG) PTE. LTD.
-IP-ASN,63949 // Akamai Connected Cloud
 IP-ASN,132132 // MyRepublic Ltd.
+IP-ASN,63949 // Akamai Connected Cloud
 IP-ASN,45474 // Nexusguard Pte. Ltd.
 IP-ASN,7473 // Singapore Telecommunications Ltd
 IP-ASN,37989 // DCS1 Pte. Ltd.
@@ -23,8 +23,8 @@ IP-ASN,137831 // SEA IX
 IP-ASN,137182 // BLUE WIRELESS PTE LTD
 IP-ASN,208959 // SlashN Services Pte. Ltd.
 IP-ASN,154324 // AltusCloud Pte. Ltd.
-IP-ASN,3758 // SingNet
 IP-ASN,212628 // ARTRUBY PTE. LTD.
+IP-ASN,3758 // SingNet
 IP-ASN,4773 // MobileOne Ltd. Mobile/Internet Service Provider Singapore
 IP-ASN,56308 // TELEKOMUNIKASI INDONESIA INTERNATIONAL, PTE.LTD
 IP-ASN,17547 // M1 NET LTD
@@ -33,10 +33,10 @@ IP-ASN,131219 // Indosat Singapore Pte. Ltd.
 IP-ASN,4628 // Pacific Internet Pte Ltd
 IP-ASN,138699 // TIKTOK PTE. LTD.
 IP-ASN,10024 // LGA International
-IP-ASN,931 // Hyonix
 IP-ASN,55518 // Singapore Internet Exchange Limited
-IP-ASN,23855 // Singapore Advanced Research and Education Network
+IP-ASN,931 // Hyonix
 IP-ASN,152144 // LIGHTSTORM ASIA PTE. LTD.
+IP-ASN,23855 // Singapore Advanced Research and Education Network
 IP-ASN,23856 // SPTEL PTE. LTD.
 IP-ASN,139225 // Whatbox Inc.
 IP-ASN,134363 // EZIT Solutions Pte Ltd
