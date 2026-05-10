@@ -1,5 +1,5 @@
 // ASN Information in Japan. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-05-09 16:13:40
+// Last Updated: UTC 2026-05-10 16:14:43
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,59105 // Home NOC Operators Group
@@ -196,6 +196,7 @@ IP-ASN,63802 // Nippon Telegraph and Telephone East Corporation
 IP-ASN,59097 // Okinawa Cross Head Co., Ltd.
 IP-ASN,58793 // FUJITSU LIMITED
 IP-ASN,38644 // INTERNET MULTIFEED CO.
+IP-ASN,38074 // SDCC Japan-West Area
 IP-ASN,37908 // KIBI Cable Television Co.,Ltd.
 IP-ASN,24263 // HONDA MOTOR Co., Ltd.
 IP-ASN,24262 // HAMANASU INFORMATION Co., Ltd.
@@ -211,7 +212,6 @@ IP-ASN,7503 // Air Internet Service Co.,Ltd.
 IP-ASN,59127 // Newmedia Corporation
 IP-ASN,59122 // Ranger-Systems Co., Ltd.
 IP-ASN,59110 // BPS Inc.
-IP-ASN,38074 // SDCC Japan-West Area
 IP-ASN,23818 // JETINTERNET Corporation
 IP-ASN,23786 // San-in Cable Vision CO.,LTD
 IP-ASN,23628 // Academic newtown Community Cable Service
@@ -251,6 +251,7 @@ IP-ASN,63798 // Industrial Cyber Security Center of Excellence
 IP-ASN,24572 // Yahoo Japan
 IP-ASN,17948 // EditNet, Incorporated
 IP-ASN,23774 // Japan Registry Service Co., Ltd.
+IP-ASN,137508 // rainbow network limited
 IP-ASN,63800 // SERVER-G Group
 IP-ASN,58791 // GMO Internet Group, Inc.
 IP-ASN,4673 // NTT DATA CORPORATION
@@ -262,7 +263,6 @@ IP-ASN,55381 // CITY-CABLE SHUNAN Corporation
 IP-ASN,24295 // PacketFabric (Japan) Co., Ltd.
 IP-ASN,23640 // BBIX,Inc.
 IP-ASN,18264 // Seikei Eizo Network Inc.
-IP-ASN,137508 // rainbow network limited
 IP-ASN,10026 // Telstra Global Internet Services Network Blocks
 IP-ASN,7521 // INTERNET MULTIFEED CO.
 IP-ASN,59116 // AIG Technologies KK
@@ -350,7 +350,6 @@ IP-ASN,151387 // OMURA CABLE TELEVISION K.K.
 IP-ASN,151386 // NHN Cloud Japan Corporation
 IP-ASN,146980 // Tokyo Metropolitan College of Industrial Technology Infomation System Engineering Course
 IP-ASN,142622 // Dream Information Laboratory
-IP-ASN,141757 // Zoho Japan Corporation
 IP-ASN,137445 // PF LINK SYSTEMS
 IP-ASN,135372 // Columbia Sportswear Japan Inc
 IP-ASN,133900 // Gilead Sciences, Inc.
@@ -390,6 +389,7 @@ IP-ASN,59104 // Soka University
 IP-ASN,59094 // esu2 Corporation
 IP-ASN,59092 // kronos.Co.,Ltd.
 IP-ASN,59091 // Kanagawa Institute of Technology
+IP-ASN,58790 // SERVER-G Group
 IP-ASN,58789 // DUNAMIS Co.,Ltd
 IP-ASN,58788 // Chiroro-Net Co.,Ltd.
 IP-ASN,58647 // Kagawa University
@@ -494,6 +494,7 @@ IP-ASN,148985 // ANSYS Japan K.K.
 IP-ASN,146987 // GMO GlobalSign Holdings K.K.
 IP-ASN,146985 // KISSEI COMTEC Co.,Ltd
 IP-ASN,142165 // Bosch Corporation
+IP-ASN,141757 // Zoho Japan Corporation
 IP-ASN,140501 // Itiviti Japan K.K.
 IP-ASN,139472 // Catalina Marketing Japan K.K.
 IP-ASN,137819 // Beeks Financial Cloud (Japan)
@@ -558,7 +559,6 @@ IP-ASN,59106 // Cyber and Internet Association
 IP-ASN,59099 // BroadBand Tower, Inc.
 IP-ASN,59096 // Meiji Gakuin University
 IP-ASN,59095 // ACCELIA
-IP-ASN,58790 // SERVER-G Group
 IP-ASN,58785 // Tohoku Gakuin University
 IP-ASN,58784 // Rissho University
 IP-ASN,58654 // BLESS Co.,Ltd.
