@@ -1,5 +1,5 @@
 // ASN Information in Singapore. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-05-29 17:03:52
+// Last Updated: UTC 2026-05-30 16:17:41
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,24482 // SG.GS
@@ -12,8 +12,8 @@ IP-ASN,139341 // ACE
 IP-ASN,38001 // NewMedia Express Pte Ltd
 IP-ASN,151326 // DCConnect Communication Pte. Ltd.
 IP-ASN,24115 // Equinix
-IP-ASN,139057 // Edgenext Legend Dynasty Pte. Ltd.
 IP-ASN,133210 // EN Technologies Pte Ltd
+IP-ASN,139057 // Edgenext Legend Dynasty Pte. Ltd.
 IP-ASN,10122 // NETSTAR (SG) PTE. LTD.
 IP-ASN,63949 // Akamai Connected Cloud
 IP-ASN,132132 // MyRepublic Ltd.
@@ -27,8 +27,8 @@ IP-ASN,208959 // SlashN Services Pte. Ltd.
 IP-ASN,212628 // ARTRUBY PTE. LTD.
 IP-ASN,154324 // AltusCloud Pte. Ltd.
 IP-ASN,931 // Hyonix
-IP-ASN,4773 // MobileOne Ltd. Mobile/Internet Service Provider Singapore
 IP-ASN,3758 // SingNet
+IP-ASN,4773 // MobileOne Ltd. Mobile/Internet Service Provider Singapore
 IP-ASN,56308 // TELEKOMUNIKASI INDONESIA INTERNATIONAL, PTE.LTD
 IP-ASN,17547 // M1 NET LTD
 IP-ASN,150436 // Byteplus Pte. Ltd.
@@ -61,9 +61,9 @@ IP-ASN,997 // Beyotta Services LLP
 IP-ASN,197537 // WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD.
 IP-ASN,134469 // Digital Singapore 2 Pte Ltd
 IP-ASN,151404 // 3GO TECHNOLOGY PTE. LTD.
-IP-ASN,7610 // NUS Gigapop
-IP-ASN,9419 // Nanyang Technological University
 IP-ASN,135530 // Acronis Asia Pte. Ltd
+IP-ASN,9419 // Nanyang Technological University
+IP-ASN,7610 // NUS Gigapop
 IP-ASN,9255 // Singapore Telecom
 IP-ASN,139883 // SPTEL PTE. LTD.
 IP-ASN,58436 // SECUREAX PTE LTD
@@ -115,6 +115,7 @@ IP-ASN,136202 // Freepoint Commodities Singapore Pte. Ltd.
 IP-ASN,133426 // Northtelecom PTE LTD
 IP-ASN,9874 // StarHub Ltd
 IP-ASN,9649 // Information Technology Office
+IP-ASN,64003 // 8 Anthony Road
 IP-ASN,56311 // Morgan Stanley Management Service (Singapore) Pte. Ltd
 IP-ASN,56197 // KDDI ASIA PACIFIC PTE. LTD.
 IP-ASN,56043 // PEPSICO INTERNATIONAL PTE. LTD.
@@ -184,7 +185,6 @@ IP-ASN,9506 // Singtel Fibre Broadband
 IP-ASN,9292 // 21 Tampines Avenue 1
 IP-ASN,9247 // National Institute of Education
 IP-ASN,64086 // Australia and New Zealand Banking Group Limited (ANZ)
-IP-ASN,64003 // 8 Anthony Road
 IP-ASN,63930 // READY SERVER PTE LTD
 IP-ASN,63834 // PrimeXM Networks (Singapore) PTE. LTD
 IP-ASN,59364 // vHost Holdings Pte Ltd
