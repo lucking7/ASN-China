@@ -1,5 +1,5 @@
 // ASN Information in Singapore. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-06-05 16:44:58
+// Last Updated: UTC 2026-06-06 16:20:23
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,24482 // SG.GS
@@ -11,8 +11,8 @@ IP-ASN,139341 // ACE
 IP-ASN,38001 // NewMedia Express Pte Ltd
 IP-ASN,4657 // StarHub Ltd
 IP-ASN,151326 // DCConnect Communication Pte. Ltd.
-IP-ASN,24115 // Equinix
 IP-ASN,139057 // Edgenext Legend Dynasty Pte. Ltd.
+IP-ASN,24115 // Equinix
 IP-ASN,133210 // EN Technologies Pte Ltd
 IP-ASN,10122 // NETSTAR (SG) PTE. LTD.
 IP-ASN,63949 // Akamai Connected Cloud
@@ -35,12 +35,12 @@ IP-ASN,132132 // MyRepublic Ltd.
 IP-ASN,138699 // TIKTOK PTE. LTD.
 IP-ASN,10024 // LGA International
 IP-ASN,135530 // Acronis Asia Pte. Ltd
-IP-ASN,55518 // Singapore Internet Exchange Limited
 IP-ASN,137991 // Lifeway Singapore Pte. Ltd.
 IP-ASN,23856 // SPTEL PTE. LTD.
+IP-ASN,55518 // Singapore Internet Exchange Limited
 IP-ASN,23855 // Singapore Advanced Research and Education Network
-IP-ASN,139225 // Whatbox Inc.
 IP-ASN,140577 // Ahrefs Pte Ltd
+IP-ASN,139225 // Whatbox Inc.
 IP-ASN,134363 // EZIT Solutions Pte Ltd
 IP-ASN,140719 // 201309973N
 IP-ASN,142160 // JOYO TECHNOLOGY PTE. LTD.
@@ -86,19 +86,19 @@ IP-ASN,24319 // Akamai Technologies Tokyo ASN
 IP-ASN,4765 // Pacific Internet Pte Ltd
 IP-ASN,150347 // Planisware Singapore Pte. Ltd
 IP-ASN,134190 // IPDC SOLUTIONS PTE LTD
-IP-ASN,59253 // LEASEWEB SINGAPORE PTE. LTD.
 IP-ASN,45166 // Pacific Internet Pte Ltd
 IP-ASN,141190 // Jindun Technology PTE. Ltd.
 IP-ASN,139070 // Google Asia Pacific Pte. Ltd.
+IP-ASN,59253 // LEASEWEB SINGAPORE PTE. LTD.
 IP-ASN,213122 // Krixe Pte. Ltd.
 IP-ASN,133748 // CORETEL NETWORKS (INTERNATIONAL) PTE LTD
 IP-ASN,150423 // Server Galactic Private Limited
 IP-ASN,149020 // WebHorizon Internet Services
+IP-ASN,142002 // Scloud Pte Ltd
 IP-ASN,134963 // Alibaba Cloud (Singapore) Private Limited
 IP-ASN,134677 // Dromatics Systems Pte Ltd
 IP-ASN,9226 // 1-Net Singapore Pte Ltd
 IP-ASN,23767 // A-STAR
-IP-ASN,142002 // Scloud Pte Ltd
 IP-ASN,141180 // HUAWEI INTERNATIONAL PTE. LTD.
 IP-ASN,140666 // ANY DIGITAL PTE. LTD.
 IP-ASN,137962 // GREYPANEL PTE LTD
@@ -258,6 +258,8 @@ IP-ASN,139349 // Diebold Nixdorf Singapore PTE. LTD.
 IP-ASN,139028 // Singapore Technologies Engineering Ltd
 IP-ASN,138610 // SAP SE
 IP-ASN,138606 // Suga Pte. Ltd
+IP-ASN,138593 // Diebold Nixdorf Singapore PTE. LTD.
+IP-ASN,138588 // Diebold Nixdorf Singapore PTE. LTD.
 IP-ASN,138458 // NEC ASIA PACIFIC PTE LTD
 IP-ASN,137948 // Diebold Nixdorf Singapore PTE. LTD.
 IP-ASN,137932 // IPDC SOLUTIONS PTE LTD
@@ -396,8 +398,6 @@ IP-ASN,139746 // FlexTrade Systems Pte Ltd
 IP-ASN,139617 // ISEAS Yusof Ishak Institute
 IP-ASN,139291 // INFINITIUM HOLDINGS PTE. LTD.
 IP-ASN,138626 // AVALOQ SOURCING ASIA PACIFIC (SINGAPORE) PTE. LTD.
-IP-ASN,138593 // Diebold Nixdorf Singapore PTE. LTD.
-IP-ASN,138588 // Diebold Nixdorf Singapore PTE. LTD.
 IP-ASN,138539 // Jewel Changi Airport Trustee Pte. Ltd.
 IP-ASN,138459 // NEC ASIA PACIFIC PTE LTD
 IP-ASN,138419 // Pico (Singapore) Pte. Ltd.
