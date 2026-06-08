@@ -1,5 +1,5 @@
 // ASN Information in Singapore. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-06-07 16:25:50
+// Last Updated: UTC 2026-06-08 17:00:22
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,24482 // SG.GS
@@ -11,8 +11,8 @@ IP-ASN,139341 // ACE
 IP-ASN,38001 // NewMedia Express Pte Ltd
 IP-ASN,4657 // StarHub Ltd
 IP-ASN,151326 // DCConnect Communication Pte. Ltd.
-IP-ASN,139057 // Edgenext Legend Dynasty Pte. Ltd.
 IP-ASN,24115 // Equinix
+IP-ASN,139057 // Edgenext Legend Dynasty Pte. Ltd.
 IP-ASN,133210 // EN Technologies Pte Ltd
 IP-ASN,10122 // NETSTAR (SG) PTE. LTD.
 IP-ASN,63949 // Akamai Connected Cloud
@@ -35,13 +35,13 @@ IP-ASN,132132 // MyRepublic Ltd.
 IP-ASN,138699 // TIKTOK PTE. LTD.
 IP-ASN,10024 // LGA International
 IP-ASN,135530 // Acronis Asia Pte. Ltd
-IP-ASN,137991 // Lifeway Singapore Pte. Ltd.
-IP-ASN,23856 // SPTEL PTE. LTD.
-IP-ASN,55518 // Singapore Internet Exchange Limited
 IP-ASN,23855 // Singapore Advanced Research and Education Network
-IP-ASN,140577 // Ahrefs Pte Ltd
+IP-ASN,23856 // SPTEL PTE. LTD.
+IP-ASN,137991 // Lifeway Singapore Pte. Ltd.
+IP-ASN,55518 // Singapore Internet Exchange Limited
 IP-ASN,139225 // Whatbox Inc.
 IP-ASN,134363 // EZIT Solutions Pte Ltd
+IP-ASN,140577 // Ahrefs Pte Ltd
 IP-ASN,140719 // 201309973N
 IP-ASN,142160 // JOYO TECHNOLOGY PTE. LTD.
 IP-ASN,963 // N963 PTE. LTD.
@@ -62,8 +62,8 @@ IP-ASN,134469 // Digital Singapore 2 Pte Ltd
 IP-ASN,997 // Beyotta Services LLP
 IP-ASN,151404 // 3GO TECHNOLOGY PTE. LTD.
 IP-ASN,9419 // Nanyang Technological University
-IP-ASN,9255 // Singapore Telecom
 IP-ASN,7610 // NUS Gigapop
+IP-ASN,9255 // Singapore Telecom
 IP-ASN,37989 // DCS1 Pte. Ltd.
 IP-ASN,139883 // SPTEL PTE. LTD.
 IP-ASN,141389 // GOIP Telecom (Asia Pacific) Pte. Ltd.
@@ -105,6 +105,7 @@ IP-ASN,137962 // GREYPANEL PTE LTD
 IP-ASN,136785 // TOFFS TECHNOLOGIES PTE LTD
 IP-ASN,10146 // Ford Motor Company
 IP-ASN,59345 // CME Group Singapore Operations Pte Ldt.
+IP-ASN,55855 // PLAYPARK PTE. LTD.
 IP-ASN,45938 // 3 Tai Seng drive # 04-00
 IP-ASN,399114 // Hyonix
 IP-ASN,1825 // SetClear Pte. Ltd.
@@ -119,7 +120,6 @@ IP-ASN,64003 // 8 Anthony Road
 IP-ASN,56311 // Morgan Stanley Management Service (Singapore) Pte. Ltd
 IP-ASN,56197 // KDDI ASIA PACIFIC PTE. LTD.
 IP-ASN,56043 // PEPSICO INTERNATIONAL PTE. LTD.
-IP-ASN,55855 // PLAYPARK PTE. LTD.
 IP-ASN,4907 // BGPNET PTE. LTD.
 IP-ASN,45445 // General Motors Korea, Bupyeong
 IP-ASN,38532 // Exabytes Network (Singapore) Pte. Ltd.
