@@ -1,5 +1,5 @@
 // ASN Information in Singapore. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-06-08 17:00:22
+// Last Updated: UTC 2026-06-09 16:49:40
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,24482 // SG.GS
@@ -12,8 +12,8 @@ IP-ASN,38001 // NewMedia Express Pte Ltd
 IP-ASN,4657 // StarHub Ltd
 IP-ASN,151326 // DCConnect Communication Pte. Ltd.
 IP-ASN,24115 // Equinix
-IP-ASN,139057 // Edgenext Legend Dynasty Pte. Ltd.
 IP-ASN,133210 // EN Technologies Pte Ltd
+IP-ASN,139057 // Edgenext Legend Dynasty Pte. Ltd.
 IP-ASN,10122 // NETSTAR (SG) PTE. LTD.
 IP-ASN,63949 // Akamai Connected Cloud
 IP-ASN,45474 // Nexusguard Pte. Ltd.
@@ -32,16 +32,16 @@ IP-ASN,56308 // TELEKOMUNIKASI INDONESIA INTERNATIONAL, PTE.LTD
 IP-ASN,150436 // Byteplus Pte. Ltd.
 IP-ASN,4628 // Pacific Internet Pte Ltd
 IP-ASN,132132 // MyRepublic Ltd.
-IP-ASN,138699 // TIKTOK PTE. LTD.
 IP-ASN,10024 // LGA International
+IP-ASN,138699 // TIKTOK PTE. LTD.
 IP-ASN,135530 // Acronis Asia Pte. Ltd
-IP-ASN,23855 // Singapore Advanced Research and Education Network
-IP-ASN,23856 // SPTEL PTE. LTD.
-IP-ASN,137991 // Lifeway Singapore Pte. Ltd.
 IP-ASN,55518 // Singapore Internet Exchange Limited
+IP-ASN,23856 // SPTEL PTE. LTD.
+IP-ASN,23855 // Singapore Advanced Research and Education Network
+IP-ASN,137991 // Lifeway Singapore Pte. Ltd.
 IP-ASN,139225 // Whatbox Inc.
-IP-ASN,134363 // EZIT Solutions Pte Ltd
 IP-ASN,140577 // Ahrefs Pte Ltd
+IP-ASN,134363 // EZIT Solutions Pte Ltd
 IP-ASN,140719 // 201309973N
 IP-ASN,142160 // JOYO TECHNOLOGY PTE. LTD.
 IP-ASN,963 // N963 PTE. LTD.
@@ -68,8 +68,8 @@ IP-ASN,37989 // DCS1 Pte. Ltd.
 IP-ASN,139883 // SPTEL PTE. LTD.
 IP-ASN,141389 // GOIP Telecom (Asia Pacific) Pte. Ltd.
 IP-ASN,58436 // SECUREAX PTE LTD
-IP-ASN,151358 // Finovy Pte. Ltd.
 IP-ASN,132696 // SGIX Services
+IP-ASN,151358 // Finovy Pte. Ltd.
 IP-ASN,135409 // Kacific Broadband Satellites Pte Ltd
 IP-ASN,137535 // JT TELECOM INTERNATIONAL PTE.LTD.
 IP-ASN,139190 // Google Asia Pacific Pte. Ltd.
@@ -273,6 +273,7 @@ IP-ASN,136537 // SQUAREPOINT OPERATIONS PRIVATE LIMITED
 IP-ASN,136464 // Pacific Internet Pte Ltd
 IP-ASN,136261 // VERTIV (SINGAPORE) PTE. LTD.
 IP-ASN,135600 // Whiz Communications Pte Ltd
+IP-ASN,135134 // Soon Keat Neo
 IP-ASN,135102 // ZOHO CORPORATION PTE. LTD.
 IP-ASN,135074 // DREAM CLOUD INNOVATION PTE. LTD.
 IP-ASN,135048 // Singapore Pools (Private) Limited
@@ -419,7 +420,6 @@ IP-ASN,135531 // Global Integrated Communications Pte Ltd
 IP-ASN,135437 // HostSG
 IP-ASN,135418 // Computer Analysts And Recovery Experts Pte. Ltd.
 IP-ASN,135411 // Red Grapes Pte Ltd
-IP-ASN,135134 // Soon Keat Neo
 IP-ASN,134842 // PGAS TELECOMMUNICATIONS INTERNATIONAL PTE. LTD
 IP-ASN,134789 // OPTICALHASH COMMUNICATIONS PTE LTD
 IP-ASN,134546 // Maybank Singapore Limited
