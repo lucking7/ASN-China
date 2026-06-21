@@ -1,5 +1,5 @@
 // ASN Information in Singapore. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-06-20 16:26:22
+// Last Updated: UTC 2026-06-21 16:28:49
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,24482 // SG.GS
@@ -26,9 +26,9 @@ IP-ASN,152144 // LIGHTSTORM ASIA PTE. LTD.
 IP-ASN,212628 // ARTRUBY PTE. LTD.
 IP-ASN,208959 // SlashN Services Pte. Ltd.
 IP-ASN,154324 // AltusCloud Pte. Ltd.
-IP-ASN,56308 // TELEKOMUNIKASI INDONESIA INTERNATIONAL, PTE.LTD
 IP-ASN,4773 // MobileOne Ltd. Mobile/Internet Service Provider Singapore
 IP-ASN,3758 // SingNet
+IP-ASN,56308 // TELEKOMUNIKASI INDONESIA INTERNATIONAL, PTE.LTD
 IP-ASN,931 // Hyonix
 IP-ASN,17547 // M1 NET LTD
 IP-ASN,150436 // Byteplus Pte. Ltd.
@@ -38,9 +38,9 @@ IP-ASN,10024 // LGA International
 IP-ASN,23856 // SPTEL PTE. LTD.
 IP-ASN,23855 // Singapore Advanced Research and Education Network
 IP-ASN,135530 // Acronis Asia Pte. Ltd
+IP-ASN,55518 // Singapore Internet Exchange Limited
 IP-ASN,139225 // Whatbox Inc.
 IP-ASN,137991 // Lifeway Singapore Pte. Ltd.
-IP-ASN,55518 // Singapore Internet Exchange Limited
 IP-ASN,140577 // Ahrefs Pte Ltd
 IP-ASN,134363 // EZIT Solutions Pte Ltd
 IP-ASN,140719 // 201309973N
@@ -126,7 +126,6 @@ IP-ASN,209792 // Daan van Gorkum
 IP-ASN,205142 // Flex Ltd.
 IP-ASN,17617 // Nanyang Polytechnic
 IP-ASN,154343 // AGILENAAS GLOBAL SERVICE PTE.LTD
-IP-ASN,152719 // UIT GLOBAL PTE. LTD.
 IP-ASN,152475 // BGPNET PTE. LTD.
 IP-ASN,151610 // HUAWEI INTERNATIONAL PTE. LTD.
 IP-ASN,151609 // GREYWOLF NETWORKS PTE. LTD.
@@ -155,6 +154,7 @@ IP-ASN,38325 // WTP
 IP-ASN,24467 // Deutsche Bank APAC RHO in Singapore Internet AS
 IP-ASN,203513 // Alibaba Cloud (Singapore) Private Limited
 IP-ASN,154438 // Superstify Technology Pte Ltd
+IP-ASN,152719 // UIT GLOBAL PTE. LTD.
 IP-ASN,151361 // THE CUBICLEREBELS PTE LTD 100 PECK SEAH STREET, # 08-14, PS100, SINGAPORE 079333
 IP-ASN,142066 // Northern Point Technology Private Limited
 IP-ASN,140929 // T20025
