@@ -1,5 +1,5 @@
 // ASN Information in Japan. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-06-27 16:20:00
+// Last Updated: UTC 2026-06-28 16:22:19
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,214675 // Hidenori Matsuo
@@ -13,10 +13,10 @@ IP-ASN,150369 // TelHi Corporation
 IP-ASN,2516 // KDDI CORPORATION
 IP-ASN,2518 // BIGLOBE Inc.
 IP-ASN,4777 // Asia Pacific Network Information Centre
+IP-ASN,7500 // WIDE Project
 IP-ASN,131958 // Tama Cable Network Co.,Ltd.
 IP-ASN,9605 // NTT DOCOMO, INC.
 IP-ASN,7522 // STNet, Incorporated
-IP-ASN,7500 // WIDE Project
 IP-ASN,9354 // Community Network Center Inc.
 IP-ASN,2519 // ARTERIA Networks Corporation
 IP-ASN,18283 // Chupicom Inc.
@@ -34,28 +34,27 @@ IP-ASN,59125 // FAMILY NET JAPAN INCORPORATED
 IP-ASN,7670 // Enecom,Inc.
 IP-ASN,17534 // NSK Co.,Ltd.
 IP-ASN,17961 // mitene internet co., ltd.
-IP-ASN,23815 // Japan Internet Xing Co., Ltd.
 IP-ASN,131948 // FORNEXT Inc.
+IP-ASN,23815 // Japan Internet Xing Co., Ltd.
 IP-ASN,17686 // ACCELIA
 IP-ASN,138384 // Rakuten Mobile Network, Inc.
-IP-ASN,9607 // BroadBand Tower, Inc.
+IP-ASN,10000 // Nagasaki Cable Media Inc.
 IP-ASN,9595 // NTT-ME Corporation
 IP-ASN,7506 // GMO Internet Group, Inc.
 IP-ASN,2527 // Sony Network Communications Inc.
 IP-ASN,18077 // Yamaguchi Cable Vision Co.,Ltd
 IP-ASN,9997 // Suzuka Cable Co.,Ltd
 IP-ASN,9993 // ITOCHU Techno-Solutions Corporation
+IP-ASN,9607 // BroadBand Tower, Inc.
 IP-ASN,4685 // Asahi Net
 IP-ASN,18282 // Tonami System Solutions Co., Ltd.
 IP-ASN,138968 // rainbow network limited
-IP-ASN,10000 // Nagasaki Cable Media Inc.
 IP-ASN,9824 // JCOM Co., Ltd.
+IP-ASN,7530 // BroadBand Tower, Inc.
 IP-ASN,4694 // IDC Frontier Inc.
 IP-ASN,7524 // ITEC HANKYU HANSHIN CO.,LTD.
 IP-ASN,18260 // EHIME CATV CO.,LTD.
 IP-ASN,18081 // Kintetsu Cable Network Co., Ltd.
-IP-ASN,9371 // SAKURA Internet Inc.
-IP-ASN,7530 // BroadBand Tower, Inc.
 IP-ASN,4680 // Mitsubishi Electric Information Network Corporation
 IP-ASN,24284 // CyberAgent, Inc.
 IP-ASN,18126 // Chubu Telecommunications Company, Inc.
@@ -67,6 +66,7 @@ IP-ASN,23783 // Cable Networks Akita Co.,ltd.
 IP-ASN,17939 // miyazaki cabletelevision network Co.,LTD
 IP-ASN,17685 // SQUARE ENIX CO., LTD.
 IP-ASN,139076 // EnjoyVC Japan Corporation
+IP-ASN,9371 // SAKURA Internet Inc.
 IP-ASN,9351 // ZTV CO.,LTD
 IP-ASN,7660 // Asia Pacific Advanced Network - Japan
 IP-ASN,7516 // TOHKnet Co.,Inc.
@@ -94,6 +94,7 @@ IP-ASN,18121 // Ishikawa Computer Center Co.,LTD.
 IP-ASN,9597 // KDDI Web Communications Inc.
 IP-ASN,9365 // its communications Inc.
 IP-ASN,7668 // Hokuriku Telecommunication Network Co.
+IP-ASN,55888 // Nintatsu Global Telecommunications Corporation
 IP-ASN,24255 // Koshinomiyako Network, Inc.
 IP-ASN,17683 // Wingtechnology Communications, Inc.
 IP-ASN,24253 // J-Stream Inc.
@@ -130,6 +131,7 @@ IP-ASN,55376 // KCV Communications Co. Ltd.
 IP-ASN,37904 // BBIX, Inc.
 IP-ASN,24277 // Okinawa Cable Network Inc.
 IP-ASN,24249 // JWAY co., Ltd.
+IP-ASN,146974 // Woven by Toyota, Inc.
 IP-ASN,131952 // Asahikawa Cable Television Co., Ltd.
 IP-ASN,9601 // Niigata Communication Service
 IP-ASN,9593 // Nikkei Inc.
@@ -153,7 +155,6 @@ IP-ASN,7676 // TAM Co., Ltd.
 IP-ASN,7667 // KDDI Research, Inc.
 IP-ASN,59107 // Hachinohe Cable Television Co.
 IP-ASN,59103 // SoftEther Corporation
-IP-ASN,55888 // Nintatsu Global Telecommunications Corporation
 IP-ASN,45677 // Isahaya Cable Media Co.,Ltd
 IP-ASN,24251 // Iwakuni Cable Network Corporation
 IP-ASN,23822 // HAGI Television Co., Ltd.
@@ -164,6 +165,7 @@ IP-ASN,17931 // Netforest,Inc.
 IP-ASN,131921 // GMO GlobalSign Holdings K.K.
 IP-ASN,131160 // Wire and Wireless Co.,Ltd.
 IP-ASN,63779 // InfiniCloud Co. Ltd.
+IP-ASN,63774 // Kamoike.net LLP
 IP-ASN,55382 // Nagato city office
 IP-ASN,4675 // UNIADEX, LTD.
 IP-ASN,45687 // Minamikyusyu CableTV Net Inc.
@@ -198,7 +200,6 @@ IP-ASN,173 // Nippon Telegraph and Telephone Corporation
 IP-ASN,146979 // University of Nagasaki
 IP-ASN,131970 // Hikarinet Inc.
 IP-ASN,131929 // Yamanashi CATV Co,. ltd
-IP-ASN,63774 // Kamoike.net LLP
 IP-ASN,59110 // BPS Inc.
 IP-ASN,59097 // Okinawa Cross Head Co., Ltd.
 IP-ASN,58793 // FUJITSU LIMITED
@@ -236,7 +237,6 @@ IP-ASN,10011 // advanscope inc.
 IP-ASN,7505 // Fujitsu Systems Applications & Support Limited
 IP-ASN,37919 // SEGA SAMMY HOLDINGS INC.
 IP-ASN,24282 // KAGOYA JAPAN Inc.
-IP-ASN,146974 // Woven by Toyota, Inc.
 IP-ASN,146969 // SB Technology Corp.
 IP-ASN,131966 // I-NET CORP.
 IP-ASN,131896 // SSI Lab Inc.
@@ -276,6 +276,7 @@ IP-ASN,17940 // CYBER LINKS Co.,Ltd.
 IP-ASN,146976 // Kvision Co.,Ltd.
 IP-ASN,131976 // INTERNET MULTIFEED CO.
 IP-ASN,131925 // FAMILY NET JAPAN INCORPORATED
+IP-ASN,131159 // Yamagata University
 IP-ASN,9357 // NRI SecureTechnologies, Ltd.
 IP-ASN,7664 // HARENET INC.
 IP-ASN,63805 // Ryobi Systems Co., Ltd.
@@ -296,7 +297,6 @@ IP-ASN,134351 // Leaseweb Japan K.K.
 IP-ASN,131969 // Suzuyo Shinwart Corporation
 IP-ASN,131928 // Tottori Teletopia Co., Ltd.
 IP-ASN,131910 // SORACOM. INC.
-IP-ASN,131159 // Yamagata University
 IP-ASN,9619 // Sony Global Solutions Inc.
 IP-ASN,7674 // NTT DOCOMO BUSINESS, Inc
 IP-ASN,63781 // Kobayashi Family Net LLP
@@ -355,6 +355,9 @@ IP-ASN,17691 // NDS Co., Ltd.
 IP-ASN,17509 // STARNET Co.,Ltd.
 IP-ASN,152874 // JONET
 IP-ASN,152724 // Point72 Japan Limited
+IP-ASN,151389 // Synergy Cross Corporation
+IP-ASN,151371 // PAINA Information Development
+IP-ASN,150368 // SERVER-G Group
 IP-ASN,146980 // Tokyo Metropolitan College of Industrial Technology Infomation System Engineering Course
 IP-ASN,142622 // Dream Information Laboratory
 IP-ASN,141757 // Zoho Japan Corporation
@@ -482,10 +485,7 @@ IP-ASN,152865 // Tokyo University of Technology Linux Club
 IP-ASN,152859 // UNIADEX, LTD.
 IP-ASN,152645 // Flextech Inc.
 IP-ASN,152324 // APNIC ASN block
-IP-ASN,151389 // Synergy Cross Corporation
 IP-ASN,151374 // IX-layers, Inc.
-IP-ASN,151371 // PAINA Information Development
-IP-ASN,150368 // SERVER-G Group
 IP-ASN,150367 // Future Corp.
 IP-ASN,150362 // Mamireimu Net Work's
 IP-ASN,150358 // Tokyo Woman's Christian University
