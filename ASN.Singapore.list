@@ -1,5 +1,5 @@
 // ASN Information in Singapore. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-06-28 16:22:20
+// Last Updated: UTC 2026-06-29 16:56:05
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,24482 // SG.GS
@@ -34,19 +34,19 @@ IP-ASN,56308 // TELEKOMUNIKASI INDONESIA INTERNATIONAL, PTE.LTD
 IP-ASN,4628 // Pacific Internet Pte Ltd
 IP-ASN,138699 // TIKTOK PTE. LTD.
 IP-ASN,10024 // LGA International
-IP-ASN,23855 // Singapore Advanced Research and Education Network
 IP-ASN,23856 // SPTEL PTE. LTD.
+IP-ASN,23855 // Singapore Advanced Research and Education Network
 IP-ASN,135530 // Acronis Asia Pte. Ltd
-IP-ASN,137991 // Lifeway Singapore Pte. Ltd.
 IP-ASN,139225 // Whatbox Inc.
+IP-ASN,137991 // Lifeway Singapore Pte. Ltd.
+IP-ASN,140577 // Ahrefs Pte Ltd
 IP-ASN,134363 // EZIT Solutions Pte Ltd
 IP-ASN,55518 // Singapore Internet Exchange Limited
-IP-ASN,140577 // Ahrefs Pte Ltd
 IP-ASN,140719 // 201309973N
 IP-ASN,142160 // JOYO TECHNOLOGY PTE. LTD.
 IP-ASN,963 // N963 PTE. LTD.
-IP-ASN,4844 // SuperInternet ACCESS Pte Ltd
 IP-ASN,132829 // Nevigate Communications (S) Pte Ltd
+IP-ASN,4844 // SuperInternet ACCESS Pte Ltd
 IP-ASN,138552 // RTB HOUSE PTE. LTD.
 IP-ASN,134148 // SingAREN
 IP-ASN,7595 // Readyspace Cloud Services
@@ -73,8 +73,8 @@ IP-ASN,132696 // SGIX Services
 IP-ASN,135409 // Kacific Broadband Satellites Pte Ltd
 IP-ASN,132816 // SimplerCloud Pte Ltd
 IP-ASN,151358 // Finovy Pte. Ltd.
-IP-ASN,139190 // Google Asia Pacific Pte. Ltd.
 IP-ASN,137535 // JT TELECOM INTERNATIONAL PTE.LTD.
+IP-ASN,139190 // Google Asia Pacific Pte. Ltd.
 IP-ASN,17645 // ASN - NTT SINGAPORE PTE LTD
 IP-ASN,17819 // Equinix Asia Pacific
 IP-ASN,141384 // Internet Society Asia Limited
@@ -323,6 +323,7 @@ IP-ASN,56175 // 198 Yishun Ave 9
 IP-ASN,56173 // internet content provider
 IP-ASN,56114 // ATOS Information Technology (Singapore) Pte Ltd
 IP-ASN,56094 // ITENET:wq
+IP-ASN,55854 // 3 Killiney Road # 09-01/06
 IP-ASN,55843 // Acclivis Technology Solution
 IP-ASN,55562 // 5 Temasek Boulevard
 IP-ASN,55504 // BP Australia
