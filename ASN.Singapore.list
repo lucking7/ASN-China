@@ -1,5 +1,5 @@
 // ASN Information in Singapore. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-07-06 16:56:48
+// Last Updated: UTC 2026-07-07 16:43:55
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,24482 // SG.GS
@@ -26,8 +26,8 @@ IP-ASN,152144 // LIGHTSTORM ASIA PTE. LTD.
 IP-ASN,212628 // ARTRUBY PTE. LTD.
 IP-ASN,208959 // SlashN Services Pte. Ltd.
 IP-ASN,154324 // AltusCloud Pte. Ltd.
-IP-ASN,56308 // TELEKOMUNIKASI INDONESIA INTERNATIONAL, PTE.LTD
 IP-ASN,3758 // SingNet
+IP-ASN,56308 // TELEKOMUNIKASI INDONESIA INTERNATIONAL, PTE.LTD
 IP-ASN,4773 // MobileOne Ltd. Mobile/Internet Service Provider Singapore
 IP-ASN,17547 // M1 NET LTD
 IP-ASN,931 // Hyonix
@@ -53,8 +53,8 @@ IP-ASN,7595 // Readyspace Cloud Services
 IP-ASN,135066 // Schroders Investment Management (Singapore) Limited
 IP-ASN,134078 // NETPLUZ HOLDINGS PRIVATE LIMITED
 IP-ASN,141995 // Contabo Asia Private Limited
-IP-ASN,150436 // Byteplus Pte. Ltd.
 IP-ASN,9664 // SOUTHEAST ASIA TELECOM(SG) PTE. LTD.
+IP-ASN,150436 // Byteplus Pte. Ltd.
 IP-ASN,64010 // BasicBrix LLP
 IP-ASN,197537 // WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD.
 IP-ASN,4817 // Simba Telecom Pte Ltd
@@ -63,8 +63,8 @@ IP-ASN,997 // Beyotta Services LLP
 IP-ASN,149290 // Cloud Telecommunications (S) PTE. LTD.
 IP-ASN,134469 // Digital Singapore 2 Pte Ltd
 IP-ASN,151404 // 3GO TECHNOLOGY PTE. LTD.
-IP-ASN,9419 // Nanyang Technological University
 IP-ASN,7610 // NUS Gigapop
+IP-ASN,9419 // Nanyang Technological University
 IP-ASN,9255 // Singapore Telecom
 IP-ASN,139883 // SPTEL PTE. LTD.
 IP-ASN,58436 // SECUREAX PTE LTD
@@ -84,9 +84,9 @@ IP-ASN,56172 // Agora Communications Pte Ltd
 IP-ASN,202736 // WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD.
 IP-ASN,150288 // METAGE TECHNOLOGY PTE. LTD.
 IP-ASN,24319 // Akamai Technologies Tokyo ASN
+IP-ASN,134190 // IPDC SOLUTIONS PTE LTD
 IP-ASN,4765 // Pacific Internet Pte Ltd
 IP-ASN,150347 // Planisware Singapore Pte. Ltd
-IP-ASN,134190 // IPDC SOLUTIONS PTE LTD
 IP-ASN,45166 // Pacific Internet Pte Ltd
 IP-ASN,141190 // Jindun Technology PTE. Ltd.
 IP-ASN,139070 // Google Asia Pacific Pte. Ltd.
