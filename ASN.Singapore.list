@@ -1,5 +1,5 @@
 // ASN Information in Singapore. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-07-13 16:44:54
+// Last Updated: UTC 2026-07-14 16:24:11
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,24482 // SG.GS
@@ -25,9 +25,9 @@ IP-ASN,208959 // SlashN Services Pte. Ltd.
 IP-ASN,152144 // LIGHTSTORM ASIA PTE. LTD.
 IP-ASN,212628 // ARTRUBY PTE. LTD.
 IP-ASN,154324 // AltusCloud Pte. Ltd.
-IP-ASN,3758 // SingNet
 IP-ASN,56308 // TELEKOMUNIKASI INDONESIA INTERNATIONAL, PTE.LTD
 IP-ASN,4773 // MobileOne Ltd. Mobile/Internet Service Provider Singapore
+IP-ASN,3758 // SingNet
 IP-ASN,17547 // M1 NET LTD
 IP-ASN,931 // Hyonix
 IP-ASN,131219 // Indosat Singapore Pte. Ltd.
@@ -50,8 +50,8 @@ IP-ASN,142160 // JOYO TECHNOLOGY PTE. LTD.
 IP-ASN,963 // N963 PTE. LTD.
 IP-ASN,138552 // RTB HOUSE PTE. LTD.
 IP-ASN,134148 // SingAREN
-IP-ASN,7595 // Readyspace Cloud Services
 IP-ASN,134078 // NETPLUZ HOLDINGS PRIVATE LIMITED
+IP-ASN,7595 // Readyspace Cloud Services
 IP-ASN,135066 // Schroders Investment Management (Singapore) Limited
 IP-ASN,141995 // Contabo Asia Private Limited
 IP-ASN,9664 // SOUTHEAST ASIA TELECOM(SG) PTE. LTD.
@@ -65,8 +65,8 @@ IP-ASN,997 // Beyotta Services LLP
 IP-ASN,134469 // Digital Singapore 2 Pte Ltd
 IP-ASN,151404 // 3GO TECHNOLOGY PTE. LTD.
 IP-ASN,9419 // Nanyang Technological University
-IP-ASN,9255 // Singapore Telecom
 IP-ASN,7610 // NUS Gigapop
+IP-ASN,9255 // Singapore Telecom
 IP-ASN,58436 // SECUREAX PTE LTD
 IP-ASN,141389 // GOIP Telecom (Asia Pacific) Pte. Ltd.
 IP-ASN,139883 // SPTEL PTE. LTD.
@@ -79,6 +79,7 @@ IP-ASN,137535 // JT TELECOM INTERNATIONAL PTE.LTD.
 IP-ASN,17645 // ASN - NTT SINGAPORE PTE LTD
 IP-ASN,17819 // Equinix Asia Pacific
 IP-ASN,141384 // Internet Society Asia Limited
+IP-ASN,133535 // PRIMABANANEN PTE. LTD.
 IP-ASN,136041 // Singapore Telecom, ConnectPlus
 IP-ASN,56172 // Agora Communications Pte Ltd
 IP-ASN,202736 // WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD.
@@ -117,7 +118,6 @@ IP-ASN,136733 // Racks Central Pte Ltd
 IP-ASN,136202 // Freepoint Commodities Singapore Pte. Ltd.
 IP-ASN,133426 // Northtelecom PTE LTD
 IP-ASN,9649 // Information Technology Office
-IP-ASN,64003 // 8 Anthony Road
 IP-ASN,56311 // Morgan Stanley Management Service (Singapore) Pte. Ltd
 IP-ASN,56197 // KDDI ASIA PACIFIC PTE. LTD.
 IP-ASN,56043 // PEPSICO INTERNATIONAL PTE. LTD.
@@ -143,6 +143,7 @@ IP-ASN,132016 // IRESS Market Technology Ltd
 IP-ASN,131475 // Singapore Institute of Technology
 IP-ASN,10082 // Morgan Stanley Management Service (Singapore) Pte. Ltd
 IP-ASN,9234 // Sol One Application Delivery Network
+IP-ASN,64003 // 8 Anthony Road
 IP-ASN,59241 // Goldman Sachs (Asia) L.L.C.
 IP-ASN,59210 // PhoenixNAP
 IP-ASN,58521 // Garena Online Pte Ltd
@@ -212,6 +213,7 @@ IP-ASN,23920 // Asia Mediatel Pte Ltd
 IP-ASN,23864 // Singapre Advance Research and Education Network - National Grid Office - IHPC
 IP-ASN,23728 // Republic Polytechnic. Multihoming AS Singapore
 IP-ASN,23703 // RigNet, Communication to remote locations in Asia/Pacific.
+IP-ASN,219374 // FATCAT TECH PTE. LTD.
 IP-ASN,216245 // CYBERJET PTE. LTD.
 IP-ASN,213845 // Cylix Pte. Ltd.
 IP-ASN,205987 // PLAYABLE AD. PTE. LTD.
@@ -346,19 +348,18 @@ IP-ASN,45477 // AP TRANSIT PTE LTD
 IP-ASN,45241 // General Motors Tech Center India. Bangalore
 IP-ASN,45143 // SINGTEL MOBILE INTERNET SERVICE PROVIDER Singapore
 IP-ASN,43081 // World News PTE. LTD
-IP-ASN,402475 // Delta Constructors LLC
 IP-ASN,400061 // Hyonix
 IP-ASN,38321 // DOCOMO interTouch - Headquarter
 IP-ASN,38055 // APNIC ASN block
 IP-ASN,24030 // Schenker (Asia Pacific) Pte Ltd
 IP-ASN,23653 // BNP Paribas SG, Transit AS, Singapore
 IP-ASN,219427 // VERTEXCORE. PTE. LTD.
-IP-ASN,219374 // FATCAT TECH PTE. LTD.
 IP-ASN,211103 // BUNGATEL Pte. Ltd.
 IP-ASN,210205 // WIRKOLA PTE. LTD
 IP-ASN,209942 // AIRGSM PTE. LTD
 IP-ASN,18402 // NATIONAL LIBRARY BOARD
 IP-ASN,17886 // Matrix Networks Pte Ltd
+IP-ASN,154690 // VAYNE NETWORK PTE. LTD.
 IP-ASN,154373 // Singapore Data Cloud Pte Ltd
 IP-ASN,154156 // NEUTRADC
 IP-ASN,153599 // New Pos Network (S) Pte Ltd
@@ -433,7 +434,6 @@ IP-ASN,133757 // Telecom Italia Sparkle Singapore Pte Ltd
 IP-ASN,133728 // Chubb Asia Pacific Pte Ltd
 IP-ASN,133600 // ESSEC
 IP-ASN,133541 // SIPPE-SG
-IP-ASN,133535 // PRIMABANANEN PTE. LTD.
 IP-ASN,133456 // ALAGAS NETWORK PTE. LTD.
 IP-ASN,133449 // VASTSPACE PTE. LTD.
 IP-ASN,133422 // Aviva Asia Pte Ltd
