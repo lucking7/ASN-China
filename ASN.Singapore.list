@@ -1,5 +1,5 @@
 // ASN Information in Singapore. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-07-18 16:15:13
+// Last Updated: UTC 2026-07-19 16:15:39
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,24482 // SG.GS
@@ -38,8 +38,8 @@ IP-ASN,10024 // LGA International
 IP-ASN,23856 // SPTEL PTE. LTD.
 IP-ASN,135530 // Acronis Asia Pte. Ltd
 IP-ASN,23855 // Singapore Advanced Research and Education Network
-IP-ASN,7387 // ONBOARDCLOUD PTE. LTD.
 IP-ASN,139225 // Whatbox Inc.
+IP-ASN,7387 // ONBOARDCLOUD PTE. LTD.
 IP-ASN,137991 // Lifeway Singapore Pte. Ltd.
 IP-ASN,134363 // EZIT Solutions Pte Ltd
 IP-ASN,55518 // Singapore Internet Exchange Limited
@@ -53,7 +53,6 @@ IP-ASN,138552 // RTB HOUSE PTE. LTD.
 IP-ASN,134148 // SingAREN
 IP-ASN,7595 // Readyspace Cloud Services
 IP-ASN,134078 // NETPLUZ HOLDINGS PRIVATE LIMITED
-IP-ASN,135066 // Schroders Investment Management (Singapore) Limited
 IP-ASN,141995 // Contabo Asia Private Limited
 IP-ASN,9664 // SOUTHEAST ASIA TELECOM(SG) PTE. LTD.
 IP-ASN,64010 // BasicBrix LLP
@@ -64,6 +63,7 @@ IP-ASN,4817 // Simba Telecom Pte Ltd
 IP-ASN,149290 // Cloud Telecommunications (S) PTE. LTD.
 IP-ASN,134469 // Digital Singapore 2 Pte Ltd
 IP-ASN,151404 // 3GO TECHNOLOGY PTE. LTD.
+IP-ASN,135066 // Schroders Investment Management (Singapore) Limited
 IP-ASN,9419 // Nanyang Technological University
 IP-ASN,9255 // Singapore Telecom
 IP-ASN,7610 // NUS Gigapop
@@ -74,7 +74,6 @@ IP-ASN,132696 // SGIX Services
 IP-ASN,151358 // Finovy Pte. Ltd.
 IP-ASN,139190 // Google Asia Pacific Pte. Ltd.
 IP-ASN,135409 // Kacific Broadband Satellites Pte Ltd
-IP-ASN,133535 // PRIMABANANEN PTE. LTD.
 IP-ASN,132816 // SimplerCloud Pte Ltd
 IP-ASN,137535 // JT TELECOM INTERNATIONAL PTE.LTD.
 IP-ASN,17645 // ASN - NTT SINGAPORE PTE LTD
@@ -435,6 +434,7 @@ IP-ASN,133757 // Telecom Italia Sparkle Singapore Pte Ltd
 IP-ASN,133728 // Chubb Asia Pacific Pte Ltd
 IP-ASN,133600 // ESSEC
 IP-ASN,133541 // SIPPE-SG
+IP-ASN,133535 // PRIMABANANEN PTE. LTD.
 IP-ASN,133456 // ALAGAS NETWORK PTE. LTD.
 IP-ASN,133449 // VASTSPACE PTE. LTD.
 IP-ASN,133422 // Aviva Asia Pte Ltd
