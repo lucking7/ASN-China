@@ -1,5 +1,5 @@
 // ASN Information in Singapore. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-07-20 16:27:13
+// Last Updated: UTC 2026-07-21 16:26:53
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,24482 // SG.GS
@@ -45,17 +45,17 @@ IP-ASN,134363 // EZIT Solutions Pte Ltd
 IP-ASN,55518 // Singapore Internet Exchange Limited
 IP-ASN,140719 // 201309973N
 IP-ASN,140577 // Ahrefs Pte Ltd
+IP-ASN,132829 // Nevigate Communications (S) Pte Ltd
 IP-ASN,4844 // SuperInternet ACCESS Pte Ltd
 IP-ASN,142160 // JOYO TECHNOLOGY PTE. LTD.
-IP-ASN,132829 // Nevigate Communications (S) Pte Ltd
 IP-ASN,963 // N963 PTE. LTD.
 IP-ASN,138552 // RTB HOUSE PTE. LTD.
 IP-ASN,134148 // SingAREN
-IP-ASN,7595 // Readyspace Cloud Services
 IP-ASN,134078 // NETPLUZ HOLDINGS PRIVATE LIMITED
+IP-ASN,7595 // Readyspace Cloud Services
 IP-ASN,135066 // Schroders Investment Management (Singapore) Limited
-IP-ASN,9664 // SOUTHEAST ASIA TELECOM(SG) PTE. LTD.
 IP-ASN,141995 // Contabo Asia Private Limited
+IP-ASN,9664 // SOUTHEAST ASIA TELECOM(SG) PTE. LTD.
 IP-ASN,64010 // BasicBrix LLP
 IP-ASN,197537 // WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD.
 IP-ASN,18019 // NEUTRADC
@@ -71,17 +71,17 @@ IP-ASN,141389 // GOIP Telecom (Asia Pacific) Pte. Ltd.
 IP-ASN,58436 // SECUREAX PTE LTD
 IP-ASN,139883 // SPTEL PTE. LTD.
 IP-ASN,132696 // SGIX Services
+IP-ASN,135409 // Kacific Broadband Satellites Pte Ltd
 IP-ASN,151358 // Finovy Pte. Ltd.
 IP-ASN,139190 // Google Asia Pacific Pte. Ltd.
-IP-ASN,135409 // Kacific Broadband Satellites Pte Ltd
-IP-ASN,132816 // SimplerCloud Pte Ltd
 IP-ASN,137535 // JT TELECOM INTERNATIONAL PTE.LTD.
+IP-ASN,132816 // SimplerCloud Pte Ltd
 IP-ASN,17645 // ASN - NTT SINGAPORE PTE LTD
 IP-ASN,150347 // Planisware Singapore Pte. Ltd
 IP-ASN,17819 // Equinix Asia Pacific
 IP-ASN,141384 // Internet Society Asia Limited
-IP-ASN,136041 // Singapore Telecom, ConnectPlus
 IP-ASN,56172 // Agora Communications Pte Ltd
+IP-ASN,136041 // Singapore Telecom, ConnectPlus
 IP-ASN,202736 // WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD.
 IP-ASN,150288 // METAGE TECHNOLOGY PTE. LTD.
 IP-ASN,24319 // Akamai Technologies Tokyo ASN
@@ -400,6 +400,7 @@ IP-ASN,139895 // Air Liquide Industrial Services Pte Ltd
 IP-ASN,139829 // RigNet Pte Ltd
 IP-ASN,139746 // FlexTrade Systems Pte Ltd
 IP-ASN,139739 // Hsin Yi Pte Ltd
+IP-ASN,139631 // ANY DIGITAL PTE. LTD.
 IP-ASN,139617 // ISEAS Yusof Ishak Institute
 IP-ASN,139291 // INFINITIUM HOLDINGS PTE. LTD.
 IP-ASN,138626 // AVALOQ SOURCING ASIA PACIFIC (SINGAPORE) PTE. LTD.
