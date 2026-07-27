@@ -1,5 +1,5 @@
 // ASN Information in Japan. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-07-26 16:16:59
+// Last Updated: UTC 2026-07-27 16:39:14
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,214675 // Hidenori Matsuo
@@ -24,8 +24,8 @@ IP-ASN,4713 // NTT DOCOMO BUSINESS,Inc.
 IP-ASN,54415 // WIZ K.K.
 IP-ASN,2519 // ARTERIA Networks Corporation
 IP-ASN,9370 // SAKURA Internet Inc.
-IP-ASN,7679 // QTnet,Inc.
 IP-ASN,150363 // SoftEther Corporation
+IP-ASN,7679 // QTnet,Inc.
 IP-ASN,10010 // TOKAI Communications Corporation
 IP-ASN,38631 // LY Corporation
 IP-ASN,55569 // Criteo APAC
@@ -39,6 +39,7 @@ IP-ASN,17961 // mitene internet co., ltd.
 IP-ASN,131948 // FORNEXT Inc.
 IP-ASN,17686 // ACCELIA
 IP-ASN,138384 // Rakuten Mobile Network, Inc.
+IP-ASN,10000 // Nagasaki Cable Media Inc.
 IP-ASN,9993 // ITOCHU Techno-Solutions Corporation
 IP-ASN,7524 // ITEC HANKYU HANSHIN CO.,LTD.
 IP-ASN,7506 // GMO Internet Group, Inc.
@@ -54,7 +55,6 @@ IP-ASN,18077 // Yamaguchi Cable Vision Co.,Ltd
 IP-ASN,4694 // IDC Frontier Inc.
 IP-ASN,18260 // EHIME CATV CO.,LTD.
 IP-ASN,18081 // Kintetsu Cable Network Co., Ltd.
-IP-ASN,10000 // Nagasaki Cable Media Inc.
 IP-ASN,7530 // BroadBand Tower, Inc.
 IP-ASN,45691 // DODO K.K.
 IP-ASN,24284 // CyberAgent, Inc.
@@ -247,13 +247,13 @@ IP-ASN,24572 // Yahoo Japan
 IP-ASN,23640 // BBIX,Inc.
 IP-ASN,23620 // DMM.com LLC
 IP-ASN,63800 // SERVER-G Group
+IP-ASN,63798 // Industrial Cyber Security Center of Excellence
 IP-ASN,59102 // GENES Co., Ltd.
 IP-ASN,58791 // GMO Internet Group, Inc.
 IP-ASN,23774 // Japan Registry Service Co., Ltd.
 IP-ASN,17948 // EditNet, Incorporated
 IP-ASN,131965 // Xserver Inc.
 IP-ASN,9609 // BBIX, Inc.
-IP-ASN,63798 // Industrial Cyber Security Center of Excellence
 IP-ASN,4673 // NTT DATA CORPORATION
 IP-ASN,10013 // FreeBit Co.,Ltd.
 IP-ASN,63782 // Omaezaki Cable Television Co.Ltd
@@ -358,7 +358,6 @@ IP-ASN,17932 // Japan Advanced Institute of Science and Technology
 IP-ASN,17691 // NDS Co., Ltd.
 IP-ASN,17509 // STARNET Co.,Ltd.
 IP-ASN,152868 // THX Corp.
-IP-ASN,152724 // Point72 Japan Limited
 IP-ASN,151389 // Synergy Cross Corporation
 IP-ASN,142622 // Dream Information Laboratory
 IP-ASN,141757 // Zoho Japan Corporation
@@ -482,6 +481,7 @@ IP-ASN,152870 // Incorporated Educational Institution Kaichigakuen
 IP-ASN,152869 // ICJ, Inc.
 IP-ASN,152865 // Tokyo University of Technology Linux Club
 IP-ASN,152859 // UNIADEX, LTD.
+IP-ASN,152724 // Point72 Japan Limited
 IP-ASN,152645 // Flextech Inc.
 IP-ASN,152324 // APNIC ASN block
 IP-ASN,151374 // IX-layers, Inc.

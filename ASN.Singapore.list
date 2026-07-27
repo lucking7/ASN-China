@@ -1,13 +1,13 @@
 // ASN Information in Singapore. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-07-26 16:16:59
+// Last Updated: UTC 2026-07-27 16:39:15
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,24482 // SG.GS
 IP-ASN,132337 // Axclusive
 IP-ASN,18106 // Viewqwest Pte Ltd
 IP-ASN,64049 // Reliance Jio Infocomm Pte Ltd Singapore
-IP-ASN,139341 // ACE
 IP-ASN,4657 // StarHub Ltd
+IP-ASN,139341 // ACE
 IP-ASN,38001 // NewMedia Express Pte Ltd
 IP-ASN,151326 // DCConnect Communication Pte. Ltd.
 IP-ASN,24115 // Equinix
@@ -29,9 +29,9 @@ IP-ASN,56308 // TELEKOMUNIKASI INDONESIA INTERNATIONAL, PTE.LTD
 IP-ASN,3758 // SingNet
 IP-ASN,931 // Hyonix
 IP-ASN,131219 // Indosat Singapore Pte. Ltd.
+IP-ASN,150436 // Byteplus Pte. Ltd.
 IP-ASN,132132 // MyRepublic Ltd.
 IP-ASN,4628 // Pacific Internet Pte Ltd
-IP-ASN,150436 // Byteplus Pte. Ltd.
 IP-ASN,138699 // TIKTOK PTE. LTD.
 IP-ASN,10024 // LGA International
 IP-ASN,23856 // SPTEL PTE. LTD.
@@ -51,8 +51,8 @@ IP-ASN,963 // N963 PTE. LTD.
 IP-ASN,138552 // RTB HOUSE PTE. LTD.
 IP-ASN,134148 // SingAREN
 IP-ASN,7595 // Readyspace Cloud Services
-IP-ASN,134078 // NETPLUZ HOLDINGS PRIVATE LIMITED
 IP-ASN,135066 // Schroders Investment Management (Singapore) Limited
+IP-ASN,134078 // NETPLUZ HOLDINGS PRIVATE LIMITED
 IP-ASN,141995 // Contabo Asia Private Limited
 IP-ASN,9664 // SOUTHEAST ASIA TELECOM(SG) PTE. LTD.
 IP-ASN,64010 // BasicBrix LLP
@@ -72,8 +72,8 @@ IP-ASN,58436 // SECUREAX PTE LTD
 IP-ASN,139883 // SPTEL PTE. LTD.
 IP-ASN,137535 // JT TELECOM INTERNATIONAL PTE.LTD.
 IP-ASN,132696 // SGIX Services
-IP-ASN,135409 // Kacific Broadband Satellites Pte Ltd
 IP-ASN,151358 // Finovy Pte. Ltd.
+IP-ASN,135409 // Kacific Broadband Satellites Pte Ltd
 IP-ASN,139190 // Google Asia Pacific Pte. Ltd.
 IP-ASN,132816 // SimplerCloud Pte Ltd
 IP-ASN,17645 // ASN - NTT SINGAPORE PTE LTD
