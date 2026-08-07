@@ -1,13 +1,13 @@
 // ASN Information in Hong Kong. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-08-05 17:14:13
+// Last Updated: UTC 2026-08-07 16:36:58
 // Made by Vincent, All rights reserved. 
 
+IP-ASN,63927 // RISE
 IP-ASN,58453 // China Mobile International Limited
 IP-ASN,4637 // Telstra Global
 IP-ASN,9304 // HGC Global Communications Limited
 IP-ASN,23764 // CTGNet
 IP-ASN,10099 // China Unicom Global
-IP-ASN,63927 // RISE
 IP-ASN,3491 // PCCW Global
 IP-ASN,138915 // Kaopu Cloud HK Limited
 IP-ASN,60539 // Huicast Telecom Limited
@@ -28,8 +28,8 @@ IP-ASN,51847 // Nearoute Limited
 IP-ASN,140570 // Hong Kong Beecloud System Technology Services Limited
 IP-ASN,64050 // BGP Network Limited
 IP-ASN,4058 // CITIC Telecom International CPC Limited
-IP-ASN,136897 // Enjoyvc Cloud Group Limited.
 IP-ASN,9886 // CTCSCI TECH LIMITED
+IP-ASN,136897 // Enjoyvc Cloud Group Limited.
 IP-ASN,4862 // Orange Business AS for Asia
 IP-ASN,210532 // HERITAGE GLOBAL TRADING CO. LIMITED
 IP-ASN,135391 // AOFEI DATA INTERNATIONAL COMPANY LIMITED
@@ -40,84 +40,83 @@ IP-ASN,63981 // 43/F, AIA Tower, 183 Electric Road, North Point, Hong Kong
 IP-ASN,133372 // Interaptus Limited
 IP-ASN,9584 // Diyixian.com Limited
 IP-ASN,9231 // China Mobile Hong Kong Company Limited
-IP-ASN,140951 // IPTP Networks
 IP-ASN,152194 // CTG Server Limited
+IP-ASN,140951 // IPTP Networks
 IP-ASN,137263 // NETEASE HONG KONG LIMITED
+IP-ASN,135377 // UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 IP-ASN,55933 // Cloudie Limited
 IP-ASN,49304 // SAKURA LINK LIMITED
 IP-ASN,4515 // PCCW IMS Ltd (PCCW Business Internet Access)
-IP-ASN,135377 // UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 IP-ASN,17476 // CloudRadium (HK) Limited
 IP-ASN,136744 // DREAM POWER TECHNOLOGY LIMITED
 IP-ASN,153371 // BACK WAVES LIMITED
-IP-ASN,202746 // Europeer Ltd.
-IP-ASN,56971 // CGI GLOBAL LIMITED
 IP-ASN,154346 // OceanBlue Cloud Technology Limited
+IP-ASN,56971 // CGI GLOBAL LIMITED
 IP-ASN,134176 // Cloudie Limited
 IP-ASN,63916 // IPTELECOM Global
 IP-ASN,135158 // Softnet Limited
 IP-ASN,139299 // FGHRSH STUDIO
 IP-ASN,137969 // HONG KONG BRIDGE INFO-TECH LIMITED
-IP-ASN,131274 // Cypresstel Global Network
-IP-ASN,216458 // Hardcore Communication Co., Limited
 IP-ASN,133199 // SonderCloud Limited
+IP-ASN,216458 // Hardcore Communication Co., Limited
 IP-ASN,9908 // HK Cable TV Ltd
+IP-ASN,131274 // Cypresstel Global Network
 IP-ASN,133182 // Running River Network Technology Limited
 IP-ASN,137983 // TIANFENG (HONG KONG) COMMUNICATIONS LIMITED
 IP-ASN,45187 // Rackspace IT Hosting AS IT Hosting Provider Hong Kong
 IP-ASN,7617 // CTM (HK) Limited
-IP-ASN,18013 // ASLINE LIMITED
+IP-ASN,202746 // Europeer Ltd.
 IP-ASN,134548 // DXTL Tseung Kwan O Service
-IP-ASN,63888 // DATAWING LIMITED
 IP-ASN,10098 // Towngas Telecommunications Fixed Network Ltd
+IP-ASN,63888 // DATAWING LIMITED
+IP-ASN,18013 // ASLINE LIMITED
 IP-ASN,9266 // Fiveways International Limited
 IP-ASN,152848 // asdf.hk
+IP-ASN,10222 // Multibyte Info Technology Limited
 IP-ASN,9293 // NTT Com Asia Limited
 IP-ASN,17924 // SmarTone Mobile Communications Ltd
-IP-ASN,10222 // Multibyte Info Technology Limited
 IP-ASN,152918 // Liberally Network LLC
 IP-ASN,10118 // Hutchison Telephone Company Limited
-IP-ASN,7540 // HongKong Commercial Internet Exchange
-IP-ASN,150706 // Hong Kong Zhengxing Technology Co., Ltd.
 IP-ASN,4641 // The Hong Kong Internet Exchange Limited
 IP-ASN,137897 // PAN-LIAN TECHNOLOGY CO., LIMITED
+IP-ASN,150706 // Hong Kong Zhengxing Technology Co., Ltd.
 IP-ASN,132139 // VECLOUD LIMITED
 IP-ASN,63928 // Freecomm Hong Kong Limited
 IP-ASN,138995 // Antbox Networks Limited
 IP-ASN,137816 // Cloud Net Technologies Limited
-IP-ASN,135338 // STARCLOUD INFORMATION LIMITED
 IP-ASN,134835 // Starry Network Limited
 IP-ASN,4760 // HKT Limited
 IP-ASN,151338 // POLONETWORK LIMITED
 IP-ASN,137207 // Joint Universities Computer Centre Limited
+IP-ASN,135338 // STARCLOUD INFORMATION LIMITED
 IP-ASN,142132 // 263 Global Communications Limited
 IP-ASN,134366 // Cloud Computing HK Limited
-IP-ASN,153771 // Heptasky Hong Kong Limited
 IP-ASN,9729 // iAdvantage Limited
 IP-ASN,58779 // i4HK Limited
+IP-ASN,153771 // Heptasky Hong Kong Limited
 IP-ASN,9312 // xTom
 IP-ASN,133527 // HuaBo Technology International Limited
 IP-ASN,24023 // Juniper Networks HK Ltd.
+IP-ASN,137990 // SUNIWAY GROUP LIMITED
+IP-ASN,133077 // 13/F East Wing, Warwick House, Taikoo Place, 979 King's Road, Quarry Bay, Hong Kong
 IP-ASN,59360 // BBIX HONG KONG
 IP-ASN,55355 // ISP
 IP-ASN,135356 // GOIP Secunet Limited
 IP-ASN,134196 // ANYUN INTERNET TECHNOLOGY (HK) CO.,LIMITED
-IP-ASN,133077 // 13/F East Wing, Warwick House, Taikoo Place, 979 King's Road, Quarry Bay, Hong Kong
-IP-ASN,38176 // ABS - Agility Beyond Space
 IP-ASN,3662 // Joint Universities Computer Centre Limited
 IP-ASN,152179 // GLOBAL COMMUNICATION NETWORK LIMITED
 IP-ASN,59371 // Dimension Network & Communication Limited
-IP-ASN,137990 // SUNIWAY GROUP LIMITED
-IP-ASN,150407 // CONINET COMMUNICATION SERVICE CO LIMITED
+IP-ASN,38176 // ABS - Agility Beyond Space
 IP-ASN,138456 // OceanBlue Cloud Technology Limited
+IP-ASN,150407 // CONINET COMMUNICATION SERVICE CO LIMITED
 IP-ASN,56190 // ACME Universal Co.
 IP-ASN,38478 // SunnyVision Limited
 IP-ASN,3661 // The Chinese University of Hong Kong
 IP-ASN,209109 // DataSphere (H.K) Limited
 IP-ASN,17554 // Citic Telecom International (Data) Limited.
+IP-ASN,149042 // Silicon Cloud Global (US)
 IP-ASN,138415 // Yancy Limited
 IP-ASN,4658 // 2012 Limited / Netfront
-IP-ASN,149042 // Silicon Cloud Global (US)
 IP-ASN,141721 // Asia Satellite Telecommunications Co. Ltd.
 IP-ASN,139750 // IDCServices.net Inc
 IP-ASN,133115 // HK Kwaifong Group Limited
@@ -128,13 +127,14 @@ IP-ASN,4594 // Internet Solutions Limited
 IP-ASN,38186 // Forewin Telecom Group Limited, ISP at HK
 IP-ASN,139021 // West263 International Limited
 IP-ASN,138627 // Cato Networks, Inc.
-IP-ASN,133929 // TWOWIN CO., LIMITED
 IP-ASN,132168 // ESUN TECHNOLOGY INTERNATIONAL CO., LIMITED
 IP-ASN,9253 // New Media Group Limited
 IP-ASN,24334 // Cyberport Hong Kong
 IP-ASN,22981 // Raidenlink Limited
 IP-ASN,199073 // IMPLETECH LIMITED
+IP-ASN,139327 // UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 IP-ASN,137443 // ChangLian Network Technology Co., Limited
+IP-ASN,133929 // TWOWIN CO., LIMITED
 IP-ASN,9744 // XLC GLOBAL
 IP-ASN,58944 // Telekomunikasi Indonesia International (HongKong) Limited
 IP-ASN,4646 // SunnyVision Limited
@@ -142,10 +142,10 @@ IP-ASN,45561 // 21/F, Tower 1 Enterprise Square, 9 Sheung Yuet Road, Kowloon Bay
 IP-ASN,23749 // HKCOLO ltd. Internet Service Provider
 IP-ASN,154309 // Intelligent Cloud Limited
 IP-ASN,139659 // LUCIDACLOUD LIMITED
-IP-ASN,139327 // UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 IP-ASN,138571 // SUPERCLOUDS LIMITED
 IP-ASN,134365 // Ansheng Network Technology Co., Limited
 IP-ASN,9263 // HKT Limited
+IP-ASN,7540 // HongKong Commercial Internet Exchange
 IP-ASN,7479 // KDD HONG KONG LIMITED
 IP-ASN,64078 // FLAT/RM 101A 1F
 IP-ASN,55350 // Virtual Switching Consultancy Limited (C/O VXRoutes Ltd)
@@ -159,7 +159,6 @@ IP-ASN,64047 // Viking Telecom Limited
 IP-ASN,55334 // Access Solutions Limited
 IP-ASN,38819 // HKCSL GPRS NETWORK
 IP-ASN,23875 // CSL Limited
-IP-ASN,149014 // bo jing
 IP-ASN,135330 // ADCDATA.COM
 IP-ASN,10032 // BDX DC Services (HK) Limited
 IP-ASN,9536 // Macroview Telecom Limited
@@ -168,7 +167,6 @@ IP-ASN,38166 // Standard Chartered Bank (Hong Kong) Limited.Banking and
 IP-ASN,24545 // 8/F.,Sino Favour Centre ,1 OnYip Street , ChaiWan
 IP-ASN,24449 // Electrical and Mechanical Services Department
 IP-ASN,142007 // Digital HK Kin Chuen Limited
-IP-ASN,140096 // JINX CO., LIMITED
 IP-ASN,135386 // LinkChina Telecom Global Limited.
 IP-ASN,134753 // West Kowloon Cultural District Authority
 IP-ASN,9732 // Digital Policy Office, HKSARG
@@ -176,7 +174,9 @@ IP-ASN,58708 // CRP-HK
 IP-ASN,56195 // 5/F Mei Ah Center
 IP-ASN,38277 // CommuniLink Internet Limited.
 IP-ASN,18218 // HK Science & Technology Parks Corporation
+IP-ASN,149014 // bo jing
 IP-ASN,141167 // AgotoZ HK Limited
+IP-ASN,140096 // JINX CO., LIMITED
 IP-ASN,136574 // Crewish Consultancy Limited
 IP-ASN,135097 // LUOGELANG (FRANCE) LIMITED
 IP-ASN,132252 // 12/F Trans Asia Centre, 18 Kin Hong Street
@@ -194,13 +194,12 @@ IP-ASN,132839 // POWER LINE DATACENTER
 IP-ASN,9516 // SAKURA LINK LIMITED
 IP-ASN,45496 // Intersoft Web Services Limited Internet Service Provider Hong Kong
 IP-ASN,214669 // STARLIGHT TECH TRADING CO., LIMITED
-IP-ASN,213802 // Tianfeng (Hong Kong) Communications Limited
 IP-ASN,152320 // GOALNOW NETWORK TECHNOLOGY CO., LIMITED
 IP-ASN,135273 // NTC ASIA LIMITED
 IP-ASN,133771 // Rapid Shield Company Limited
 IP-ASN,58411 // Unit A-E, 13/F, Golden Sun Centre,
+IP-ASN,213802 // Tianfeng (Hong Kong) Communications Limited
 IP-ASN,202917 // Cigna HLA Technology Services Company Ltd
-IP-ASN,154320 // Arriga International Limited
 IP-ASN,150345 // Proactivity Group Limited
 IP-ASN,135392 // MillenialHost Limited
 IP-ASN,134428 // Edge Cloud Globe Co., Limited
@@ -209,7 +208,6 @@ IP-ASN,58744 // Mirror Tower
 IP-ASN,24247 // PacketFabric (Hong Kong) Limited
 IP-ASN,209642 // Mejiro Network Limited
 IP-ASN,152644 // QINIU Limited
-IP-ASN,148996 // GLOBAL COMMUNICATION NETWORK LIMITED
 IP-ASN,147060 // HCS LIMITED
 IP-ASN,137386 // Child Wisdom Limited
 IP-ASN,136038 // HDTIDC LIMITED
@@ -228,13 +226,12 @@ IP-ASN,212147 // Proactivity Group Limited
 IP-ASN,211443 // SINO WORLDWIDE TRADING LIMITED
 IP-ASN,206888 // HanMing HK Limited
 IP-ASN,203997 // XTDef Limited
-IP-ASN,202662 // Hytron Network Services Limited
-IP-ASN,197196 // PANSTAR CLOUD LIMITED
 IP-ASN,17888 // SingTel Hong Kong Limited
 IP-ASN,153773 // MetaQuotes Ltd
 IP-ASN,150452 // LANDUPS LIMITED
 IP-ASN,150150 // AISANIE DATA SERVICES LIMITED
 IP-ASN,149416 // TIANFENG (HONG KONG) COMMUNICATIONS LIMITED
+IP-ASN,148996 // GLOBAL COMMUNICATION NETWORK LIMITED
 IP-ASN,142135 // TELEGLOBAL COMMUNICATION SERVICES LIMITED
 IP-ASN,141174 // INTELLIGENT CONNECTION LIMITED
 IP-ASN,140595 // YunJie Communication HK Company Limited
@@ -253,6 +250,7 @@ IP-ASN,24544 // Law's Cloud Infrastructure Limited
 IP-ASN,24396 // Bank Of China(Hong Kong) Limited
 IP-ASN,24373 // APNIC ASN block
 IP-ASN,23648 // Tai Fook Securities Group HK
+IP-ASN,219499 // HK ZUNGWAI CLOUD LIMITED
 IP-ASN,214937 // ELEVEN HOLDINGS LIMITED
 IP-ASN,214743 // Cogento Backbone Limited
 IP-ASN,210110 // Kvmcloud Network CO., LIMITED
@@ -260,9 +258,12 @@ IP-ASN,208628 // ChangLian Network Technology Co.,Limited
 IP-ASN,208525 // Airu Limited
 IP-ASN,207190 // YUHONET INTERNATIONAL LIMITED
 IP-ASN,206675 // PAN-LIAN TECHNOLOGY CO., LIMITED
+IP-ASN,202662 // Hytron Network Services Limited
 IP-ASN,202036 // EXTREME COMMUNICATIONS TECHNOLOGY LIMITED
 IP-ASN,198510 // XTDEF-Limited
+IP-ASN,197196 // PANSTAR CLOUD LIMITED
 IP-ASN,17814 // ComNet Telecom International Ltd. AS number.
+IP-ASN,154320 // Arriga International Limited
 IP-ASN,151662 // Sangfor
 IP-ASN,151630 // Yun Zhong Technology Limited
 IP-ASN,150684 // JINX CO., LIMITED
@@ -272,7 +273,6 @@ IP-ASN,142578 // E-Large (HongKong)
 IP-ASN,142267 // Hong Kong Beecloud System Technology Services Limited
 IP-ASN,141159 // Incomparable(HK)Network Co., Limited
 IP-ASN,140591 // HK TESUCH GLOBAL CO., LIMITED
-IP-ASN,139594 // IPv4 Superhub Limited
 IP-ASN,138994 // China International Business Limited
 IP-ASN,138542 // ZT Information Network Co., Limited
 IP-ASN,136493 // Earth Network Technology (HongKong) Co., Limited
@@ -303,14 +303,12 @@ IP-ASN,35820 // G3S Technologies Co., Limited
 IP-ASN,3363 // Hong Kong University of Science and Technology
 IP-ASN,24304 // Arrow Asia Hong Kong AS.
 IP-ASN,24077 // TMHK Global Transit
-IP-ASN,219499 // HK ZUNGWAI CLOUD LIMITED
 IP-ASN,215929 // Data Campus Limited
 IP-ASN,211001 // TTR IT Holdings Limited
 IP-ASN,208932 // Teleglobal Services Limited
 IP-ASN,208259 // AVENSTORE ASSETS CO., LIMITED
 IP-ASN,207075 // FOUNTAINHEAD TECHNOLOGIES LIMITED
 IP-ASN,206922 // Globex Telecom Group Limited
-IP-ASN,205960 // HDTIDC LIMITED
 IP-ASN,205512 // HONG KONG ZHENG XING TECHNOLOGY LIMITED
 IP-ASN,202069 // SAKURA INTERNATIONAL INVESTMENT LIMITED
 IP-ASN,17988 // China Satellite Communications (HongKong) Corporation Limited
@@ -339,6 +337,7 @@ IP-ASN,140723 // EDGE CLOUD (CAMBODIA) CO., LTD
 IP-ASN,140693 // The Walt Disney Company (HK) Ltd
 IP-ASN,140525 // HONG KONG GIGALINK NETWORK LIMITED
 IP-ASN,140214 // Create Prominent Information Limited
+IP-ASN,139594 // IPv4 Superhub Limited
 IP-ASN,137913 // EDISON Global Networks Limited
 IP-ASN,137280 // Kingsoft cloud corporation limited
 IP-ASN,135572 // ACT International Telecom Limited
@@ -353,7 +352,6 @@ IP-ASN,133905 // Layerstack Limited
 IP-ASN,133852 // DBS Bank (Hong Kong) Limited
 IP-ASN,133536 // Macy's Merchandising Group International (Hong Kong) Limited
 IP-ASN,133127 // Federal Express Corporation Hong Kong Branch
-IP-ASN,132883 // TOPWAY GLOBAL LIMITED
 IP-ASN,132813 // HK AISI CLOUD COMPUTING LIMITED
 IP-ASN,132742 // Guochao Group limited
 IP-ASN,132364 // Level 16, Nexxus Buildings
@@ -416,16 +414,13 @@ IP-ASN,212836 // IPv4 Superhub Limited
 IP-ASN,211759 // Miku Network Technology Limited
 IP-ASN,211484 // YSZ TRADING CO., LIMITED
 IP-ASN,207550 // OCLAYER LIMITED
+IP-ASN,205960 // HDTIDC LIMITED
 IP-ASN,2042 // HK Global Cloud DataCenter
 IP-ASN,203144 // Host9x Web Solutions Limited
 IP-ASN,200213 // TAPCOM TECHNOLOGY LIMITED
 IP-ASN,199967 // Think Huge Ltd
 IP-ASN,199707 // HONGKONG XING TONG HUI TECHNOLOGY CO., LIMITED
-IP-ASN,198810 // AIGC MOBILE LIMITED
-IP-ASN,198475 // SAPPOC MEDIA LIMITED
 IP-ASN,197359 // HongKong Melodious Limited
-IP-ASN,197210 // Dust Media Limited
-IP-ASN,197200 // Key Proxy Limited
 IP-ASN,18054 // H Pop Technology Limited
 IP-ASN,17990 // GLOBALNET COMMUNICATION LTD.
 IP-ASN,17824 // Pacific One Net Limited AS number
@@ -436,7 +431,6 @@ IP-ASN,17619 // POWERNETIX
 IP-ASN,17487 // Industrial and Commercial Bank
 IP-ASN,154488 // IoT Innovation Technologies Company Limited
 IP-ASN,154361 // ZGX HK LIMITED
-IP-ASN,154182 // TarekWell Energy Group Limited
 IP-ASN,154162 // ISIF LIMITED
 IP-ASN,153766 // One Link (HK) Technology Co., Limited
 IP-ASN,153757 // IMC NETWORKS LIMITED
@@ -475,14 +469,12 @@ IP-ASN,139734 // XINGCHEN DATA HK CO., LIMITED
 IP-ASN,139613 // HONG KONG LIGHTLAYER TECHNOLOGY CO., LIMITED
 IP-ASN,138648 // ASLINE Global Exchange
 IP-ASN,138576 // CodecCloud (HK) Limited
-IP-ASN,138527 // ADC GROUP CO.,LIMITED
 IP-ASN,138485 // PrimeCredit Limited
 IP-ASN,137992 // KIRKLAND & ELLIS
 IP-ASN,137927 // Automated System (HK) Ltd.
 IP-ASN,137918 // CUHK Medical Centre Limited
 IP-ASN,137857 // NYT Hong Kong Limited
 IP-ASN,137446 // Highspeednet Data Services(Hongkong)Co.,Limited
-IP-ASN,137427 // KIDC LIMITED
 IP-ASN,137405 // KERING ASIA PACIFIC LIMITED
 IP-ASN,136993 // CLOUD VALLEY TECHNOLOGY LIMITED
 IP-ASN,136970 // YISU CLOUD LTD
@@ -509,6 +501,7 @@ IP-ASN,133329 // HONGKONG HUANG SHENG LONG TECHNOLOGY CO.,LIMITED
 IP-ASN,133153 // IPv4 Superhub Limited
 IP-ASN,133054 // Reasonable Software House Limited
 IP-ASN,133027 // i4HK Limited
+IP-ASN,132883 // TOPWAY GLOBAL LIMITED
 IP-ASN,132342 // Fidessa ltd
 IP-ASN,132018 // NATIXIS
 IP-ASN,131994 // Deutsche Bank AG
@@ -554,7 +547,6 @@ IP-ASN,4656 // Tiglion Consultancy Company Limited
 IP-ASN,4645 // HKNet Co. Ltd
 IP-ASN,45855 // AsiaTech Telecom Limited
 IP-ASN,45640 // Suite 1301, Chater House
-IP-ASN,45572 // ABS-Global-SEA
 IP-ASN,45485 // 5th Floor, Lakeside 2
 IP-ASN,45136 // Sonic Point Limited
 IP-ASN,38866 // Mediterranean Shipping Company (Hong Kong) Limited
@@ -571,6 +563,7 @@ IP-ASN,34806 // ASLINE LIMITED
 IP-ASN,24112 // Standard Chartered Bank (Hong Kong) Limited
 IP-ASN,24002 // South China Morning Post Publishers Limited. English
 IP-ASN,219447 // HONG KONG FLASH SPEED LIMITED
+IP-ASN,219410 // Kingstar(HK)Technology Limited
 IP-ASN,219394 // Red Seek Limited
 IP-ASN,219174 // Vectora Systems Limited
 IP-ASN,216411 // GZ REMITTANCE (CHINA) INDUSTRY LIMITED
@@ -597,8 +590,8 @@ IP-ASN,203013 // WEB THREE LIMITED
 IP-ASN,201724 // HCS LIMITED
 IP-ASN,201245 // PZYTA Network Limited
 IP-ASN,200772 // Neburst Limited
-IP-ASN,200221 // Kam Yiu Wong
 IP-ASN,199107 // HONGKONG HUANG SHENG LONG TECHNOLOGY CO., LIMITED
+IP-ASN,198810 // AIGC MOBILE LIMITED
 IP-ASN,198805 // SORAADS LIMITED
 IP-ASN,18293 // Internet content provider
 IP-ASN,17793 // Leisure and Cultural Services Department
@@ -611,6 +604,7 @@ IP-ASN,154615 // UBITECH ASIA LIMITED
 IP-ASN,154602 // BACK WAVES LIMITED
 IP-ASN,154432 // BeeCloud ICT Limited
 IP-ASN,154204 // Shine Effort Inc Limited
+IP-ASN,154182 // TarekWell Energy Group Limited
 IP-ASN,154114 // APEXLINK TECHNOLOGIES LIMITED
 IP-ASN,154107 // DigitalLink Global Network Limited
 IP-ASN,153952 // HongKong XIYE Limited
@@ -619,7 +613,6 @@ IP-ASN,153671 // Liasail Global Hongkong Limited
 IP-ASN,153619 // TechWise (HK) Limited
 IP-ASN,153614 // TechWise (HK) Limited
 IP-ASN,153611 // CLOUD (HK) LIMITED
-IP-ASN,153517 // Ju Link Tech Limited
 IP-ASN,153335 // STARFAX TELECOMMUNICATIONS
 IP-ASN,153193 // SINNET CLOUD HK LIMITED
 IP-ASN,152854 // CONSTRUCTION INDUSTRY COUNCIL
@@ -636,7 +629,6 @@ IP-ASN,151616 // HOSTLINK (HK) LIMITED
 IP-ASN,151492 // E-LINK CLOUD LIMITED
 IP-ASN,151487 // Awesomecloud Limited
 IP-ASN,151419 // LINKLESS COMMUNICATIONS LIMITED
-IP-ASN,151352 // Light Moon Networks Limited
 IP-ASN,151206 // HK CLOUD DATA CO., LIMITED
 IP-ASN,151196 // JunYun Limited
 IP-ASN,151045 // Yae Telecom Limited
@@ -665,7 +657,6 @@ IP-ASN,141759 // HONGKONG XING TONG HUI TECHNOLOGY CO.,LIMITED
 IP-ASN,141756 // MESH INTELLINET LIMITED
 IP-ASN,141475 // CENTERLINK GLOBAL TELECOM LIMITED
 IP-ASN,141444 // Wicked Networks Limited
-IP-ASN,141394 // Kingviews Solutions (Hong Kong) Limited
 IP-ASN,141356 // Universe Action Limited
 IP-ASN,141203 // Sunshine City Networks Security Limited
 IP-ASN,141153 // LCX International Technology Co., Limited
@@ -692,8 +683,8 @@ IP-ASN,138959 // Telekomunikasi Indonesia International (Hong Kong) Limited
 IP-ASN,138921 // EMPEROR INVESTMENT (MANAGEMENT) LIMITED
 IP-ASN,138693 // HK DINGFENG TECHNOLOGY INFORMATION LIMITED
 IP-ASN,138647 // The Hong Kong Academy for Performing Arts
-IP-ASN,138644 // FASTMOS CO., LIMITED
 IP-ASN,138609 // ASLINE LIMITED
+IP-ASN,138527 // ADC GROUP CO.,LIMITED
 IP-ASN,138516 // CommVerge Solutions Limited
 IP-ASN,138449 // SIANG YU SCIENCE AND TECHNOLOGY LIMITED
 IP-ASN,138435 // YuetAu Network
@@ -703,9 +694,9 @@ IP-ASN,137999 // QUINTRON-SYSTEMS-LIMITED
 IP-ASN,137973 // HONG KONG INTERBANK CLEARING LIMITED
 IP-ASN,137951 // ASLINE LIMITED
 IP-ASN,137887 // The Hang Seng University of Hong Kong
+IP-ASN,137427 // KIDC LIMITED
 IP-ASN,137211 // ALTRON DATA LIMITED
 IP-ASN,137196 // Hong Kong Airlines Limited
-IP-ASN,137185 // HK GALAXY TELECOM HOLDING CO.,LIMITED
 IP-ASN,136989 // Hong Kong Cyberport Management Company
 IP-ASN,136933 // Gigabitbank Global
 IP-ASN,136798 // WUZHOUHULIAN INTERNATIONAL CO., LIMITED
@@ -741,7 +732,6 @@ IP-ASN,133926 // Bank of Communications (Hong Kong) Limited
 IP-ASN,133762 // NETWORK JOINT (HK) LIMITED
 IP-ASN,133484 // Tung Wah College Limited
 IP-ASN,133424 // Donghwa Telecom Co., Limited
-IP-ASN,133178 // SAITEIDC Limited
 IP-ASN,133107 // FNETLINK CO .,LIMITED
 IP-ASN,133038 // Exanet Limited
 IP-ASN,132707 // NEXET LIMITED
@@ -762,7 +752,6 @@ IP-ASN,10132 // Towngas Telecommunications Fixed Network Limited
 IP-ASN,10116 // Hutchison Telephone Company Limited
 IP-ASN,60188 // XNNET LIMITED
 IP-ASN,57175 // Tianhai InfoTech Limited
-IP-ASN,55536 // PACSWITCH IP NETWORK
 IP-ASN,48274 // GLOBAL COMMUNICATION NETWORK LIMITED
 IP-ASN,47637 // INFERNA LIMITED
 IP-ASN,38023 // Standard Nekomimi
@@ -770,24 +759,21 @@ IP-ASN,34567 // Next Limited
 IP-ASN,214989 // Hau Kit Wong
 IP-ASN,214216 // HONG KONG NST LABS TECH CO., LIMITED
 IP-ASN,213864 // Lai BaoYuan
-IP-ASN,211931 // Xinye Grass Technology Co., Limited
 IP-ASN,207314 // CHIU NGAI MAN
 IP-ASN,205109 // Dingfeng Xinhui (Hongkong) Technology Limited
+IP-ASN,200221 // Kam Yiu Wong
 IP-ASN,199340 // HONG,GUANWAN
 IP-ASN,154665 // Unusual Networks
 IP-ASN,153663 // SAKURA LINK LIMITED
-IP-ASN,152919 // ICONNECT
 IP-ASN,152112 // CTCSCI TECH LIMITED
 IP-ASN,150413 // Huang Weilong
 IP-ASN,150289 // Sun Yanzheng
 IP-ASN,149500 // Shane Renshaw
-IP-ASN,149285 // Mythra Limited
 IP-ASN,149030 // Chris Chang???s Network
 IP-ASN,147071 // BOCHENG ZOU's  Number
 IP-ASN,147048 // Feiran Qin
 IP-ASN,147047 // Yuet Au Yeung
 IP-ASN,146950 // Haruue Network Limited
-IP-ASN,142641 // Yuze Zhang
 IP-ASN,141712 // APNIC ASN block
 IP-ASN,141237 // Moecast Network
 IP-ASN,141221 // Equinox, aka ekwinox. My favorite time-space coordinate.
@@ -801,5 +787,5 @@ IP-ASN,135515 // NEW POS NETWORK HK LIMITED
 IP-ASN,135373 // EFLY NETWORK LIMITED
 IP-ASN,135309 // Geekzu Networks
 IP-ASN,134666 // Hoshi Network
+IP-ASN,134575 // GreenYun Organization
 IP-ASN,133617 // NetPilot Limited
-IP-ASN,133583 // Digicel Carrier Services (Pacific) Limited
