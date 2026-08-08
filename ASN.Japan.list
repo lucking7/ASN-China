@@ -1,5 +1,5 @@
 // ASN Information in Japan. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-08-07 16:36:57
+// Last Updated: UTC 2026-08-08 16:15:23
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,214675 // Hidenori Matsuo
@@ -24,8 +24,8 @@ IP-ASN,4713 // NTT DOCOMO BUSINESS,Inc.
 IP-ASN,54415 // WIZ K.K.
 IP-ASN,2519 // ARTERIA Networks Corporation
 IP-ASN,9370 // SAKURA Internet Inc.
-IP-ASN,150363 // SoftEther Corporation
 IP-ASN,7679 // QTnet,Inc.
+IP-ASN,150363 // SoftEther Corporation
 IP-ASN,10010 // TOKAI Communications Corporation
 IP-ASN,38631 // LY Corporation
 IP-ASN,55569 // Criteo APAC
@@ -42,17 +42,16 @@ IP-ASN,131948 // FORNEXT Inc.
 IP-ASN,17686 // ACCELIA
 IP-ASN,9993 // ITOCHU Techno-Solutions Corporation
 IP-ASN,7524 // ITEC HANKYU HANSHIN CO.,LTD.
+IP-ASN,7506 // GMO Internet Group, Inc.
 IP-ASN,18282 // Tonami System Solutions Co., Ltd.
 IP-ASN,9997 // Suzuka Cable Co.,Ltd
+IP-ASN,9607 // BroadBand Tower, Inc.
 IP-ASN,9595 // NTT-ME Corporation
-IP-ASN,7506 // GMO Internet Group, Inc.
 IP-ASN,4685 // Asahi Net
 IP-ASN,18077 // Yamaguchi Cable Vision Co.,Ltd
 IP-ASN,138968 // rainbow network limited
 IP-ASN,9824 // JCOM Co., Ltd.
-IP-ASN,9607 // BroadBand Tower, Inc.
 IP-ASN,2527 // Sony Network Communications Inc.
-IP-ASN,7530 // BroadBand Tower, Inc.
 IP-ASN,45691 // DODO K.K.
 IP-ASN,18260 // EHIME CATV CO.,LTD.
 IP-ASN,18126 // Chubu Telecommunications Company, Inc.
@@ -60,6 +59,7 @@ IP-ASN,18081 // Kintetsu Cable Network Co., Ltd.
 IP-ASN,10000 // Nagasaki Cable Media Inc.
 IP-ASN,9622 // Kurashiki Cable TV
 IP-ASN,7687 // TOYOTA SYSTEMS CORPORATION
+IP-ASN,7530 // BroadBand Tower, Inc.
 IP-ASN,4694 // IDC Frontier Inc.
 IP-ASN,24284 // CyberAgent, Inc.
 IP-ASN,17939 // miyazaki cabletelevision network Co.,LTD
