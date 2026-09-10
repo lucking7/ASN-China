@@ -1,5 +1,5 @@
 // ASN Information in Hong Kong. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-09-09 18:52:50
+// Last Updated: UTC 2026-09-10 18:42:46
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,63927 // RISE
@@ -405,6 +405,7 @@ IP-ASN,23709 // Internet Systems Consortium, Inc.
 IP-ASN,219476 // App Studios Limited
 IP-ASN,219376 // Hidden Dog Limited
 IP-ASN,219345 // Hidden Dog Limited
+IP-ASN,218853 // Brightwave Digital Solutions Limited
 IP-ASN,215081 // Cheuk Wang Wu trading as Zesty Technologies
 IP-ASN,213766 // KAAL TECH CO., LIMITED
 IP-ASN,213347 // HongKong IRAY Technology Co., Ltd.
@@ -569,11 +570,15 @@ IP-ASN,219410 // Kingstar(HK)Technology Limited
 IP-ASN,219394 // Red Seek Limited
 IP-ASN,219393 // Deep Blue Edge Limited
 IP-ASN,219182 // AdPassword Limited
+IP-ASN,219100 // OPENADS LIMITED
 IP-ASN,219075 // VSEEK LIMITED
 IP-ASN,219071 // UPUP TECHNOLOGY LIMITED
 IP-ASN,219068 // Core Network Technologies Limited
+IP-ASN,219057 // Viloonmobi Limited
+IP-ASN,219053 // HongKong Serene Limited
 IP-ASN,218968 // NovaLink Integrated Networks Limited
 IP-ASN,218955 // LOCKLINE NETWORKS LIMITED
+IP-ASN,218915 // OpenSky Cloud Infrastructure Limited
 IP-ASN,218785 // TC DATACENTER LIMITED
 IP-ASN,216411 // GZ REMITTANCE (CHINA) INDUSTRY LIMITED
 IP-ASN,216101 // Homura Network Limited
