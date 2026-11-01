@@ -1,5 +1,5 @@
 // ASN Information in US. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-10-31 19:35:34
+// Last Updated: UTC 2026-11-01 19:54:54
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,6939 // Hurricane Electric LLC
@@ -34,7 +34,7 @@ IP-ASN,293 // ESnet
 IP-ASN,4181 // TDS TELECOM
 IP-ASN,53828 // NETWORK INNOVATIONS, LLC
 IP-ASN,19551 // Incapsula Inc
-IP-ASN,201398 // BRYSON GUWIN
+IP-ASN,201398 // Guwin Universal Services LLC
 IP-ASN,16509 // Amazon.com, Inc.
 IP-ASN,54113 // Fastly, Inc.
 IP-ASN,53597 // Hoyos Consulting LLC
@@ -6897,7 +6897,6 @@ IP-ASN,20474 // NCI Data.com, Inc.
 IP-ASN,20467 // Baylor Health Care System
 IP-ASN,20466 // WGBH Educational Foundation
 IP-ASN,20460 // TFB NET
-IP-ASN,204464 // NextServ LLC
 IP-ASN,20426 // PriceWaterhouseCoopers, LLP
 IP-ASN,20421 // First Technology Federal Credit Union
 IP-ASN,20419 // DMR Communications Inc.
@@ -13803,7 +13802,6 @@ IP-ASN,4954 // Carroll County Government
 IP-ASN,49466 // Klayer LLC
 IP-ASN,4940 // IAP World Service Inc
 IP-ASN,4923 // SCF
-IP-ASN,49187 // YOUTHIDC LLC
 IP-ASN,4912 // CENTIER BANK
 IP-ASN,4911 // CenturyLink Communications, LLC
 IP-ASN,4892 // APPLIED SYSTEMS, INC
@@ -19094,7 +19092,6 @@ IP-ASN,200360 // Cooper Greer
 IP-ASN,200332 // Nolan Trapp
 IP-ASN,200329 // Monil Chheda
 IP-ASN,200085 // WeilNet, LLC
-IP-ASN,199746 // NextServ LLC
 IP-ASN,199465 // FeiYa Network LTD.
 IP-ASN,199018 // Xkrme Network LLC
 IP-ASN,198804 // Rishi Ram Panthee
