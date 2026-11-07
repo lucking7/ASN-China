@@ -1,5 +1,5 @@
 // ASN Information in US. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-11-06 21:06:58
+// Last Updated: UTC 2026-11-07 19:41:13
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,6939 // Hurricane Electric LLC
@@ -1574,6 +1574,7 @@ IP-ASN,6368 // Northwestern Indiana Telephone Co.
 IP-ASN,63027 // Lanicom, LLC
 IP-ASN,62553 // Elcro Digital Services, LLC
 IP-ASN,567 // Los Nettos
+IP-ASN,55286 // B2 Net Solutions Inc.
 IP-ASN,54613 // Converted Networks LLC
 IP-ASN,54363 // Baker Hughes Holdings LLC
 IP-ASN,54240 // Syndeo Networks, Inc
