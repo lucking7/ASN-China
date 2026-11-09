@@ -1,5 +1,5 @@
 // ASN Information in US. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-11-08 20:00:11
+// Last Updated: UTC 2026-11-09 23:52:15
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,6939 // Hurricane Electric LLC
@@ -1667,7 +1667,7 @@ IP-ASN,15224 // Adobe Inc.
 IP-ASN,15113 // Harman International Industries Inc.
 IP-ASN,14740 // Magna5 MS LLC
 IP-ASN,14327 // Portland General Electric Company
-IP-ASN,13781 // Hopkinsville Electric System
+IP-ASN,13781 // Hopkinsville Electric System energynet
 IP-ASN,13628 // AMERISOURCEBERGEN
 IP-ASN,122 // UPMC
 IP-ASN,12087 // Salsgiver, Inc.
@@ -5499,7 +5499,7 @@ IP-ASN,399081 // Centranet, LLC
 IP-ASN,399080 // EquiLend Holdings LLC
 IP-ASN,399073 // BUNNY TECHNOLOGY LLC
 IP-ASN,399071 // Bellin Memorial Hospital, Inc.
-IP-ASN,399053 // Ent Credit Union
+IP-ASN,399053 // Wings Credit Union
 IP-ASN,399037 // FOCUS Brands
 IP-ASN,399036 // Xigent Solutions, LLC
 IP-ASN,399033 // VARCOMM BROADBAND, INC.
@@ -15069,7 +15069,7 @@ IP-ASN,399091 // Inter Data Link Inc
 IP-ASN,399079 // Linctel Communications Inc.
 IP-ASN,399069 // PENGUIN COMPUTING INC
 IP-ASN,399059 // Roundabout Entertainment Inc.
-IP-ASN,399056 // Ent Credit Union
+IP-ASN,399056 // Wings Credit Union
 IP-ASN,399051 // ALLSTATE SECURITY INDUSTRIES, INC.
 IP-ASN,399050 // Rowan-Cabarrus Community College
 IP-ASN,399043 // Puyallup Tribe of Indians
