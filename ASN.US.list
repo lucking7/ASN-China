@@ -1,5 +1,5 @@
 // ASN Information in US. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-11-12 21:56:08
+// Last Updated: UTC 2026-11-13 21:41:06
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,6939 // Hurricane Electric LLC
@@ -960,7 +960,7 @@ IP-ASN,54665 // North Georgia Network Cooperative, Inc.
 IP-ASN,53591 // Ytel, Inc.
 IP-ASN,46353 // Intermax Networks
 IP-ASN,40805 // JMF Solutions, Inc
-IP-ASN,40731 // Latin IP LLC
+IP-ASN,40731 // BICENTEL, LLC
 IP-ASN,40501 // SoundStack Technologies, LLC
 IP-ASN,40350 // Key Cooperative
 IP-ASN,40237 // United Telephone Company
@@ -2247,6 +2247,7 @@ IP-ASN,3955 // Compucom Systems
 IP-ASN,395487 // Accretive Networks
 IP-ASN,395483 // Advisors Asset Management, Inc.
 IP-ASN,395415 // Quiktrip Corporation
+IP-ASN,395270 // Oregon Steel Mills LLC
 IP-ASN,395226 // Sacramento County Office of Education
 IP-ASN,395189 // BROADRIDGE SECURITIES PROCESSING SOLUTIONS, LLC
 IP-ASN,395092 // Shock Hosting LLC
