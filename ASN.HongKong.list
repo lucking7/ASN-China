@@ -1,5 +1,5 @@
 // ASN Information in Hong Kong. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-11-13 21:41:07
+// Last Updated: UTC 2026-11-14 20:10:17
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,63927 // RISE
@@ -309,7 +309,7 @@ IP-ASN,207075 // FOUNTAINHEAD TECHNOLOGIES LIMITED
 IP-ASN,206922 // Globex Telecom Group Limited
 IP-ASN,205512 // HONG KONG ZHENG XING TECHNOLOGY LIMITED
 IP-ASN,203997 // XTDef Limited
-IP-ASN,202069 // SAKURA INTERNATIONAL INVESTMENT LIMITED
+IP-ASN,202069 // Sakura Communications Limited
 IP-ASN,199707 // HONGKONG XING TONG HUI TECHNOLOGY CO., LIMITED
 IP-ASN,17988 // China Satellite Communications (HongKong) Corporation Limited
 IP-ASN,17975 // AS # for peering purpose with IX and ISP.
@@ -573,7 +573,6 @@ IP-ASN,219393 // Deep Blue Edge Limited
 IP-ASN,219182 // AdPassword Limited
 IP-ASN,219100 // OPENADS LIMITED
 IP-ASN,219075 // VSEEK LIMITED
-IP-ASN,219071 // UPUP TECHNOLOGY LIMITED
 IP-ASN,219068 // Core Network Technologies Limited
 IP-ASN,219057 // Viloonmobi Limited
 IP-ASN,219053 // HongKong Serene Limited
