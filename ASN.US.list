@@ -1,5 +1,5 @@
 // ASN Information in US. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-11-15 20:36:53
+// Last Updated: UTC 2026-11-16 23:52:14
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,6939 // Hurricane Electric LLC
@@ -148,6 +148,7 @@ IP-ASN,3737 // PenTeleData Inc.
 IP-ASN,22616 // ZSCALER, INC.
 IP-ASN,14789 // Cloudflare, Inc.
 IP-ASN,396356 // Latitude.sh
+IP-ASN,15164 // Unite Private Networks LLC.
 IP-ASN,64289 // Macarne.com
 IP-ASN,19653 // CTS Communications Corp
 IP-ASN,26464 // Joyent, Inc.
@@ -293,7 +294,7 @@ IP-ASN,101 // University of Washington
 IP-ASN,62943 // Missouri Network Alliance, LLC
 IP-ASN,33132 // Zayo Bandwidth
 IP-ASN,11351 // Charter Communications Inc
-IP-ASN,400317 // GoldConnect
+IP-ASN,400317 // Orchest Technologies
 IP-ASN,399668 // e-planning
 IP-ASN,35985 // One Ring Networks, Inc.
 IP-ASN,33659 // Comcast Cable Communications, LLC
@@ -548,7 +549,7 @@ IP-ASN,20141 // Quality Technology Services, LLC
 IP-ASN,16839 // SERVICENOW, INC.
 IP-ASN,14978 // Consolidated Smart Systems LLC
 IP-ASN,14371 // Paul Bunyan Communications
-IP-ASN,14277 // GiGstreem
+IP-ASN,14277 // Gigstreem
 IP-ASN,11979 // Bluegrass Network LLC
 IP-ASN,11767 // Quality Technology Services, LLC
 IP-ASN,77 // Johns Hopkins University Applied Physics Laboratory
