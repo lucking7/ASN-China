@@ -1,5 +1,5 @@
 // ASN Information in US. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-11-16 23:52:14
+// Last Updated: UTC 2026-11-17 23:11:21
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,6939 // Hurricane Electric LLC
@@ -5104,7 +5104,7 @@ IP-ASN,46655 // ALIGN Inc.
 IP-ASN,46654 // O'Charleys Inc.
 IP-ASN,46653 // Fredrikson & Byron, P.A.
 IP-ASN,46644 // Social Blade LLC
-IP-ASN,46635 // Contact Consumers
+IP-ASN,46635 // AviationAI
 IP-ASN,46588 // CDW
 IP-ASN,46587 // Cerberus Capital Management LP
 IP-ASN,46575 // Washington Suburban Sanitary Commission
@@ -8525,7 +8525,6 @@ IP-ASN,4473 // AT&T Enterprises, LLC
 IP-ASN,4468 // AT&T Enterprises, LLC
 IP-ASN,4454 // State of Tennessee
 IP-ASN,4451 // 1199SEIU National Benefit Funds
-IP-ASN,4445 // Vodafone Americas
 IP-ASN,44382 // Fiba Cloud Operation Company, LLC
 IP-ASN,4393 // Meredith Corp.
 IP-ASN,43685 // Peaktera Holdings Corporation
@@ -9038,7 +9037,7 @@ IP-ASN,400621 // Yuma Union High School District #70
 IP-ASN,400615 // Data Canopy Colocation, LLC
 IP-ASN,400609 // Loophole Labs, Inc.
 IP-ASN,400608 // Bhp Billiton Petroleum (deepwater) Inc.
-IP-ASN,400605 // HCH Transportation Advisors, Inc.
+IP-ASN,400605 // HCH Transportation Advisors, LLC
 IP-ASN,400595 // 281 Communications Corporation Inc.
 IP-ASN,40059 // Community Blood Center
 IP-ASN,400589 // LTC Connect
@@ -17512,7 +17511,6 @@ IP-ASN,21912 // Pacific Terrace Hotel
 IP-ASN,219106 // Voximplant, Inc.
 IP-ASN,219085 // GOLDWY LEAF GLOBAL INC
 IP-ASN,219082 // Bough Limited
-IP-ASN,219076 // DWERGH UNHFGSD INC
 IP-ASN,21907 // Southern Data Center
 IP-ASN,219051 // X Next Digital LLC
 IP-ASN,219023 // XELXVEX GLDOBAL INC
@@ -17587,7 +17585,6 @@ IP-ASN,215367 // LENIN JABIB RAMIREZ
 IP-ASN,21531 // Quantum Leap Research LLC
 IP-ASN,21530 // Fiserv Solutions, LLC
 IP-ASN,215069 // Office of Consensus Maintenance LLC
-IP-ASN,214828 // StarLight Network, Inc.
 IP-ASN,214696 // Uncollapse LLC
 IP-ASN,214691 // Timothy McDaniel
 IP-ASN,214478 // Sakura Clouds LLC
