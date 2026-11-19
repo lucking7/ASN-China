@@ -1,5 +1,5 @@
 // ASN Information in US. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2026-11-18 22:43:12
+// Last Updated: UTC 2026-11-19 22:46:48
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,6939 // Hurricane Electric LLC
@@ -17599,6 +17599,7 @@ IP-ASN,213912 // International Mediabay Alliance, LLC
 IP-ASN,213801 // Nathan Moore
 IP-ASN,213570 // ROWENIX DIGITAL SOLUTIONS LLC
 IP-ASN,213510 // Eric Johnson
+IP-ASN,213495 // SERVITRO LTD
 IP-ASN,213370 // Netomat LLC
 IP-ASN,21313 // VeriSign Inc.
 IP-ASN,213 // Headquarters, USAISC
@@ -17812,7 +17813,6 @@ IP-ASN,19695 // Dyfend LLC
 IP-ASN,19683 // Foren Data, Inc.
 IP-ASN,19682 // TeleFlex Networks, LLC
 IP-ASN,19669 // Steel City Signal
-IP-ASN,196629 // Antipov Oleg
 IP-ASN,19656 // Lehigh Secure Data LLC
 IP-ASN,19640 // Stronghold Data LLC
 IP-ASN,19636 // FORMFACTOR, INC
